@@ -1,0 +1,374 @@
+{
+ "years": [
+  2023,
+  2024,
+  2025
+ ],
+ "sharedSuppliers": 896,
+ "sharedSum": {
+  "kangasala": 142714122.99,
+  "ylojarvi": 110506059.15
+ },
+ "top": [
+  {
+   "id": "0211675-2",
+   "name": "Tampereen kaupunki",
+   "kangasala": 19255932.69,
+   "ylojarvi": 13490810.29
+  },
+  {
+   "id": "0246246-0",
+   "name": "Kansaneläkelaitos",
+   "kangasala": 12326407.38,
+   "ylojarvi": 10421051.19
+  },
+  {
+   "id": "0172688-2",
+   "name": "Lujatalo Oy",
+   "kangasala": 16917790.8,
+   "ylojarvi": 4998.06
+  },
+  {
+   "id": "1701683-4",
+   "name": "Kuntarahoitus Oyj",
+   "kangasala": 6795754.33,
+   "ylojarvi": 8081480.49
+  },
+  {
+   "id": "2704961-3",
+   "name": "Touhula Nauru Oy",
+   "kangasala": 4904707.91,
+   "ylojarvi": 9611789.83
+  },
+  {
+   "id": "0112305-3",
+   "name": "Nordea Rahoitus Suomi Oy",
+   "kangasala": 3854641.65,
+   "ylojarvi": 3023389.83
+  },
+  {
+   "id": "1769203-1",
+   "name": "Elintarviketukku Rikainen Oy",
+   "kangasala": 2867763.79,
+   "ylojarvi": 3823730.59
+  },
+  {
+   "id": "2038931-6",
+   "name": "Lumme Energia Oy",
+   "kangasala": 2504650.35,
+   "ylojarvi": 2927905.33
+  },
+  {
+   "id": "0110031-0",
+   "name": "Storia Oy",
+   "kangasala": 2209148.15,
+   "ylojarvi": 2325855.24
+  },
+  {
+   "id": "3001882-6",
+   "name": "Elenia Verkko Oyj",
+   "kangasala": 3241477.3,
+   "ylojarvi": 1016732.8
+  },
+  {
+   "id": "0756091-6",
+   "name": "TerraWise Oy",
+   "kangasala": 3546861.69,
+   "ylojarvi": 135242.3
+  },
+  {
+   "id": "1840113-6",
+   "name": "Pilke päiväkodit Oy",
+   "kangasala": 3563001.65,
+   "ylojarvi": 114319.03
+  },
+  {
+   "id": "0153791-8",
+   "name": "Tampereen Energia Oy",
+   "kangasala": 328035.13,
+   "ylojarvi": 3290531.76
+  },
+  {
+   "id": "1964167-6",
+   "name": "Infra Kiri Oy",
+   "kangasala": 1854625.02,
+   "ylojarvi": 1318009.97
+  },
+  {
+   "id": "2450787-7",
+   "name": "Päiväkoti Oravametsä Oy",
+   "kangasala": 2991477.95,
+   "ylojarvi": 66935.73
+  },
+  {
+   "id": "0154972-4",
+   "name": "Tampereen Autokuljetus Oy",
+   "kangasala": 1470.1,
+   "ylojarvi": 2918286.21
+  },
+  {
+   "id": "2592490-4",
+   "name": "Kangasala-talo Oy",
+   "kangasala": 2816085.95,
+   "ylojarvi": 117.36
+  },
+  {
+   "id": "0101197-5",
+   "name": "Ramboll Finland Oy",
+   "kangasala": 2364746.91,
+   "ylojarvi": 311053.36
+  },
+  {
+   "id": "1093863-3",
+   "name": "Suomen Terveystalo Oy",
+   "kangasala": 326.88,
+   "ylojarvi": 2610986.31
+  },
+  {
+   "id": "3381716-4",
+   "name": "Tampereen Vesi Oy",
+   "kangasala": 2481590.02,
+   "ylojarvi": 5138.2
+  },
+  {
+   "id": "2163026-3",
+   "name": "Destia Oy",
+   "kangasala": 2327814.09,
+   "ylojarvi": 59312.91
+  },
+  {
+   "id": "0933206-0",
+   "name": "Turtolan Kaivin Oy",
+   "kangasala": 558776.27,
+   "ylojarvi": 1735803.59
+  },
+  {
+   "id": "1475607-9",
+   "name": "Telia Finland Oyj",
+   "kangasala": 1135703.77,
+   "ylojarvi": 1055922.19
+  },
+  {
+   "id": "3296940-6",
+   "name": "Tietoevry Tech Services Finland Oy",
+   "kangasala": 1157536.17,
+   "ylojarvi": 965922.66
+  },
+  {
+   "id": "2452505-5",
+   "name": "Pihlajalinna Lääkärikeskukset Oy",
+   "kangasala": 2048200.75,
+   "ylojarvi": 4832.6
+  },
+  {
+   "id": "0794279-7",
+   "name": "Lämpöpuisto Oy",
+   "kangasala": 72862.79,
+   "ylojarvi": 1911867.23
+  },
+  {
+   "id": "9063064-6",
+   "name": "Yhtymä-Tahlo Oy",
+   "kangasala": 618.75,
+   "ylojarvi": 1952988.1
+  },
+  {
+   "id": "1628390-6",
+   "name": "Rudus Oy",
+   "kangasala": 72652.44,
+   "ylojarvi": 1862986.85
+  },
+  {
+   "id": "1546343-8",
+   "name": "Lekolar-Printel Oy",
+   "kangasala": 1708768.22,
+   "ylojarvi": 216973.2
+  },
+  {
+   "id": "0116297-6",
+   "name": "Valio Oy",
+   "kangasala": 721823.14,
+   "ylojarvi": 906580.28
+  },
+  {
+   "id": "0214461-4",
+   "name": "Tampereen Nuorten Miesten Kristillinen Yhdistys r.y.",
+   "kangasala": 558809.22,
+   "ylojarvi": 868801.5
+  },
+  {
+   "id": "1868273-2",
+   "name": "KV-Group Oy",
+   "kangasala": 565648.98,
+   "ylojarvi": 821799.98
+  },
+  {
+   "id": "0152084-1",
+   "name": "Pirkkalan kunta",
+   "kangasala": 77347.95,
+   "ylojarvi": 1293293.5
+  },
+  {
+   "id": "2905627-8",
+   "name": "Verkanappulat Oy",
+   "kangasala": 7654.5,
+   "ylojarvi": 1334224.05
+  },
+  {
+   "id": "3220764-7",
+   "name": "Epassi Finland Oy",
+   "kangasala": 689410.77,
+   "ylojarvi": 615826.57
+  },
+  {
+   "id": "0357502-9",
+   "name": "CGI Suomi Oy",
+   "kangasala": 229819.59,
+   "ylojarvi": 1071362.24
+  },
+  {
+   "id": "2889709-1",
+   "name": "Adapteo Finland Oy",
+   "kangasala": 102960.63,
+   "ylojarvi": 1191476.33
+  },
+  {
+   "id": "0597382-1",
+   "name": "Yellow Service Oy Grönroos",
+   "kangasala": 736454.25,
+   "ylojarvi": 521317.57
+  },
+  {
+   "id": "0828308-4",
+   "name": "Pirkanmaan liitto",
+   "kangasala": 764892.76,
+   "ylojarvi": 413912.57
+  },
+  {
+   "id": "3317625-6",
+   "name": "Pimara Kunnossapito Oy",
+   "kangasala": 80509.0,
+   "ylojarvi": 1069754.78
+  },
+  {
+   "id": "0968008-1",
+   "name": "Pirkanmaan Jätehuolto Oy",
+   "kangasala": 565416.14,
+   "ylojarvi": 552740.51
+  },
+  {
+   "id": "2471640-9",
+   "name": "Tonin Taksi & Bussi Oy",
+   "kangasala": 1056189.35,
+   "ylojarvi": 52547.46
+  },
+  {
+   "id": "0919156-0",
+   "name": "Atea Finland Oy",
+   "kangasala": 670778.89,
+   "ylojarvi": 404202.66
+  },
+  {
+   "id": "2487661-3",
+   "name": "MV-Jäähdytys Oy",
+   "kangasala": 382892.54,
+   "ylojarvi": 594661.63
+  },
+  {
+   "id": "2362180-3",
+   "name": "Kuntien Tiera Oy",
+   "kangasala": 855903.87,
+   "ylojarvi": 108519.24
+  },
+  {
+   "id": "3317621-3",
+   "name": "Pimara Maanrakennus Oy",
+   "kangasala": 888049.24,
+   "ylojarvi": 74567.87
+  },
+  {
+   "id": "0114901-8",
+   "name": "Schneider Electric Finland Oy",
+   "kangasala": 918366.64,
+   "ylojarvi": 35883.0
+  },
+  {
+   "id": "0533755-0",
+   "name": "Alisa Pankki Oyj",
+   "kangasala": 721263.75,
+   "ylojarvi": 188440.0
+  },
+  {
+   "id": "2977551-2",
+   "name": "Peab Industri Oy",
+   "kangasala": 854692.13,
+   "ylojarvi": 6451.2
+  },
+  {
+   "id": "0114931-7",
+   "name": "Canon Oy",
+   "kangasala": 446602.06,
+   "ylojarvi": 411991.77
+  },
+  {
+   "id": "0201124-8",
+   "name": "St1 Oy",
+   "kangasala": 181180.2,
+   "ylojarvi": 665527.3
+  },
+  {
+   "id": "0205717-4",
+   "name": "Nokian kaupunki",
+   "kangasala": 185831.42,
+   "ylojarvi": 596380.19
+  },
+  {
+   "id": "1071207-9",
+   "name": "Onninen Oy",
+   "kangasala": 452714.7,
+   "ylojarvi": 325121.58
+  },
+  {
+   "id": "2335445-0",
+   "name": "Sitowise Oy",
+   "kangasala": 559976.73,
+   "ylojarvi": 210419.69
+  },
+  {
+   "id": "0816444-8",
+   "name": "Electrolux Professional Oy",
+   "kangasala": 733068.56,
+   "ylojarvi": 32982.95
+  },
+  {
+   "id": "2938704-2",
+   "name": "Pirkanmaan Voimia Oy",
+   "kangasala": 654.7,
+   "ylojarvi": 763945.1
+  },
+  {
+   "id": "0625905-6",
+   "name": "AFRY Finland Oy",
+   "kangasala": 645987.42,
+   "ylojarvi": 106712.05
+  },
+  {
+   "id": "1841342-8",
+   "name": "Consti Talotekniikka Oy",
+   "kangasala": 703575.71,
+   "ylojarvi": 23949.09
+  },
+  {
+   "id": "0904784-1",
+   "name": "Kattotutka Oy",
+   "kangasala": 493243.06,
+   "ylojarvi": 211464.82
+  },
+  {
+   "id": "2575744-8",
+   "name": "Tevella Oy",
+   "kangasala": 548641.88,
+   "ylojarvi": 148329.92
+  }
+ ]
+}

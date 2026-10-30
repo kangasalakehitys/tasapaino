@@ -1,0 +1,281 @@
+{
+ "set": "KKTR",
+ "source": "taulukkomalli-KKTR_2019-v10-kktr_gaap_ind_20260529_080456.xlsx",
+ "tables": {
+  "k-t02": {
+   "title": "Kunnan ja kuntayhtymän tilinpäätöksen rahoituslaskelma",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Toiminnan rahavirta",
+     "ids": {
+      "C0010": "1541"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Vuosikate",
+     "ids": {
+      "C0010": "1400"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Satunnaiset erät (tuotot +, kulut -)",
+     "ids": {
+      "C0010": "1164"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Tulorahoituksen korjauserät",
+     "ids": {
+      "C0010": "1525"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Investointien rahavirta",
+     "ids": {
+      "C0010": "1347"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Investointimenot",
+     "ids": {
+      "C0010": "1374"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Rahoitusosuudet investointimenoihin",
+     "ids": {
+      "C0010": "1362"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Pysyvien vastaavien hyödykkeiden luovutustulot",
+     "ids": {
+      "C0010": "1001"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Toiminnan ja investointien rahavirta",
+     "ids": {
+      "C0010": "967"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Antolainauksen muutokset (vähennys +, lisäys -,)",
+     "ids": {
+      "C0010": "950"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Antolainasaamisten lisäys",
+     "ids": {
+      "C0010": "930"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Antolainasaamisten vähennys",
+     "ids": {
+      "C0010": "1058"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Lainakannan muutokset (lisäys +, vähennys -)",
+     "ids": {
+      "C0010": "1199"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Pitkäaikaisten lainojen lisäys",
+     "ids": {
+      "C0010": "1185"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Pitkäaikaisten lainojen vähennys",
+     "ids": {
+      "C0010": "1221"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Lyhytaikaisten lainojen muutos (lisäys +, vähennys -)",
+     "ids": {
+      "C0010": "1209"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Lyhytaikaisten lainojen lisäys",
+     "ids": {
+      "C0010": "1572"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Lyhytaikaisten lainojen vähennys",
+     "ids": {
+      "C0010": "1561"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Oman pääoman muutokset (lisäys +, vähennykset -)",
+     "ids": {
+      "C0010": "1025"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Oman pääoman lisäys",
+     "ids": {
+      "C0010": "1597"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "Oman pääoman vähennys",
+     "ids": {
+      "C0010": "1695"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Muut maksuvalmiuden muutokset",
+     "ids": {
+      "C0010": "1005"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "Toimeksiantojen varojen ja pääomien muutokset (lisäys +, vähennys -)",
+     "ids": {
+      "C0010": "929"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Toimeksiantojen varojen ja pääomien lisäys",
+     "ids": {
+      "C0010": "1683"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "Toimeksiantojen varojen ja pääomien vähennys",
+     "ids": {
+      "C0010": "1732"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "Vaihto-omaisuuden muutos",
+     "ids": {
+      "C0010": "919"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "Saamisten muutos",
+     "ids": {
+      "C0010": "899"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Korottomien velkojen muutos",
+     "ids": {
+      "C0010": "877"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Rahoituksen rahavirta",
+     "ids": {
+      "C0010": "1290"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Rahavarojen muutos",
+     "ids": {
+      "C0010": "1000"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "Rahavarat 31.12.",
+     "ids": {
+      "C0010": "1456"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "Rahavarat 1.1.",
+     "ids": {
+      "C0010": "47"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

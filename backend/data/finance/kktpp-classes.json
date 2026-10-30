@@ -1,0 +1,287 @@
+{
+  "year": 2025,
+  "updated": "2026-09-30T15:16:00.420Z",
+  "source": "KKTPP",
+  "classes": [
+    {
+      "code": "x3051",
+      "rank": 1,
+      "name": "Perusopetus",
+      "slug": "perusopetus",
+      "total": 4895681924.200002
+    },
+    {
+      "code": "x3021",
+      "rank": 2,
+      "name": "Päiväkotitoiminta",
+      "slug": "paivakotitoiminta",
+      "total": 2802694361.63
+    },
+    {
+      "code": "x5352",
+      "rank": 3,
+      "name": "Tilavuokrauspalvelut",
+      "slug": "tilavuokrauspalvelut",
+      "total": 2158593141.47
+    },
+    {
+      "code": "x5501",
+      "rank": 4,
+      "name": "Tukipalvelu",
+      "slug": "tukipalvelu",
+      "total": 2108899057.9899995
+    },
+    {
+      "code": "x5569",
+      "rank": 5,
+      "name": "Työllisyyspalvelut ja kotoutumisen palvelut yhteensä",
+      "slug": "tyollisyyspalvelut-ja-kotoutumisen-palvelut-yhteensa",
+      "total": 1660601071.2199998
+    },
+    {
+      "code": "x6301",
+      "rank": 6,
+      "name": "Joukkoliikenne ja muut liikkumisen palvelut",
+      "slug": "joukkoliikenne-ja-muut-liikkumisen-palvelut",
+      "total": 1216401091.9599998
+    },
+    {
+      "code": "x4601",
+      "rank": 7,
+      "name": "Kadut ja yleiset alueet",
+      "slug": "kadut-ja-yleiset-alueet",
+      "total": 746695457.5999999
+    },
+    {
+      "code": "x3101",
+      "rank": 8,
+      "name": "Lukiokoulutus",
+      "slug": "lukiokoulutus",
+      "total": 689546089.5600001
+    },
+    {
+      "code": "x3551",
+      "rank": 9,
+      "name": "Liikunta- ja ulkoilupalvelut",
+      "slug": "liikunta-ja-ulkoilupalvelut",
+      "total": 488072057.2699997
+    },
+    {
+      "code": "x1101",
+      "rank": 10,
+      "name": "Yleishallintopalvelut",
+      "slug": "yleishallintopalvelut",
+      "total": 427888712.1199999
+    },
+    {
+      "code": "x3041",
+      "rank": 11,
+      "name": "Esiopetus",
+      "slug": "esiopetus",
+      "total": 326559728.53999996
+    },
+    {
+      "code": "x3151",
+      "rank": 12,
+      "name": "Ammatillinen koulutus, valtionosuusrahoitus",
+      "slug": "ammatillinen-koulutus-valtionosuusrahoitus",
+      "total": 318662128.78000003
+    },
+    {
+      "code": "x3023",
+      "rank": 13,
+      "name": "Muu varhaiskasvatus",
+      "slug": "muu-varhaiskasvatus",
+      "total": 298243524.3600001
+    },
+    {
+      "code": "x3501",
+      "rank": 14,
+      "name": "Kirjastopalvelut",
+      "slug": "kirjastopalvelut",
+      "total": 271632440.2999999
+    },
+    {
+      "code": "x5551",
+      "rank": 15,
+      "name": "Elinkeinojen edistäminen",
+      "slug": "elinkeinojen-edistaminen",
+      "total": 269660435.00000006
+    },
+    {
+      "code": "x4701",
+      "rank": 16,
+      "name": "Puistot ja viheralueet",
+      "slug": "puistot-ja-viheralueet",
+      "total": 223319198.78999987
+    },
+    {
+      "code": "x3601",
+      "rank": 17,
+      "name": "Nuorisopalvelut",
+      "slug": "nuorisopalvelut",
+      "total": 222680020.98999998
+    },
+    {
+      "code": "x3701",
+      "rank": 18,
+      "name": "Museopalvelut",
+      "slug": "museopalvelut",
+      "total": 183856101.01000008
+    },
+    {
+      "code": "x6103",
+      "rank": 19,
+      "name": "Vesihuoltopalvelun tuottaminen, jätevesi",
+      "slug": "vesihuoltopalvelun-tuottaminen-jatevesi",
+      "total": 171068814.02999994
+    },
+    {
+      "code": "x5560",
+      "rank": 20,
+      "name": "Lomitus- ja maaseutupalvelut yhteensä",
+      "slug": "lomitus-ja-maaseutupalvelut-yhteensa",
+      "total": 165655919.78
+    },
+    {
+      "code": "x3251",
+      "rank": 21,
+      "name": "Kansalaisopistokoulutus",
+      "slug": "kansalaisopistokoulutus",
+      "total": 148475469.81999996
+    },
+    {
+      "code": "x3052",
+      "rank": 22,
+      "name": "Aamu-ja iltapäivätoiminta",
+      "slug": "aamu-ja-iltapaivatoiminta",
+      "total": 144616815.37000006
+    },
+    {
+      "code": "x6102",
+      "rank": 23,
+      "name": "Vesihuoltopalvelun tuottaminen, talousvesi",
+      "slug": "vesihuoltopalvelun-tuottaminen-talousvesi",
+      "total": 122678631.57
+    },
+    {
+      "code": "x3022",
+      "rank": 24,
+      "name": "Perhepäivähoito",
+      "slug": "perhepaivahoito",
+      "total": 112567038.12
+    },
+    {
+      "code": "x3901",
+      "rank": 25,
+      "name": "Yleisen kulttuuritoiminnan palvelut",
+      "slug": "yleisen-kulttuuritoiminnan-palvelut",
+      "total": 111962045.20000005
+    },
+    {
+      "code": "x4201",
+      "rank": 26,
+      "name": "Rakennusvalvonta",
+      "slug": "rakennusvalvonta",
+      "total": 99189506.86000001
+    },
+    {
+      "code": "x3751",
+      "rank": 27,
+      "name": "Teatteri-, tanssi- ja sirkuspalvelut",
+      "slug": "teatteri-tanssi-ja-sirkuspalvelut",
+      "total": 98881118.31000002
+    },
+    {
+      "code": "x5361",
+      "rank": 28,
+      "name": "Maaomaisuuden hallinta",
+      "slug": "maaomaisuuden-hallinta",
+      "total": 98383541.61999999
+    },
+    {
+      "code": "x3851",
+      "rank": 29,
+      "name": "Musiikkipalvelut",
+      "slug": "musiikkipalvelut",
+      "total": 96731984.66999997
+    },
+    {
+      "code": "x3351",
+      "rank": 30,
+      "name": "Taiteen perusopetus",
+      "slug": "taiteen-perusopetus",
+      "total": 91790829.16
+    },
+    {
+      "code": "x4101",
+      "rank": 31,
+      "name": "Asemakaavoitus",
+      "slug": "asemakaavoitus",
+      "total": 84411766.21999998
+    },
+    {
+      "code": "x2702",
+      "rank": 32,
+      "name": "Eläinlääkäripalvelut",
+      "slug": "elainlaakaripalvelut",
+      "total": 79769624.43999997
+    },
+    {
+      "code": "x4104",
+      "rank": 33,
+      "name": "Paikkatietopalvelut",
+      "slug": "paikkatietopalvelut",
+      "total": 64801049.559999995
+    },
+    {
+      "code": "x4301",
+      "rank": 34,
+      "name": "Asumisen viranomaispalvelut",
+      "slug": "asumisen-viranomaispalvelut",
+      "total": 56681919.77
+    },
+    {
+      "code": "x7101",
+      "rank": 35,
+      "name": "Alueiden kehittäminen",
+      "slug": "alueiden-kehittaminen",
+      "total": 53650694.2
+    },
+    {
+      "code": "x5353",
+      "rank": 36,
+      "name": "Asuntojen vuokrauspalvelut",
+      "slug": "asuntojen-vuokrauspalvelut",
+      "total": 50658106.64999997
+    },
+    {
+      "code": "x6201",
+      "rank": 37,
+      "name": "Energiahuoltopalvelut",
+      "slug": "energiahuoltopalvelut",
+      "total": 45926687.99999999
+    },
+    {
+      "code": "x1120",
+      "rank": 38,
+      "name": "Hyvinvoinnin ja terveyden edistämisen asiantuntijapalvelut ja tuki",
+      "slug": "hyvinvoinnin-ja-terveyden-edistamisen-asiantuntijapalvelut-ja-tuki",
+      "total": 45721178
+    },
+    {
+      "code": "x4402",
+      "rank": 39,
+      "name": "Ympäristönsuojelun lupa- ja valvontatehtävät",
+      "slug": "ymparistonsuojelun-lupa-ja-valvontatehtavat",
+      "total": 42878108.87999997
+    },
+    {
+      "code": "x4102",
+      "rank": 40,
+      "name": "Yleiskaavoitus",
+      "slug": "yleiskaavoitus",
+      "total": 42059587.11000001
+    }
+  ]
+}

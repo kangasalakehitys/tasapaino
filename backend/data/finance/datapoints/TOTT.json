@@ -1,0 +1,604 @@
+{
+ "set": "TOTT",
+ "source": "taulukkomalli-TOTT_2026-v15-tott_gaap_ind_20260529_082326.xlsx",
+ "tables": {
+  "k-t16.011": {
+   "title": "Tietoja esiopetuksen taloudesta ja toiminnasta",
+   "columns": {
+    "C0010": "Kaikki toimintakulut",
+    "C0020": "Josta: henkilöstökulut"
+   },
+   "rows": [
+    {
+     "code": "R0005",
+     "label": "Esiopetus",
+     "ids": {
+      "C0010": "1379",
+      "C0020": "697"
+     }
+    },
+    {
+     "code": "R0010",
+     "label": "Valtionosuusjärjestelmään kuuluva yhteensä",
+     "ids": {
+      "C0010": "5752371",
+      "C0020": "5751196"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Opetus",
+     "ids": {
+      "C0010": "5752335",
+      "C0020": "5751160"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Kuljetus",
+     "ids": {
+      "C0010": "5752344",
+      "C0020": "5751169"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Ruokailu",
+     "ids": {
+      "C0010": "5752348",
+      "C0020": "5751173"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Muu oppilashuolto",
+     "ids": {
+      "C0010": "5752351",
+      "C0020": "5751176"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Hallinto",
+     "ids": {
+      "C0010": "5752354",
+      "C0020": "5751179"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Kiinteistöjen ylläpito",
+     "ids": {
+      "C0010": "5752357",
+      "C0020": "5751182"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Muu esiopetus yhteensä",
+     "ids": {
+      "C0010": "8241317",
+      "C0020": "8241314"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Sairaalaopetus",
+     "ids": {
+      "C0010": "5752360",
+      "C0020": "5751185"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Konsultatiivinen sairaalaopetuspalvelu",
+     "ids": {
+      "C0010": "8213052",
+      "C0020": "8213015"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Varhennettu oppivelvollisuus esiopetus",
+     "ids": {
+      "C0010": "8241318",
+      "C0020": "8241315"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Valtionosuusjärjestelmään kuulumaton yhteensä",
+     "ids": {
+      "C0010": "5752372",
+      "C0020": "5751197"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "5752362"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Kotikunnan maksuosuudet",
+     "ids": {
+      "C0010": "5752338"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Muu valtionosuusjärjestelmään kuulumaton",
+     "ids": {
+      "C0010": "8213054",
+      "C0020": "8213017"
+     }
+    }
+   ]
+  },
+  "k-t16.012": {
+   "title": "Tietoja perusopetuksen taloudesta ja toiminnasta",
+   "columns": {
+    "C0010": "Kaikki toimintakulut",
+    "C0020": "Josta: henkilöstökulut"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Perusopetus",
+     "ids": {
+      "C0010": "3429319",
+      "C0020": "3288199"
+     }
+    },
+    {
+     "code": "R0380",
+     "label": "9-vuotinen perusopetus (sis. aineopetuksen)",
+     "ids": {
+      "C0010": "1344",
+      "C0020": "649"
+     }
+    },
+    {
+     "code": "R0385",
+     "label": "Valtionosuusjärjestelmään kuuluva",
+     "ids": {
+      "C0010": "5752373",
+      "C0020": "5751198"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "Opetus",
+     "ids": {
+      "C0010": "5752336",
+      "C0020": "5751161"
+     }
+    },
+    {
+     "code": "R0400",
+     "label": "Majoitus",
+     "ids": {
+      "C0010": "5752342",
+      "C0020": "5751167"
+     }
+    },
+    {
+     "code": "R0405",
+     "label": "Kuljetus",
+     "ids": {
+      "C0010": "5752345",
+      "C0020": "5751170"
+     }
+    },
+    {
+     "code": "R0410",
+     "label": "Ruokailu",
+     "ids": {
+      "C0010": "5752349",
+      "C0020": "5751174"
+     }
+    },
+    {
+     "code": "R0415",
+     "label": "Muu oppilashuolto",
+     "ids": {
+      "C0010": "5752352",
+      "C0020": "5751177"
+     }
+    },
+    {
+     "code": "R0420",
+     "label": "Hallinto",
+     "ids": {
+      "C0010": "5752355",
+      "C0020": "5751180"
+     }
+    },
+    {
+     "code": "R0425",
+     "label": "Kiinteistöjen ylläpito",
+     "ids": {
+      "C0010": "5752358",
+      "C0020": "5751183"
+     }
+    },
+    {
+     "code": "R0430",
+     "label": "Muu 9-vuotinen perusopetus",
+     "ids": {
+      "C0010": "8240557",
+      "C0020": "8239896"
+     }
+    },
+    {
+     "code": "R0440",
+     "label": "Sairaalaopetus",
+     "ids": {
+      "C0010": "5752361",
+      "C0020": "5751186"
+     }
+    },
+    {
+     "code": "R0450",
+     "label": "Konsultatiivinen sairaalaopetuspalvelu",
+     "ids": {
+      "C0010": "8213053",
+      "C0020": "8213016"
+     }
+    },
+    {
+     "code": "R0455",
+     "label": "Perusopetuksen järjestäminen oppilaalle vamman, sairauden tai toimintakyvyn rajoitteen perusteella oppiaineittain",
+     "ids": {
+      "C0010": "8240558",
+      "C0020": "8239897"
+     }
+    },
+    {
+     "code": "R0460",
+     "label": "Toiminta-alueittain järjestetty perusopetus",
+     "ids": {
+      "C0010": "8240559",
+      "C0020": "8239898"
+     }
+    },
+    {
+     "code": "R0465",
+     "label": "Valtionosuusjärjestelmään kuulumaton yhteensä",
+     "ids": {
+      "C0010": "5752374",
+      "C0020": "5751199"
+     }
+    },
+    {
+     "code": "R0470",
+     "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "5752363"
+     }
+    },
+    {
+     "code": "R0480",
+     "label": "Kotikunnan maksuosuudet",
+     "ids": {
+      "C0010": "5752339"
+     }
+    },
+    {
+     "code": "R0485",
+     "label": "Muu valtionosuusjärjestelmään kuulumaton",
+     "ids": {
+      "C0010": "8213055",
+      "C0020": "8213018"
+     }
+    },
+    {
+     "code": "R0490",
+     "label": "Muu perusopetus yhteensä",
+     "ids": {
+      "C0010": "8213058",
+      "C0020": "8213021"
+     }
+    },
+    {
+     "code": "R0740",
+     "label": "Perusopetukseen valmistava opetus (esi- ja perusopetusikäiset)",
+     "ids": {
+      "C0010": "1020",
+      "C0020": "1004"
+     }
+    },
+    {
+     "code": "R0860",
+     "label": "Aikuisten perusopetus (lasten ja nuorten perusopetusiän ylittäneiden perusopetus, koko oppimäärä)",
+     "ids": {
+      "C0010": "1002",
+      "C0020": "988"
+     }
+    },
+    {
+     "code": "R0980",
+     "label": "Tutkintokoulutukseen valmentava koulutus perusopetuksen yhteydessä järjestettynä",
+     "ids": {
+      "C0010": "5752375",
+      "C0020": "5751200"
+     }
+    }
+   ]
+  },
+  "k-t16.02": {
+   "title": "Tietoja perusopetuslain mukaisen koululaisten aamu- ja iltapäivätoiminnan taloudesta ja toiminnasta",
+   "columns": {
+    "C0010": "Kaikki toimintakulut",
+    "C0020": "Josta: henkilöstökulut",
+    "C0030": "Kaikki toimintatuotot",
+    "C0040": "Josta: maksutuotot",
+    "C0050": "Palautusjärjestelmän arvonlisävero käyttötaloudesta"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Aamu- ja iltapäivätoiminta, oma toiminta",
+     "ids": {
+      "C0010": "960",
+      "C0020": "964",
+      "C0030": "653",
+      "C0040": "457",
+      "C0050": "1077"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Aamu- ja iltapäivätoiminta, ostopalveluna",
+     "ids": {
+      "C0010": "935",
+      "C0020": "947",
+      "C0030": "669",
+      "C0040": "479",
+      "C0050": "1061"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Aamu- ja iltapäivätoiminta, avustettuna toimintana",
+     "ids": {
+      "C0010": "1835",
+      "C0020": "1178",
+      "C0030": "686",
+      "C0040": "360",
+      "C0050": "1040"
+     }
+    }
+   ]
+  },
+  "k-t16.03": {
+   "title": "Tietoja lukiokoulutuksen taloudesta ja toiminnasta",
+   "columns": {
+    "C0010": "Kaikki toimintakulut",
+    "C0020": "Josta: henkilöstökulut",
+    "C0030": "Palautusjärjestelmän arvonlisävero käyttötaloudesta",
+    "C0040": "Kaikki toimintatuotot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Yleinen lukiokoulutus",
+     "ids": {
+      "C0010": "1827",
+      "C0020": "1161",
+      "C0030": "1027",
+      "C0040": "8240546"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Valtionosuusjärjestelmään kuuluva",
+     "ids": {
+      "C0010": "565",
+      "C0020": "1059",
+      "C0030": "1793"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Opetus",
+     "ids": {
+      "C0010": "21",
+      "C0020": "294",
+      "C0030": "1291"
+     }
+    },
+    {
+     "code": "R0045",
+     "label": "Oppimateriaalit ja välineet",
+     "ids": {
+      "C0010": "5752340",
+      "C0030": "5749409"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Majoitus",
+     "ids": {
+      "C0010": "106",
+      "C0020": "78",
+      "C0030": "811"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Oppivelvollisuuslain mukaiset matkakorvaukset",
+     "ids": {
+      "C0010": "5752346",
+      "C0030": "5749410"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Ruokailu",
+     "ids": {
+      "C0010": "758",
+      "C0020": "1756",
+      "C0030": "1556"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Muu opiskelijahuolto",
+     "ids": {
+      "C0010": "1518",
+      "C0020": "480",
+      "C0030": "514"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Hallinto",
+     "ids": {
+      "C0010": "1587",
+      "C0020": "888",
+      "C0030": "706"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Kiinteistöjen ylläpito",
+     "ids": {
+      "C0010": "652",
+      "C0020": "404",
+      "C0030": "1645"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Tutkintokoulutukseen valmentava koulutus (sisältyy valtionosuusjärjestelmään kuuluviin kustannuksiin sekä toimintoihin)",
+     "ids": {
+      "C0010": "4991781",
+      "C0020": "4991772",
+      "C0030": "4991770"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Valtionosuusjärjestelmään kuulumaton yhteensä",
+     "ids": {
+      "C0010": "572",
+      "C0020": "1042",
+      "C0030": "1813",
+      "C0040": "8240547"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "1631"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Kotikunnan maksuosuudet",
+     "ids": {
+      "C0010": "439"
+     }
+    },
+    {
+     "code": "R0155",
+     "label": "Lukuvuosimaksullisten opiskelijoiden (lukiolaki 34 a §)  koulutuksen toimintakulut ja lukuvuosimaksut",
+     "ids": {
+      "C0010": "8240561",
+      "C0020": "8239900",
+      "C0030": "8239870",
+      "C0040": "8240544"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Muut valtionosuusjärjestelmään kuulumattomat toimintakulut  ja toimintatuotot",
+     "ids": {
+      "C0010": "8240562",
+      "C0020": "8239901",
+      "C0030": "8239871",
+      "C0040": "8240545"
+     }
+    }
+   ]
+  },
+  "k-t16.04": {
+   "title": "Esiopetuksen, perusopetuksen ja lukiokoulutuksen pienet hankkeet",
+   "columns": {
+    "C0010": "Perusopetus",
+    "C0020": "Lukiokoulutus",
+    "C0030": "Esiopetus",
+    "C0040": "Varhaiskasvatus"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Pienet hankkeet, menot",
+     "ids": {
+      "C0010": "1924",
+      "C0020": "1915",
+      "C0030": "1908",
+      "C0040": "1595"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Pienet hankkeet, arvonlisävero",
+     "ids": {
+      "C0010": "1934",
+      "C0020": "1929",
+      "C0030": "1917",
+      "C0040": "806"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

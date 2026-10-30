@@ -1,0 +1,148 @@
+// Pages and articles of the Tasapaino service: one source for the build
+// (backend/functions/build-pages.mjs writes the HTML shells of frontend/pages,
+// which the search index reads) and for the page scripts (rendering).
+// Specs: backend/md/pages/<page>.md. Each article: id (URL hash and element id
+// prefix), tab, group, title (default headline, replaced with a data-driven
+// full sentence), standfirst, keywords (search), indicator (generic indicator
+// article, functions/indicator-article.js) and intro (paragraphs above the charts).
+
+export const PAGES = [
+  {
+    id: 'kokonaistalous',
+    file: 'kokonaistalous.html',
+    script: 'page-kokonaistalous.js',
+    nav: 'Kokonaistalous',
+    title: 'Kokonaistalous',
+    standfirst: 'Talouden tasapaino kuntatalouden avainluvuilla: tulorahoituksen riittävyys, rahavirrat, velka ja kuntakonserni.',
+    keywords: 'tasapaino kokonaistalous avainluvut vuosikate poistot rahavirta lainakanta konserni tytäryhteisöt liikelaitokset TOLT talousarvio',
+    articles: [
+      { id: 'tila', tab: 'Tasapainon tila', group: 'Tilannekuva', title: 'Tasapainon tila',
+        standfirst: 'Kuusi avainlukua kertoo, riittääkö tulorahoitus palveluihin, investointeihin ja velanhoitoon.',
+        keywords: 'avainluvut tilannekuva kriisikunta arviointimenettely' },
+      { id: 'rahavirta', tab: 'Rahavirta', group: 'Tilannekuva', title: 'Toiminnan ja investointien rahavirta',
+        standfirst: 'FCG:n ja Kuntaliiton suosittelema tasapainon mittari: vuosikate miinus nettoinvestoinnit.',
+        keywords: 'rahavirta investoinnit luovutustulot rahoitusosuudet satunnaiset erät kassavarat lainanotto' },
+      { id: 'vuosikate', tab: 'Vuosikate', group: 'Tunnusluvut', indicator: 'annualMargin', title: 'Vuosikate',
+        standfirst: 'Tulorahoitus, joka jää juoksevien menojen jälkeen investointeihin ja lainojen lyhennyksiin.',
+        intro: ['Vuosikate on keskeinen tulorahoituksen riittävyyden mittari. Perusoletus on, että tulorahoitus on riittävä, jos vuosikate on vähintään poistojen suuruinen.'] },
+      { id: 'vuosikate-poistot', tab: 'Vuosikate/poistot', group: 'Tunnusluvut', indicator: 'marginToDepreciation', title: 'Vuosikate prosenttia poistoista',
+        standfirst: 'Yli 100 % tarkoittaa, että tulorahoitus riittää korvausinvestointeihin.',
+        intro: ['Poistot kuvaavat keskimääräistä vuotuista korvausinvestointitarvetta. Jos vuosikate kattaa poistot, kunnan ei tarvitse velkaantua pitääkseen palvelujen tuotantovälineet kunnossa.'] },
+      { id: 'tulos', tab: 'Tilikauden tulos', group: 'Tunnusluvut', indicator: 'surplus', title: 'Tilikauden ylijäämä (alijäämä)',
+        standfirst: 'Tilikauden yli- tai alijäämä euroa asukasta kohden.' },
+      { id: 'kertynyt', tab: 'Kertynyt ylijäämä', group: 'Tunnusluvut', indicator: 'accumulatedSurplus', title: 'Kertynyt ylijäämä (alijäämä)',
+        standfirst: 'Taseeseen kertynyt yli- tai alijäämä. Kattamaton alijäämä on katettava neljässä vuodessa.',
+        intro: ['Kuntalain mukaan taseeseen kertynyt alijäämä on katettava viimeistään neljän vuoden kuluessa sen syntymistä seuraavan vuoden alusta. Muuten valtuuston on hyväksyttävä tasapainotusohjelma.'] },
+      { id: 'lainakanta', tab: 'Lainakanta', group: 'Tunnusluvut', indicator: 'loans', title: 'Lainakanta',
+        standfirst: 'Korollinen vieras pääoma 31.12. euroa asukasta kohden.',
+        keywords: 'velka lainat korollinen vieras pääoma korkokulut' },
+      { id: 'toimintakate', tab: 'Toimintakate', group: 'Tunnusluvut', indicator: 'operatingMargin', title: 'Toimintakate',
+        standfirst: 'Nettomenot, jotka rahoitetaan verotuloilla ja valtionosuuksilla.' },
+      { id: 'konserni', tab: 'Kuntakonserni', group: 'Konserni ja TOLT', title: 'Kuntakonserni',
+        standfirst: 'Kunnan ja sen tytäryhteisöjen, kuntayhtymäosuuksien ja liikelaitosten yhdistelty talous (KKOTR).',
+        keywords: 'konserni konsernitilinpäätös KKOTR tytäryhteisöt kuntayhtymät' },
+      { id: 'tolt', tab: 'TOLT-yhteisöt', group: 'Konserni ja TOLT', title: 'Tytäryhteisöt, osakkuusyhteisöt ja liikelaitokset',
+        standfirst: 'TOLT: yhteisöt, joiden kautta kunta tuottaa palveluja tai sitoo pääomaa.',
+        keywords: 'TOLT TOLTA TOLTB tytäryhteisöt osakkuusyhteisöt liikelaitokset vesihuolto taseyksiköt' },
+      { id: 'talousarvio', tab: 'Talousarvio ja ennuste', group: 'Suunnitelma', title: 'Talousarvio, taloussuunnitelma ja tilinpäätösennuste',
+        standfirst: 'Valtuuston hyväksymä talousarvio (KTAS) ja kunnan oma tilinpäätösennuste (KTPE) verrattuna toteumaan.',
+        keywords: 'KTAS KTPE talousarvio taloussuunnitelma tilinpäätösennuste investointisuunnitelma' },
+      { id: 'kehitys', tab: 'Kehitysehdotukset', group: 'Suunnitelma', title: 'Kehitysehdotukset',
+        standfirst: 'Tunnuslukujen perusteella johdetut kehitysehdotukset tasapainon parantamiseksi.' }
+    ]
+  },
+  {
+    id: 'palveluluokat',
+    file: 'palveluluokat.html',
+    script: 'page-palveluluokat.js',
+    nav: 'Palveluluokat',
+    title: 'Ulkoiset tulot ja menot palveluluokittain',
+    standfirst: 'Ulkoiset tulot ja menot euroa asukasta kohden palveluluokittain ja tileittäin, lakisääteisyys sekä ostolaskut.',
+    keywords: 'palveluluokat ulkoiset menot tulot tileittäin lakisääteiset tehtävät opetus ostolaskut toimittajat KKTPP TOTT',
+    articles: [
+      { id: 'menot', tab: 'Menot palveluluokittain', group: 'Palveluluokat', title: 'Ulkoiset toimintakulut palveluluokittain',
+        standfirst: 'Euroa asukasta kohden; pienet pisteet ovat kokoluokan muut kunnat.', keywords: 'toimintakulut menot palveluluokka' },
+      { id: 'tulot', tab: 'Tulot palveluluokittain', group: 'Palveluluokat', title: 'Ulkoiset toimintatuotot palveluluokittain',
+        standfirst: 'Myynti-, maksu- ja vuokratuotot sekä tuet palveluittain euroa asukasta kohden.', keywords: 'toimintatuotot maksutuotot myyntituotot tulot palveluluokka' },
+      { id: 'lakisaateiset', tab: 'Lakisääteisyys', group: 'Palveluluokat', title: 'Erot keskiarvoon lakisääteisyyden mukaan',
+        standfirst: 'Missä palveluluokissa menot ylittävät kokoluokan keskiarvon, ja onko tehtävä lakisääteinen.',
+        keywords: 'lakisääteiset tehtävät vapaaehtoiset tehtävät säästökohteet VM' },
+      { id: 'kulurakenne', tab: 'Kulut tileittäin', group: 'Tileittäin', title: 'Toimintakulut tileittäin',
+        standfirst: 'Henkilöstökulut, palvelujen ostot, aineet, avustukset ja muut kulut euroa asukasta kohden.',
+        keywords: 'henkilöstökulut palvelujen ostot asiakaspalvelujen ostot aineet avustukset tilit' },
+      { id: 'tulorakenne', tab: 'Tulot tileittäin', group: 'Tileittäin', title: 'Toimintatuotot tileittäin',
+        standfirst: 'Myynti-, maksu-, tuki- ja vuokratuotot euroa asukasta kohden.',
+        keywords: 'myyntituotot maksutuotot vuokratuotot tuet avustukset tilit' },
+      { id: 'henkilosto', tab: 'Henkilöstökulut', group: 'Tileittäin', indicator: 'personnel', title: 'Henkilöstökulut',
+        standfirst: 'Henkilöstökulut euroa asukasta kohden.' },
+      { id: 'opetus', tab: 'Opetuksen kustannukset', group: 'Opetus', title: 'Esi-, perus- ja lukio-opetuksen kustannukset',
+        standfirst: 'Toimintakulut ikäluokan asukasta kohden (TOTT).', keywords: 'TOTT esiopetus perusopetus lukio oppilas kustannus' },
+      { id: 'ostolaskut', tab: 'Ostot yleiskuva', group: 'Ostolaskut', title: 'Ostolaskut 2023–2025',
+        standfirst: 'Kuntien julkaisemat ostolaskut tiliryhmittäin, ilman arvonlisäveroa.', keywords: 'ostolaskut hankinnat ostot pienlaskut' },
+      { id: 'toimittajat', tab: 'Suurimmat toimittajat', group: 'Ostolaskut', title: 'Suurimmat toimittajat',
+        standfirst: 'Suurimmat toimittajat ja niiden osuus ostoista vuosittain.', keywords: 'toimittajat hankinnat kilpailutus' },
+      { id: 'yhteiset', tab: 'Yhteiset toimittajat', group: 'Ostolaskut', title: 'Yhteiset toimittajat',
+        standfirst: 'Toimittajat, joilta molemmat kunnat ostavat: yhteishankintojen mahdollisuudet.', keywords: 'yhteishankinta toimittajat kilpailutus' }
+    ]
+  },
+  {
+    id: 'verotus',
+    file: 'verotus.html',
+    script: 'page-verotus.js',
+    nav: 'Verotus',
+    title: 'Verotus',
+    standfirst: 'Veroasteet, verotulot ja veropohja verrattuna verrokkeihin, sekä veroprosenttien muutosten vaikutukset.',
+    keywords: 'verotus veroprosentti efektiivinen veroaste kunnallisvero kiinteistövero yhteisövero valtionosuudet ansiotulot simulaattori',
+    articles: [
+      { id: 'efektiivinen', tab: 'Efektiivinen veroaste', group: 'Veroasteet', indicator: 'effectiveTaxRate', title: 'Efektiivinen veroaste',
+        standfirst: 'Maksuunpantu kunnallisvero prosentteina ansiotuloista.',
+        intro: ['Efektiivinen veroaste kertoo, kuinka paljon kunta tosiasiassa saa veroa suhteessa asukkaidensa ansiotuloihin. Se on aina nimellistä tuloveroprosenttia matalampi, koska vähennykset (mm. perusvähennys, ansiotulovähennys ja työtulovähennys) painottuvat pienille tuloille.',
+          'Laskenta: maksuunpantu kunnallisvero / ansiotulot yhteensä × 100 (Verohallinto, henkilöasiakkaiden tuloverotilastot).'] },
+      { id: 'suhde', tab: 'Efektiivinen/nimellinen', group: 'Veroasteet', indicator: 'effectiveToNominal', title: 'Efektiivisen ja nimellisen veroasteen suhde',
+        standfirst: 'Kuinka suuri osa nimellisestä veroprosentista toteutuu verotuloina.',
+        intro: ['Mitä suurempi suhde on, sitä vähemmän vähennykset pienentävät verotuloa. Suhde on korkea kunnissa, joissa tulotaso on korkea.'] },
+      { id: 'nimellinen', tab: 'Tuloveroprosentti', group: 'Veroasteet', indicator: 'nominalTaxRate', title: 'Tuloveroprosentti',
+        standfirst: 'Valtuuston päättämä tuloveroprosentti (Kuntaliitto, Verohallinto).',
+        intro: ['Sote-uudistuksessa vuonna 2023 kaikkien kuntien tuloveroprosentteja alennettiin 12,64 prosenttiyksikköä.'] },
+      { id: 'kunnallisvero', tab: 'Kunnallisvero', group: 'Verotulot', indicator: 'municipalTax', title: 'Kunnallisveron tuotto',
+        standfirst: 'Kunnan tulovero euroa asukasta kohden (tilinpäätös).' },
+      { id: 'kiinteistovero', tab: 'Kiinteistövero', group: 'Verotulot', indicator: 'propertyTax', title: 'Kiinteistöveron tuotto',
+        standfirst: 'Kiinteistövero euroa asukasta kohden (tilinpäätös).' },
+      { id: 'yhteisovero', tab: 'Yhteisövero', group: 'Verotulot', indicator: 'corporateTax', title: 'Yhteisöveron tuotto',
+        standfirst: 'Kunnan osuus yhteisöveron tuotosta euroa asukasta kohden.' },
+      { id: 'valtionosuudet', tab: 'Valtionosuudet', group: 'Verotulot', indicator: 'stateAid', title: 'Valtionosuudet',
+        standfirst: 'Valtionosuudet euroa asukasta kohden.',
+        intro: ['Valtionosuusjärjestelmä muuttui merkittävästi vuoden 2023 alusta. Verotuloihin perustuva valtionosuuksien tasaus pienentää verotulojen kasvun nettovaikutusta keskimääräistä vauraammissa kunnissa.'] },
+      { id: 'ansiotulot', tab: 'Ansiotulot', group: 'Veropohja', indicator: 'earnedIncome', title: 'Veronalaiset ansiotulot',
+        standfirst: 'Ansiotulot yhteensä euroa asukasta kohden (Verohallinto).' },
+      { id: 'tuotot-kulut', tab: 'Toimintatuotot/-kulut', group: 'Veropohja', indicator: 'incomeToCosts', title: 'Toimintatuotot suhteessa toimintakuluihin',
+        standfirst: 'Kuinka suuri osa toimintakuluista katetaan myynti-, maksu-, tuki- ja vuokratuotoilla.' },
+      { id: 'simulaattori', tab: 'Simulaattori', group: 'Simulaattori', title: 'Veroprosenttisimulaattori',
+        standfirst: 'Kuinka paljon tulo- ja kiinteistöveroprosenttien muutos tuottaisi vuodessa?',
+        keywords: 'simulaattori veroprosentin korotus kiinteistöveroprosentti laskuri' }
+    ]
+  },
+  {
+    id: 'toimenpiteet',
+    file: 'toimenpiteet.html',
+    script: 'page-toimenpiteet.js',
+    nav: 'Toimenpiteet',
+    title: 'Tasapainotusohjelman toimenpiteet',
+    standfirst: 'Viisi näkökulmaa ja kunkin viisi tärkeintä nostoa: palveluverkko, toimintakulut ja tuotanto, investoinnit ja kiinteistöt, tulojen vahvistaminen sekä jokeri.',
+    keywords: 'tasapainotusohjelma toimenpiteet säästöt sopeutus palveluverkko investoinnit kiinteistöt tulot jokeri tekoäly',
+    articles: [
+      { id: 'palveluverkko', tab: 'Palveluverkko', title: 'Palveluverkko',
+        standfirst: 'Koulujen, päiväkotien ja muiden toimipisteiden verkko suhteessa palvelutarpeeseen.', keywords: 'kouluverkko päiväkodit toimipisteet yhdistäminen' },
+      { id: 'toimintakulut', tab: 'Toimintakulut ja tuotanto', title: 'Toimintakulut ja tuotanto',
+        standfirst: 'Prosessien tehostaminen, henkilöstömenot ja palvelujen uudelleenjärjestely.', keywords: 'tehostaminen henkilöstö ostopalvelut hankinnat' },
+      { id: 'investoinnit', tab: 'Investoinnit ja kiinteistöt', title: 'Investoinnit ja kiinteistöt',
+        standfirst: 'Investointitaso, rahoituskyky ja omaisuuden myynti.', keywords: 'investoinnit kiinteistöt omaisuuden myynti metsät' },
+      { id: 'tulot', tab: 'Tulojen vahvistaminen', title: 'Tulojen vahvistaminen',
+        standfirst: 'Veroprosentit, maksut ja muut tulolähteet.', keywords: 'veroprosentti maksut tulolähteet kiinteistövero' },
+      { id: 'jokeri', tab: 'Jokeri: tekoäly', title: 'Jokeri: tekoäly ja automaatio',
+        standfirst: 'Viides keino: tekoäly, automaatio ja data tuottavuuden lähteenä.', keywords: 'jokeri tekoäly automaatio robotiikka data ostolaskut' }
+    ]
+  }
+];
+
+export const pageById = (id) => PAGES.find((p) => p.id === id);

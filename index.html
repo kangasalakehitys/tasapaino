@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tasapaino – Etusivu</title>
+  <meta name="description" content="Kuntatalouden tasapainotus: kokonaistalous, palveluluokat, verotus ja toimenpiteet verrokkikuntiin ja kokoluokan parhaisiin verrattuna.">
+  <link rel="icon" href="frontend/brand/logos/Kangasala_logo_RGB_color.svg">
+  <link rel="stylesheet" href="frontend/styles/base.css">
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+  <script defer src="frontend/functions/dist/page-front.js"></script>
+</head>
+<body>
+  <site-header></site-header>
+
+  <main class="container" data-keywords="etusivu tasapaino tilannekuva avainluvut verrokit kokoluokka parhaat kunnat toimenpiteet">
+    <section class="front-lead">
+      <div id="lead"><p class="loading">Ladataan…</p></div>
+      <peer-picker></peer-picker>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>Neljä näkökulmaa: <span data-kunta-name></span></h2></div>
+      <div id="grid" class="front-grid"></div>
+    </section>
+  </main>
+
+  <site-footer></site-footer>
+</body>
+</html>

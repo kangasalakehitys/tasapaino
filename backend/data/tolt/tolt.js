@@ -1,0 +1,2 @@
+window.KUNTATIETO_DATA = window.KUNTATIETO_DATA || {};
+window.KUNTATIETO_DATA["data/tolt/tolt.json"] = {"note":"TOLT-tiedot (tytär- ja osakkuusyhteisöt, liikelaitokset) eivät ole avoimessa rajapinnassa yhteisökohtaisesti. Täydennä tiedot kunnan tilinpäätöksen konsernia koskevista liitetiedoista. Ohje: backend/md/data/tolt.md","municipalities":{"kangasala":{"source":null,"year":null,"entities":[]},"nokia":{"source":null,"year":null,"entities":[]},"ylojarvi":{"source":null,"year":null,"entities":[]}}};

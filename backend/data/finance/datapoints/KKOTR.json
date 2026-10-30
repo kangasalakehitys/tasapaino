@@ -1,0 +1,1088 @@
+{
+ "set": "KKOTR",
+ "source": "taulukkomalli-KKOTR_2019-v10-kkotr_gaap_con_20260529_080416.xlsx",
+ "tables": {
+  "kk-t01": {
+   "title": "Kunnan ja kuntayhtymän konsernituloslaskelma",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0020",
+     "label": "Toimintatuotot",
+     "ids": {
+      "C0010": "1507"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Toimintakulut",
+     "ids": {
+      "C0010": "1477"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Osuus osakkuusyhteisojen voitosta  (tappioista)",
+     "ids": {
+      "C0010": "552"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Toimintakate",
+     "ids": {
+      "C0010": "1111"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Verotulot",
+     "ids": {
+      "C0010": "1072"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Valtionosuudet",
+     "ids": {
+      "C0010": "60"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Rahoitustuotot ja -kulut",
+     "ids": {
+      "C0010": "190"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Korkotuotot",
+     "ids": {
+      "C0010": "1276"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Muut rahoitustuotot",
+     "ids": {
+      "C0010": "258"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Korkokulut",
+     "ids": {
+      "C0010": "753"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Muut rahoituskulut",
+     "ids": {
+      "C0010": "992"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Vuosikate",
+     "ids": {
+      "C0010": "72"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Poistot ja arvonalentumiset",
+     "ids": {
+      "C0010": "715"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Suunnitelman mukaiset poistot",
+     "ids": {
+      "C0010": "1298"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Omistuksen eliminointierot",
+     "ids": {
+      "C0010": "1822"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Konserniliikearvon poisto ja konsernireservin vähennys",
+     "ids": {
+      "C0010": "1741"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Arvonalentumiset",
+     "ids": {
+      "C0010": "204"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Satunnaiset erät",
+     "ids": {
+      "C0010": "636"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Tilikauden tulos",
+     "ids": {
+      "C0010": "272"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Tilinpäätössiirrot",
+     "ids": {
+      "C0010": "1146"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "Tilikauden verot",
+     "ids": {
+      "C0010": "1669"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Laskennalliset verot",
+     "ids": {
+      "C0010": "961"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "Vähemmistöosuudet",
+     "ids": {
+      "C0010": "43"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Tilikauden ylijäämä (alijäämä)",
+     "ids": {
+      "C0010": "519"
+     }
+    }
+   ]
+  },
+  "kk-t02": {
+   "title": "Kunnan ja kuntayhtymän konsernin rahoituslaskelma",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0020",
+     "label": "Toiminnan rahavirta",
+     "ids": {
+      "C0010": "918"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Vuosikate",
+     "ids": {
+      "C0010": "72"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Satunnaiset erät",
+     "ids": {
+      "C0010": "636"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Tilikauden verot",
+     "ids": {
+      "C0010": "1669"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Tulorahoituksen korjauserät",
+     "ids": {
+      "C0010": "1196"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Investointien rahavirta",
+     "ids": {
+      "C0010": "1807"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Investointimenot",
+     "ids": {
+      "C0010": "796"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Rahoitusosuudet investointimenoihin",
+     "ids": {
+      "C0010": "528"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Pysyvien vastaavien hyödykkeiden luovutustulot",
+     "ids": {
+      "C0010": "1601"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Toiminnan ja investointien rahavirta",
+     "ids": {
+      "C0010": "1678"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Rahoituksen rahavirta",
+     "ids": {
+      "C0010": "1472"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Antolainauksen muutokset (lisäys -, vähennys +)",
+     "ids": {
+      "C0010": "285"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Antolainasaamisten lisäys",
+     "ids": {
+      "C0010": "867"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Antolainasaamisten vähennys",
+     "ids": {
+      "C0010": "420"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Lainakannan muutokset (lisäys +, vähennys -)",
+     "ids": {
+      "C0010": "530"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Pitkäaikaisten lainojen lisäys",
+     "ids": {
+      "C0010": "1733"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Pitkäaikaisten lainojen vähennys",
+     "ids": {
+      "C0010": "1223"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Lyhytaikaisten lainojen muutos (lisäys +, vähennys -)",
+     "ids": {
+      "C0010": "1172"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Lyhytaikaisten lainojen lisäys",
+     "ids": {
+      "C0010": "1050"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "Lyhytaikaisten lainojen vähennys",
+     "ids": {
+      "C0010": "1639"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Oman pääoman muutokset + (-)",
+     "ids": {
+      "C0010": "312"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "Muut maksuvalmiuden muutokset + (-)",
+     "ids": {
+      "C0010": "689"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Toimeksiantojen varojen ja pääomien muutokset + (-)",
+     "ids": {
+      "C0010": "1173"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "Vaihto-omaisuuden muutos + (-)",
+     "ids": {
+      "C0010": "1110"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "Saamisten muutos + (-)",
+     "ids": {
+      "C0010": "789"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "Korottomien velkojen muutos + (-)",
+     "ids": {
+      "C0010": "1332"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Rahavarojen muutos",
+     "ids": {
+      "C0010": "714"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Rahavarat 31.12.",
+     "ids": {
+      "C0010": "1246"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Rahavarat 1.1.",
+     "ids": {
+      "C0010": "1744"
+     }
+    }
+   ]
+  },
+  "kk-t03": {
+   "title": "Kunnan ja kuntayhtymän konsernitase",
+   "columns": {
+    "C0010": "Päättyneen tilikauden lopussa"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Vastaavaa",
+     "ids": {
+      "C0010": "986"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Pysyvät vastaavat",
+     "ids": {
+      "C0010": "887"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Aineettomat hyödykkeet",
+     "ids": {
+      "C0010": "1184"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Aineettomat oikeudet",
+     "ids": {
+      "C0010": "490"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Konserniliikearvo",
+     "ids": {
+      "C0010": "1531"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Muut pitkävaikutteiset menot",
+     "ids": {
+      "C0010": "1666"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Ennakkomaksut aineettomista hyödykkeistä",
+     "ids": {
+      "C0010": "1277"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Aineelliset hyödykkeet",
+     "ids": {
+      "C0010": "26"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Maa- ja vesialueet",
+     "ids": {
+      "C0010": "675"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Rakennukset",
+     "ids": {
+      "C0010": "1625"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "C0010": "1338"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Koneet ja kalusto",
+     "ids": {
+      "C0010": "641"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "C0010": "1514"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Ennakkomaksut ja keskeneräiset hankinnat",
+     "ids": {
+      "C0010": "417"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Sijoitukset",
+     "ids": {
+      "C0010": "475"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Osakkuusyhteisöosuudet",
+     "ids": {
+      "C0010": "1179"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Muut osakkeet ja osuudet",
+     "ids": {
+      "C0010": "100"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Joukkovelkakirjalainasaamiset",
+     "ids": {
+      "C0010": "1462"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Muut lainasaamiset",
+     "ids": {
+      "C0010": "1820"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Muut saamiset (sijoitukset)",
+     "ids": {
+      "C0010": "1213"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Toimeksiantojen varat",
+     "ids": {
+      "C0010": "1559"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "Valtion toimeksiannot, toimeksiantojen varat",
+     "ids": {
+      "C0010": "693"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Lahjoitusrahastojen varat",
+     "ids": {
+      "C0010": "414"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "Toimeksiantojen varat, muut toimeksiantojen varat",
+     "ids": {
+      "C0010": "878"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Vaihtuvat vastaavat",
+     "ids": {
+      "C0010": "1458"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "Vaihto-omaisuus",
+     "ids": {
+      "C0010": "1574"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "Aineet ja tarvikkeet",
+     "ids": {
+      "C0010": "336"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "Keskeneräiset tuotteet",
+     "ids": {
+      "C0010": "1548"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Valmiit tuotteet",
+     "ids": {
+      "C0010": "1584"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Muu vaihto-omaisuus",
+     "ids": {
+      "C0010": "1083"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Ennakkomaksut",
+     "ids": {
+      "C0010": "350"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "Saamiset",
+     "ids": {
+      "C0010": "144"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "Pitkäaikaiset saamiset",
+     "ids": {
+      "C0010": "1623"
+     }
+    },
+    {
+     "code": "R0340",
+     "label": "Pitkäaikaiset myyntisaamiset",
+     "ids": {
+      "C0010": "1309"
+     }
+    },
+    {
+     "code": "R0350",
+     "label": "Pitkäaikaiset lainasaamiset",
+     "ids": {
+      "C0010": "904"
+     }
+    },
+    {
+     "code": "R0360",
+     "label": "Pitkäaikaiset laskennalliset verosaamiset",
+     "ids": {
+      "C0010": "355"
+     }
+    },
+    {
+     "code": "R0370",
+     "label": "Pitkäaikaiset muut saamiset",
+     "ids": {
+      "C0010": "389"
+     }
+    },
+    {
+     "code": "R0380",
+     "label": "Pitkäaikaiset siirtosaamiset",
+     "ids": {
+      "C0010": "1730"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "Lyhytaikaiset saamiset",
+     "ids": {
+      "C0010": "65"
+     }
+    },
+    {
+     "code": "R0400",
+     "label": "Lyhytaikaiset myyntisaamiset",
+     "ids": {
+      "C0010": "297"
+     }
+    },
+    {
+     "code": "R0410",
+     "label": "Lyhytaikaiset lainasaamiset",
+     "ids": {
+      "C0010": "739"
+     }
+    },
+    {
+     "code": "R0420",
+     "label": "Lyhytaikaiset laskennalliset verosaamiset",
+     "ids": {
+      "C0010": "474"
+     }
+    },
+    {
+     "code": "R0430",
+     "label": "Lyhytaikaiset muut saamiset",
+     "ids": {
+      "C0010": "1289"
+     }
+    },
+    {
+     "code": "R0440",
+     "label": "Lyhytaikaiset siirtosaamiset",
+     "ids": {
+      "C0010": "685"
+     }
+    },
+    {
+     "code": "R0450",
+     "label": "Rahoitusarvopaperit",
+     "ids": {
+      "C0010": "614"
+     }
+    },
+    {
+     "code": "R0460",
+     "label": "Osakkeet ja osuudet, rahoitusarvopaperit",
+     "ids": {
+      "C0010": "430"
+     }
+    },
+    {
+     "code": "R0470",
+     "label": "Sijoitukset rahamarkkinainstrumentteihin",
+     "ids": {
+      "C0010": "897"
+     }
+    },
+    {
+     "code": "R0480",
+     "label": "Rahoitusarvopaperit, joukkovelkakirjalainasaamiset",
+     "ids": {
+      "C0010": "1183"
+     }
+    },
+    {
+     "code": "R0490",
+     "label": "Muut arvopaperit",
+     "ids": {
+      "C0010": "1085"
+     }
+    },
+    {
+     "code": "R0500",
+     "label": "Rahat ja pankkisaamiset",
+     "ids": {
+      "C0010": "1036"
+     }
+    },
+    {
+     "code": "R0510",
+     "label": "Vastattavaa",
+     "ids": {
+      "C0010": "1383"
+     }
+    },
+    {
+     "code": "R0520",
+     "label": "Oma pääoma",
+     "ids": {
+      "C0010": "1725"
+     }
+    },
+    {
+     "code": "R0530",
+     "label": "Peruspääoma",
+     "ids": {
+      "C0010": "1201"
+     }
+    },
+    {
+     "code": "R0540",
+     "label": "Säätiöiden ja yhdistysten peruspääomat",
+     "ids": {
+      "C0010": "624"
+     }
+    },
+    {
+     "code": "R0550",
+     "label": "Arvonkorotusrahasto",
+     "ids": {
+      "C0010": "176"
+     }
+    },
+    {
+     "code": "R0560",
+     "label": "Muut omat rahastot",
+     "ids": {
+      "C0010": "1704"
+     }
+    },
+    {
+     "code": "R0570",
+     "label": "Edellisten tilikausien ylijäämä (alijäämä)",
+     "ids": {
+      "C0010": "1423"
+     }
+    },
+    {
+     "code": "R0580",
+     "label": "Tilikauden ylijäämä (alijäämä), oma pääoma",
+     "ids": {
+      "C0010": "48"
+     }
+    },
+    {
+     "code": "R0590",
+     "label": "Vähemmistöosuudet, vastattavaa",
+     "ids": {
+      "C0010": "617"
+     }
+    },
+    {
+     "code": "R0600",
+     "label": "Konsernireservi",
+     "ids": {
+      "C0010": "38"
+     }
+    },
+    {
+     "code": "R0610",
+     "label": "Pakolliset varaukset",
+     "ids": {
+      "C0010": "5"
+     }
+    },
+    {
+     "code": "R0620",
+     "label": "Eläkevaraukset",
+     "ids": {
+      "C0010": "247"
+     }
+    },
+    {
+     "code": "R0630",
+     "label": "Muut pakolliset varaukset",
+     "ids": {
+      "C0010": "836"
+     }
+    },
+    {
+     "code": "R0640",
+     "label": "Toimeksiantojen pääomat",
+     "ids": {
+      "C0010": "1377"
+     }
+    },
+    {
+     "code": "R0650",
+     "label": "Valtion toimeksiannot, toimeksiantojen pääomat",
+     "ids": {
+      "C0010": "1416"
+     }
+    },
+    {
+     "code": "R0660",
+     "label": "Lahjoitusrahastojen pääomat",
+     "ids": {
+      "C0010": "1166"
+     }
+    },
+    {
+     "code": "R0670",
+     "label": "Muut toimeksiantojen pääomat",
+     "ids": {
+      "C0010": "1459"
+     }
+    },
+    {
+     "code": "R0680",
+     "label": "Vieras pääoma",
+     "ids": {
+      "C0010": "320"
+     }
+    },
+    {
+     "code": "R0690",
+     "label": "Pitkäaikainen vieras pääoma",
+     "ids": {
+      "C0010": "1103"
+     }
+    },
+    {
+     "code": "R0700",
+     "label": "Pitkäaikainen (korollinen vieras pääoma)",
+     "ids": {
+      "C0010": "1120"
+     }
+    },
+    {
+     "code": "R0710",
+     "label": "Pitkäaikaiset joukkovelkakirjalainat",
+     "ids": {
+      "C0010": "185"
+     }
+    },
+    {
+     "code": "R0720",
+     "label": "Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta",
+     "ids": {
+      "C0010": "1702"
+     }
+    },
+    {
+     "code": "R0730",
+     "label": "Pitkäaikaiset lainat julkisyhteisöiltä",
+     "ids": {
+      "C0010": "387"
+     }
+    },
+    {
+     "code": "R0740",
+     "label": "Pitkäaikaiset lainat muilta luotonantajilta",
+     "ids": {
+      "C0010": "920"
+     }
+    },
+    {
+     "code": "R0750",
+     "label": "Pitkäaikainen (koroton vieras pääoma)",
+     "ids": {
+      "C0010": "1337"
+     }
+    },
+    {
+     "code": "R0760",
+     "label": "Pitkäaikaiset saadut ennakot",
+     "ids": {
+      "C0010": "1736"
+     }
+    },
+    {
+     "code": "R0770",
+     "label": "Pitkäaikaiset ostovelat",
+     "ids": {
+      "C0010": "1081"
+     }
+    },
+    {
+     "code": "R0780",
+     "label": "Pitkäaikaiset muut velat/liittymismaksut ja muut velat",
+     "ids": {
+      "C0010": "942"
+     }
+    },
+    {
+     "code": "R0790",
+     "label": "Pitkäaikaiset siirtovelat",
+     "ids": {
+      "C0010": "773"
+     }
+    },
+    {
+     "code": "R0800",
+     "label": "Pitkäaikaiset laskennalliset verovelat",
+     "ids": {
+      "C0010": "908"
+     }
+    },
+    {
+     "code": "R0810",
+     "label": "Lyhytaikainen vieras pääoma",
+     "ids": {
+      "C0010": "465"
+     }
+    },
+    {
+     "code": "R0820",
+     "label": "Lyhytaikainen (korollinen vieras pääoma)",
+     "ids": {
+      "C0010": "54"
+     }
+    },
+    {
+     "code": "R0830",
+     "label": "Lyhytaikaiset joukkovelkakirjalainat",
+     "ids": {
+      "C0010": "349"
+     }
+    },
+    {
+     "code": "R0840",
+     "label": "Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta",
+     "ids": {
+      "C0010": "751"
+     }
+    },
+    {
+     "code": "R0850",
+     "label": "Lyhytaikaiset lainat julkisyhteisöiltä",
+     "ids": {
+      "C0010": "694"
+     }
+    },
+    {
+     "code": "R0860",
+     "label": "Lyhytaikaiset lainat muilta luotonantajilta",
+     "ids": {
+      "C0010": "1409"
+     }
+    },
+    {
+     "code": "R0870",
+     "label": "Lyhytaikainen (koroton vieras pääoma)",
+     "ids": {
+      "C0010": "1761"
+     }
+    },
+    {
+     "code": "R0880",
+     "label": "Lyhytaikaiset saadut ennakot",
+     "ids": {
+      "C0010": "1182"
+     }
+    },
+    {
+     "code": "R0890",
+     "label": "Lyhytaikaiset ostovelat",
+     "ids": {
+      "C0010": "829"
+     }
+    },
+    {
+     "code": "R0900",
+     "label": "Lyhytaikaiset muut velat/liittymismaksut ja muut velat",
+     "ids": {
+      "C0010": "1440"
+     }
+    },
+    {
+     "code": "R0910",
+     "label": "Lyhytaikaiset siirtovelat",
+     "ids": {
+      "C0010": "907"
+     }
+    },
+    {
+     "code": "R0920",
+     "label": "Lyhytaikaiset laskennalliset verovelat",
+     "ids": {
+      "C0010": "133"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

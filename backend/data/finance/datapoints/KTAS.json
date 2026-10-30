@@ -1,0 +1,460 @@
+{
+ "set": "KTAS",
+ "source": "taulukkomalli-KTAS_2019-v11-ktas_gaap_ind_20260529_082026.xlsx",
+ "tables": {
+  "k-t05": {
+   "title": "Kunnan ja kuntayhtymän talousarvio ja -suunnitelma",
+   "columns": {
+    "C0010": "Laadintakauden talousarvio 202x-1 (mukaan lukien talousarviomuutokset)",
+    "C0020": "Talousarvio 202x",
+    "C0030": "Taloussuunnitelma\n202x+1",
+    "C0040": "Taloussuunnitelma\n202x+2"
+   },
+   "rows": [
+    {
+     "code": "R0020",
+     "label": "Toimintatulot",
+     "ids": {
+      "C0010": "1715",
+      "C0020": "16",
+      "C0030": "805",
+      "C0040": "769"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Myyntitulot",
+     "ids": {
+      "C0010": "1872",
+      "C0020": "1843",
+      "C0030": "1849",
+      "C0040": "1850"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Maksutulot",
+     "ids": {
+      "C0010": "1866",
+      "C0020": "1871",
+      "C0030": "1845",
+      "C0040": "1846"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Tuet ja avustukset",
+     "ids": {
+      "C0010": "1851",
+      "C0020": "1864",
+      "C0030": "1855",
+      "C0040": "1857"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Muut toimintatulot",
+     "ids": {
+      "C0010": "1893",
+      "C0020": "1863",
+      "C0030": "1873",
+      "C0040": "1874"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Valmistevarastojen muutos",
+     "ids": {
+      "C0010": "166",
+      "C0020": "1431",
+      "C0030": "659",
+      "C0040": "709"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Valmistus omaan käyttöön",
+     "ids": {
+      "C0010": "253",
+      "C0020": "466",
+      "C0030": "1134",
+      "C0040": "1122"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Toimintamenot",
+     "ids": {
+      "C0010": "1260",
+      "C0020": "632",
+      "C0030": "1476",
+      "C0040": "1482"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Henkilöstömenot",
+     "ids": {
+      "C0010": "82",
+      "C0020": "473",
+      "C0030": "1248",
+      "C0040": "1234"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Palvelujen ostot",
+     "ids": {
+      "C0010": "388",
+      "C0020": "15",
+      "C0030": "507",
+      "C0040": "523"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Aineet, tarvikkeet ja tavarat",
+     "ids": {
+      "C0010": "1630",
+      "C0020": "4",
+      "C0030": "1082",
+      "C0040": "1091"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Avustukset",
+     "ids": {
+      "C0010": "1810",
+      "C0020": "627",
+      "C0030": "875",
+      "C0040": "894"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Muut toimintamenot",
+     "ids": {
+      "C0010": "549",
+      "C0020": "561",
+      "C0030": "154",
+      "C0040": "296"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "TOIMINTAKATE",
+     "ids": {
+      "C0010": "156",
+      "C0020": "545",
+      "C0030": "1422",
+      "C0040": "1433"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Verotulot",
+     "ids": {
+      "C0010": "1654",
+      "C0020": "584",
+      "C0030": "838",
+      "C0040": "850"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Valtionosuudet",
+     "ids": {
+      "C0010": "1632",
+      "C0020": "1157",
+      "C0030": "839",
+      "C0040": "831"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Rahoitustulot (+) ja -menot (-)",
+     "ids": {
+      "C0010": "606",
+      "C0020": "45",
+      "C0030": "1729",
+      "C0040": "1616"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "VUOSIKATE",
+     "ids": {
+      "C0010": "576",
+      "C0020": "1093",
+      "C0030": "328",
+      "C0040": "237"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Poistot ja arvonalentumiset",
+     "ids": {
+      "C0010": "1188",
+      "C0020": "1538",
+      "C0030": "1009",
+      "C0040": "1024"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Satunnaiset erät",
+     "ids": {
+      "C0010": "124",
+      "C0020": "213",
+      "C0030": "138",
+      "C0040": "152"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "TILIKAUDEN TULOS",
+     "ids": {
+      "C0010": "1723",
+      "C0020": "1121",
+      "C0030": "1017",
+      "C0040": "1010"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Tilinpäätössiirrot + (-)",
+     "ids": {
+      "C0010": "1937",
+      "C0020": "1940",
+      "C0030": "1911",
+      "C0040": "1910"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "TILIKAUDEN YLIJÄÄMÄ (ALIJÄÄMÄ)",
+     "ids": {
+      "C0010": "954",
+      "C0020": "1098",
+      "C0030": "1540",
+      "C0040": "1524"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Investointimenot yhteensä (brutto)",
+     "ids": {
+      "C0010": "161188",
+      "C0020": "176610",
+      "C0030": "31626",
+      "C0040": "58070"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "Aineettomat hyödykkeet",
+     "ids": {
+      "C0010": "1891",
+      "C0020": "1880",
+      "C0030": "1884",
+      "C0040": "1858"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "Maa- ja vesialueet",
+     "ids": {
+      "C0010": "1888",
+      "C0020": "1847",
+      "C0030": "1870",
+      "C0040": "1886"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "Rakennukset",
+     "ids": {
+      "C0010": "1899",
+      "C0020": "1918",
+      "C0030": "1897",
+      "C0040": "1900"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Rakennukset: opetus- ja kulttuuritoimi",
+     "ids": {
+      "C0010": "1868",
+      "C0020": "1878",
+      "C0030": "1859",
+      "C0040": "1865"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Rakennukset: sosiaali- ja terveystoimi",
+     "ids": {
+      "C0010": "1862",
+      "C0020": "1875",
+      "C0030": "1885",
+      "C0040": "1867"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Rakennukset: muut",
+     "ids": {
+      "C0010": "1894",
+      "C0020": "1881",
+      "C0030": "1883",
+      "C0040": "1889"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "C0010": "1890",
+      "C0020": "1877",
+      "C0030": "1861",
+      "C0040": "1892"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "Koneet ja kalusto",
+     "ids": {
+      "C0010": "1844",
+      "C0020": "1879",
+      "C0030": "1895",
+      "C0040": "1852"
+     }
+    },
+    {
+     "code": "R0340",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "C0010": "1887",
+      "C0020": "1876",
+      "C0030": "1860",
+      "C0040": "1896"
+     }
+    },
+    {
+     "code": "R0350",
+     "label": "Osakkeet ja osuudet",
+     "ids": {
+      "C0010": "1854",
+      "C0020": "1882",
+      "C0030": "1848",
+      "C0040": "1856"
+     }
+    },
+    {
+     "code": "R0360",
+     "label": "Rahoitusosuudet investointimenoihin",
+     "ids": {
+      "C0010": "29",
+      "C0020": "1577",
+      "C0030": "1526",
+      "C0040": "1515"
+     }
+    },
+    {
+     "code": "R0370",
+     "label": "Investointihyödykkeiden luovutustulot (brutto)",
+     "ids": {
+      "C0010": "1542",
+      "C0020": "1564",
+      "C0030": "987",
+      "C0040": "969"
+     }
+    },
+    {
+     "code": "R0380",
+     "label": "Toiminnan ja investointien rahavirta",
+     "ids": {
+      "C0010": "1354",
+      "C0020": "1606",
+      "C0030": "1352",
+      "C0040": "1335"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "Lainakanta 31.12.",
+     "ids": {
+      "C0010": "1598",
+      "C0020": "1580",
+      "C0030": "1681",
+      "C0040": "1693"
+     }
+    },
+    {
+     "code": "R0400",
+     "label": "Henkilötyövuodet",
+     "ids": {
+      "C0010": "981",
+      "C0020": "1612",
+      "C0030": "1800",
+      "C0040": "1818"
+     }
+    },
+    {
+     "code": "R0410",
+     "label": "Tuloveroprosentti",
+     "ids": {
+      "C0010": "1913",
+      "C0020": "1906",
+      "C0030": "1903",
+      "C0040": "1902"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

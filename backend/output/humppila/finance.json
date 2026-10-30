@@ -1,0 +1,1960 @@
+{
+  "code": "103",
+  "name": "Humppila",
+  "ytunnus": "0146456-0",
+  "updated": "2026-09-30T04:00:26.728Z",
+  "source": "KKNR, KTAS",
+  "quarterly": [
+    {
+      "period": "2021Q1",
+      "value": 326609.5,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2021Q2",
+      "value": 6398.24,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2021Q3",
+      "value": 114248.81,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2021Q4",
+      "value": 412442.04,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2022Q1",
+      "value": 103781.79,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2022Q2",
+      "value": 123804.86,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2022Q3",
+      "value": -29908.38,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2022Q4",
+      "value": -177564.74,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2023Q1",
+      "value": 622152.51,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2023Q2",
+      "value": 503390.57,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2023Q3",
+      "value": 254192.29,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2023Q4",
+      "value": -15395.6,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2024Q1",
+      "value": -253324.56,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2024Q2",
+      "value": -550379.33,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2024Q3",
+      "value": -747014.96,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2024Q4",
+      "value": -1380859.01,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2025Q1",
+      "value": -35486.54,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2025Q2",
+      "value": -244101.75,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2025Q3",
+      "value": -278871.57,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2025Q4",
+      "value": -280244.32,
+      "stage": "Lopullinen"
+    },
+    {
+      "period": "2026Q1",
+      "value": -11220.2,
+      "stage": "Jälkikorjattu"
+    },
+    {
+      "period": "2026Q2",
+      "value": -154963.12,
+      "stage": "Lopullinen"
+    }
+  ],
+  "budget": [
+    {
+      "year": 2020,
+      "value": -262420
+    },
+    {
+      "year": 2021,
+      "value": 141530
+    },
+    {
+      "year": 2022,
+      "value": 40
+    },
+    {
+      "year": 2023,
+      "value": 67090
+    },
+    {
+      "year": 2024,
+      "value": -2690
+    },
+    {
+      "year": 2025,
+      "value": -147410
+    },
+    {
+      "year": 2026,
+      "value": 306980
+    }
+  ],
+  "series": {
+    "operating-income": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 252851.54
+        },
+        {
+          "period": "2021Q2",
+          "value": 562934.74
+        },
+        {
+          "period": "2021Q3",
+          "value": 781431.29
+        },
+        {
+          "period": "2021Q4",
+          "value": 1181596.72
+        },
+        {
+          "period": "2022Q1",
+          "value": 197284.11
+        },
+        {
+          "period": "2022Q2",
+          "value": 579713.62
+        },
+        {
+          "period": "2022Q3",
+          "value": 813389.41
+        },
+        {
+          "period": "2022Q4",
+          "value": 1187723.97
+        },
+        {
+          "period": "2023Q1",
+          "value": 158345.48
+        },
+        {
+          "period": "2023Q2",
+          "value": 367202.84
+        },
+        {
+          "period": "2023Q3",
+          "value": 494577.77
+        },
+        {
+          "period": "2023Q4",
+          "value": 882809.01
+        },
+        {
+          "period": "2024Q1",
+          "value": 146031.18
+        },
+        {
+          "period": "2024Q2",
+          "value": 523349.76
+        },
+        {
+          "period": "2024Q3",
+          "value": 722033.14
+        },
+        {
+          "period": "2024Q4",
+          "value": 1136168.69
+        },
+        {
+          "period": "2025Q1",
+          "value": 263495.21
+        },
+        {
+          "period": "2025Q2",
+          "value": 538662.11
+        },
+        {
+          "period": "2025Q3",
+          "value": 760293.49
+        },
+        {
+          "period": "2025Q4",
+          "value": 1129579.46
+        },
+        {
+          "period": "2026Q1",
+          "value": 314547.23
+        },
+        {
+          "period": "2026Q2",
+          "value": 616449.68
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 1176310
+        },
+        {
+          "year": 2021,
+          "value": 1143690
+        },
+        {
+          "year": 2022,
+          "value": 1201100
+        },
+        {
+          "year": 2023,
+          "value": 842460
+        },
+        {
+          "year": 2024,
+          "value": 881770
+        },
+        {
+          "year": 2025,
+          "value": 1061460
+        },
+        {
+          "year": 2026,
+          "value": 1204990
+        }
+      ]
+    },
+    "operating-costs": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 3484782.03
+        },
+        {
+          "period": "2021Q2",
+          "value": 7368826.09
+        },
+        {
+          "period": "2021Q3",
+          "value": 10783268.84
+        },
+        {
+          "period": "2021Q4",
+          "value": 14768192.75
+        },
+        {
+          "period": "2022Q1",
+          "value": 3847292.18
+        },
+        {
+          "period": "2022Q2",
+          "value": 7656609.2
+        },
+        {
+          "period": "2022Q3",
+          "value": 11466534.95
+        },
+        {
+          "period": "2022Q4",
+          "value": 15195683.98
+        },
+        {
+          "period": "2023Q1",
+          "value": 1530411.72
+        },
+        {
+          "period": "2023Q2",
+          "value": 3187068.06
+        },
+        {
+          "period": "2023Q3",
+          "value": 4961533.64
+        },
+        {
+          "period": "2023Q4",
+          "value": 7011494.66
+        },
+        {
+          "period": "2024Q1",
+          "value": 1743681.3
+        },
+        {
+          "period": "2024Q2",
+          "value": 3604277.02
+        },
+        {
+          "period": "2024Q3",
+          "value": 5488497.84
+        },
+        {
+          "period": "2024Q4",
+          "value": 7370718.54
+        },
+        {
+          "period": "2025Q1",
+          "value": 1697739.12
+        },
+        {
+          "period": "2025Q2",
+          "value": 3394405.62
+        },
+        {
+          "period": "2025Q3",
+          "value": 5256336.25
+        },
+        {
+          "period": "2025Q4",
+          "value": 7184465.11
+        },
+        {
+          "period": "2026Q1",
+          "value": 1733957.59
+        },
+        {
+          "period": "2026Q2",
+          "value": 3488493.18
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 14658820
+        },
+        {
+          "year": 2021,
+          "value": 14165600
+        },
+        {
+          "year": 2022,
+          "value": 14683670
+        },
+        {
+          "year": 2023,
+          "value": 6681670
+        },
+        {
+          "year": 2024,
+          "value": 6743700
+        },
+        {
+          "year": 2025,
+          "value": 6968770
+        },
+        {
+          "year": 2026,
+          "value": 6899850
+        }
+      ]
+    },
+    "personnel": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 788692.94
+        },
+        {
+          "period": "2021Q2",
+          "value": 1832559.94
+        },
+        {
+          "period": "2021Q3",
+          "value": 2636846.42
+        },
+        {
+          "period": "2021Q4",
+          "value": 3512540.06
+        },
+        {
+          "period": "2022Q1",
+          "value": 849486.05
+        },
+        {
+          "period": "2022Q2",
+          "value": 1735187.8
+        },
+        {
+          "period": "2022Q3",
+          "value": 2719672.95
+        },
+        {
+          "period": "2022Q4",
+          "value": 3627922.76
+        },
+        {
+          "period": "2023Q1",
+          "value": 873469.71
+        },
+        {
+          "period": "2023Q2",
+          "value": 1841161.47
+        },
+        {
+          "period": "2023Q3",
+          "value": 2917112.16
+        },
+        {
+          "period": "2023Q4",
+          "value": 4039991.2
+        },
+        {
+          "period": "2024Q1",
+          "value": 933233.59
+        },
+        {
+          "period": "2024Q2",
+          "value": 1980652.62
+        },
+        {
+          "period": "2024Q3",
+          "value": 3076176.7
+        },
+        {
+          "period": "2024Q4",
+          "value": 4053120.33
+        },
+        {
+          "period": "2025Q1",
+          "value": 917749.94
+        },
+        {
+          "period": "2025Q2",
+          "value": 1888256.1
+        },
+        {
+          "period": "2025Q3",
+          "value": 2993640.03
+        },
+        {
+          "period": "2025Q4",
+          "value": 4039125.64
+        },
+        {
+          "period": "2026Q1",
+          "value": 963066.01
+        },
+        {
+          "period": "2026Q2",
+          "value": 1969799.82
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 3412520
+        },
+        {
+          "year": 2021,
+          "value": 3543840
+        },
+        {
+          "year": 2022,
+          "value": 3293020
+        },
+        {
+          "year": 2023,
+          "value": 3822870
+        },
+        {
+          "year": 2024,
+          "value": 4007800
+        },
+        {
+          "year": 2025,
+          "value": 4030100
+        },
+        {
+          "year": 2026,
+          "value": 3847760
+        }
+      ]
+    },
+    "services": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 2403961.79
+        },
+        {
+          "period": "2021Q2",
+          "value": 4707815.63
+        },
+        {
+          "period": "2021Q3",
+          "value": 7060951.57
+        },
+        {
+          "period": "2021Q4",
+          "value": 9861388.32
+        },
+        {
+          "period": "2022Q1",
+          "value": 2685648.97
+        },
+        {
+          "period": "2022Q2",
+          "value": 5303188.58
+        },
+        {
+          "period": "2022Q3",
+          "value": 7898714.11
+        },
+        {
+          "period": "2022Q4",
+          "value": 10441154.6
+        },
+        {
+          "period": "2023Q1",
+          "value": 413668.88
+        },
+        {
+          "period": "2023Q2",
+          "value": 864585.25
+        },
+        {
+          "period": "2023Q3",
+          "value": 1341086.55
+        },
+        {
+          "period": "2023Q4",
+          "value": 1976977.66
+        },
+        {
+          "period": "2024Q1",
+          "value": 531532.84
+        },
+        {
+          "period": "2024Q2",
+          "value": 1066089.84
+        },
+        {
+          "period": "2024Q3",
+          "value": 1600454.48
+        },
+        {
+          "period": "2024Q4",
+          "value": 2245140.2
+        },
+        {
+          "period": "2025Q1",
+          "value": 514771.35
+        },
+        {
+          "period": "2025Q2",
+          "value": 965931.69
+        },
+        {
+          "period": "2025Q3",
+          "value": 1505700.05
+        },
+        {
+          "period": "2025Q4",
+          "value": 2132465.83
+        },
+        {
+          "period": "2026Q1",
+          "value": 498136.83
+        },
+        {
+          "period": "2026Q2",
+          "value": 1028909.38
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 10167450
+        },
+        {
+          "year": 2021,
+          "value": 9571160
+        },
+        {
+          "year": 2022,
+          "value": 10330780
+        },
+        {
+          "year": 2023,
+          "value": 1897220
+        },
+        {
+          "year": 2024,
+          "value": 1895050
+        },
+        {
+          "year": 2025,
+          "value": 2124330
+        },
+        {
+          "year": 2026,
+          "value": 2167530
+        }
+      ]
+    },
+    "materials": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 143105.59
+        },
+        {
+          "period": "2021Q2",
+          "value": 258502.51
+        },
+        {
+          "period": "2021Q3",
+          "value": 341962.16
+        },
+        {
+          "period": "2021Q4",
+          "value": 497895.37
+        },
+        {
+          "period": "2022Q1",
+          "value": 149423.95
+        },
+        {
+          "period": "2022Q2",
+          "value": 276874.43
+        },
+        {
+          "period": "2022Q3",
+          "value": 358870.44
+        },
+        {
+          "period": "2022Q4",
+          "value": 504700.98
+        },
+        {
+          "period": "2023Q1",
+          "value": 174842.58
+        },
+        {
+          "period": "2023Q2",
+          "value": 324961.76
+        },
+        {
+          "period": "2023Q3",
+          "value": 453705.66
+        },
+        {
+          "period": "2023Q4",
+          "value": 636897.38
+        },
+        {
+          "period": "2024Q1",
+          "value": 171518.45
+        },
+        {
+          "period": "2024Q2",
+          "value": 311133.94
+        },
+        {
+          "period": "2024Q3",
+          "value": 435182.91
+        },
+        {
+          "period": "2024Q4",
+          "value": 594553.89
+        },
+        {
+          "period": "2025Q1",
+          "value": 142330.48
+        },
+        {
+          "period": "2025Q2",
+          "value": 267638.63
+        },
+        {
+          "period": "2025Q3",
+          "value": 366257.61
+        },
+        {
+          "period": "2025Q4",
+          "value": 484133.28
+        },
+        {
+          "period": "2026Q1",
+          "value": 166255.11
+        },
+        {
+          "period": "2026Q2",
+          "value": 297821.52
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 514100
+        },
+        {
+          "year": 2021,
+          "value": 487670
+        },
+        {
+          "year": 2022,
+          "value": 481730
+        },
+        {
+          "year": 2023,
+          "value": 673540
+        },
+        {
+          "year": 2024,
+          "value": 535250
+        },
+        {
+          "year": 2025,
+          "value": 532150
+        },
+        {
+          "year": 2026,
+          "value": 541560
+        }
+      ]
+    },
+    "grants": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 60419.94
+        },
+        {
+          "period": "2021Q2",
+          "value": 138353.63
+        },
+        {
+          "period": "2021Q3",
+          "value": 202922.99
+        },
+        {
+          "period": "2021Q4",
+          "value": 255526.84
+        },
+        {
+          "period": "2022Q1",
+          "value": 65647.59
+        },
+        {
+          "period": "2022Q2",
+          "value": 148233.77
+        },
+        {
+          "period": "2022Q3",
+          "value": 200548.51
+        },
+        {
+          "period": "2022Q4",
+          "value": 239602.71
+        },
+        {
+          "period": "2023Q1",
+          "value": 55095.6
+        },
+        {
+          "period": "2023Q2",
+          "value": 116462.56
+        },
+        {
+          "period": "2023Q3",
+          "value": 180788.27
+        },
+        {
+          "period": "2023Q4",
+          "value": 258435.59
+        },
+        {
+          "period": "2024Q1",
+          "value": 66171.72
+        },
+        {
+          "period": "2024Q2",
+          "value": 148252.2
+        },
+        {
+          "period": "2024Q3",
+          "value": 238880.7
+        },
+        {
+          "period": "2024Q4",
+          "value": 304131.55
+        },
+        {
+          "period": "2025Q1",
+          "value": 92507.58
+        },
+        {
+          "period": "2025Q2",
+          "value": 191924.53
+        },
+        {
+          "period": "2025Q3",
+          "value": 281441.71
+        },
+        {
+          "period": "2025Q4",
+          "value": 385332.32
+        },
+        {
+          "period": "2026Q1",
+          "value": 90797.37
+        },
+        {
+          "period": "2026Q2",
+          "value": 167381.45
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 192000
+        },
+        {
+          "year": 2021,
+          "value": 186000
+        },
+        {
+          "year": 2022,
+          "value": 203000
+        },
+        {
+          "year": 2023,
+          "value": 211650
+        },
+        {
+          "year": 2024,
+          "value": 241500
+        },
+        {
+          "year": 2025,
+          "value": 217500
+        },
+        {
+          "year": 2026,
+          "value": 304550
+        }
+      ]
+    },
+    "other-costs": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 88601.77
+        },
+        {
+          "period": "2021Q2",
+          "value": 431594.38
+        },
+        {
+          "period": "2021Q3",
+          "value": 540585.7
+        },
+        {
+          "period": "2021Q4",
+          "value": 640842.16
+        },
+        {
+          "period": "2022Q1",
+          "value": 97085.62
+        },
+        {
+          "period": "2022Q2",
+          "value": 193124.62
+        },
+        {
+          "period": "2022Q3",
+          "value": 288728.94
+        },
+        {
+          "period": "2022Q4",
+          "value": 382302.93
+        },
+        {
+          "period": "2023Q1",
+          "value": 13334.95
+        },
+        {
+          "period": "2023Q2",
+          "value": 39897.02
+        },
+        {
+          "period": "2023Q3",
+          "value": 68841
+        },
+        {
+          "period": "2023Q4",
+          "value": 99192.83
+        },
+        {
+          "period": "2024Q1",
+          "value": 41224.7
+        },
+        {
+          "period": "2024Q2",
+          "value": 98148.42
+        },
+        {
+          "period": "2024Q3",
+          "value": 137803.05
+        },
+        {
+          "period": "2024Q4",
+          "value": 173772.57
+        },
+        {
+          "period": "2025Q1",
+          "value": 30379.77
+        },
+        {
+          "period": "2025Q2",
+          "value": 80654.67
+        },
+        {
+          "period": "2025Q3",
+          "value": 109296.85
+        },
+        {
+          "period": "2025Q4",
+          "value": 143408.04
+        },
+        {
+          "period": "2026Q1",
+          "value": 15702.27
+        },
+        {
+          "period": "2026Q2",
+          "value": 24581.01
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 372750
+        },
+        {
+          "year": 2021,
+          "value": 376930
+        },
+        {
+          "year": 2022,
+          "value": 375140
+        },
+        {
+          "year": 2023,
+          "value": 76390
+        },
+        {
+          "year": 2024,
+          "value": 64100
+        },
+        {
+          "year": 2025,
+          "value": 64690
+        },
+        {
+          "year": 2026,
+          "value": 38450
+        }
+      ]
+    },
+    "operating-margin": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": -3231930.4899999998
+        },
+        {
+          "period": "2021Q2",
+          "value": -6805891.35
+        },
+        {
+          "period": "2021Q3",
+          "value": -10001837.55
+        },
+        {
+          "period": "2021Q4",
+          "value": -13586596.03
+        },
+        {
+          "period": "2022Q1",
+          "value": -3650008.07
+        },
+        {
+          "period": "2022Q2",
+          "value": -7076895.58
+        },
+        {
+          "period": "2022Q3",
+          "value": -10653145.54
+        },
+        {
+          "period": "2022Q4",
+          "value": -14007960.01
+        },
+        {
+          "period": "2023Q1",
+          "value": -1372066.24
+        },
+        {
+          "period": "2023Q2",
+          "value": -2819865.22
+        },
+        {
+          "period": "2023Q3",
+          "value": -4466955.87
+        },
+        {
+          "period": "2023Q4",
+          "value": -6128685.65
+        },
+        {
+          "period": "2024Q1",
+          "value": -1597650.12
+        },
+        {
+          "period": "2024Q2",
+          "value": -3080927.26
+        },
+        {
+          "period": "2024Q3",
+          "value": -4766464.7
+        },
+        {
+          "period": "2024Q4",
+          "value": -6234549.85
+        },
+        {
+          "period": "2025Q1",
+          "value": -1434243.91
+        },
+        {
+          "period": "2025Q2",
+          "value": -2855743.51
+        },
+        {
+          "period": "2025Q3",
+          "value": -4496042.76
+        },
+        {
+          "period": "2025Q4",
+          "value": -6054885.65
+        },
+        {
+          "period": "2026Q1",
+          "value": -1419410.36
+        },
+        {
+          "period": "2026Q2",
+          "value": -2872043.5
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": -13482510
+        },
+        {
+          "year": 2021,
+          "value": -13021910
+        },
+        {
+          "year": 2022,
+          "value": -13482570
+        },
+        {
+          "year": 2023,
+          "value": -5839210
+        },
+        {
+          "year": 2024,
+          "value": -5861930
+        },
+        {
+          "year": 2025,
+          "value": -5907310
+        },
+        {
+          "year": 2026,
+          "value": -5694860
+        }
+      ]
+    },
+    "taxes": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 2200308.31
+        },
+        {
+          "period": "2021Q2",
+          "value": 4097756.15
+        },
+        {
+          "period": "2021Q3",
+          "value": 6042951.57
+        },
+        {
+          "period": "2021Q4",
+          "value": 8178394.62
+        },
+        {
+          "period": "2022Q1",
+          "value": 2352415.29
+        },
+        {
+          "period": "2022Q2",
+          "value": 4401288.85
+        },
+        {
+          "period": "2022Q3",
+          "value": 6386911.29
+        },
+        {
+          "period": "2022Q4",
+          "value": 8168123.99
+        },
+        {
+          "period": "2023Q1",
+          "value": 1642754.21
+        },
+        {
+          "period": "2023Q2",
+          "value": 2635646.08
+        },
+        {
+          "period": "2023Q3",
+          "value": 3686940.65
+        },
+        {
+          "period": "2023Q4",
+          "value": 4742890.05
+        },
+        {
+          "period": "2024Q1",
+          "value": 1125021.67
+        },
+        {
+          "period": "2024Q2",
+          "value": 2106989.63
+        },
+        {
+          "period": "2024Q3",
+          "value": 3392040.8
+        },
+        {
+          "period": "2024Q4",
+          "value": 4782368.6
+        },
+        {
+          "period": "2025Q1",
+          "value": 1174548.6
+        },
+        {
+          "period": "2025Q2",
+          "value": 2170362.34
+        },
+        {
+          "period": "2025Q3",
+          "value": 3555483.87
+        },
+        {
+          "period": "2025Q4",
+          "value": 4755296.79
+        },
+        {
+          "period": "2026Q1",
+          "value": 1242243.33
+        },
+        {
+          "period": "2026Q2",
+          "value": 2390930.63
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 7891000
+        },
+        {
+          "year": 2021,
+          "value": 7752000
+        },
+        {
+          "year": 2022,
+          "value": 7875000
+        },
+        {
+          "year": 2023,
+          "value": 4577000
+        },
+        {
+          "year": 2024,
+          "value": 4817500
+        },
+        {
+          "year": 2025,
+          "value": 4892000
+        },
+        {
+          "year": 2026,
+          "value": 5219000
+        }
+      ]
+    },
+    "municipal-tax": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 1911350.34
+        },
+        {
+          "period": "2021Q2",
+          "value": 3736150.44
+        },
+        {
+          "period": "2021Q3",
+          "value": 5182889.47
+        },
+        {
+          "period": "2021Q4",
+          "value": 7025655.51
+        },
+        {
+          "period": "2022Q1",
+          "value": 2021110.61
+        },
+        {
+          "period": "2022Q2",
+          "value": 3941034.86
+        },
+        {
+          "period": "2022Q3",
+          "value": 5372494.69
+        },
+        {
+          "period": "2022Q4",
+          "value": 6908558.53
+        },
+        {
+          "period": "2023Q1",
+          "value": 1434829.12
+        },
+        {
+          "period": "2023Q2",
+          "value": 2340321.99
+        },
+        {
+          "period": "2023Q3",
+          "value": 2876972.57
+        },
+        {
+          "period": "2023Q4",
+          "value": 3603833.51
+        },
+        {
+          "period": "2024Q1",
+          "value": 951240.76
+        },
+        {
+          "period": "2024Q2",
+          "value": 1857249.68
+        },
+        {
+          "period": "2024Q3",
+          "value": 2567215.93
+        },
+        {
+          "period": "2024Q4",
+          "value": 3755362.11
+        },
+        {
+          "period": "2025Q1",
+          "value": 1022492.86
+        },
+        {
+          "period": "2025Q2",
+          "value": 1941532.77
+        },
+        {
+          "period": "2025Q3",
+          "value": 2719347.55
+        },
+        {
+          "period": "2025Q4",
+          "value": 3706629.83
+        },
+        {
+          "period": "2026Q1",
+          "value": 1097457.75
+        },
+        {
+          "period": "2026Q2",
+          "value": 2170829.35
+        }
+      ],
+      "budget": []
+    },
+    "property-tax": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 58812.17
+        },
+        {
+          "period": "2021Q2",
+          "value": -6283.95
+        },
+        {
+          "period": "2021Q3",
+          "value": 369633.87
+        },
+        {
+          "period": "2021Q4",
+          "value": 511414.06
+        },
+        {
+          "period": "2022Q1",
+          "value": 59043.16
+        },
+        {
+          "period": "2022Q2",
+          "value": 69590.66
+        },
+        {
+          "period": "2022Q3",
+          "value": 482081.27
+        },
+        {
+          "period": "2022Q4",
+          "value": 601989.34
+        },
+        {
+          "period": "2023Q1",
+          "value": 20364.91
+        },
+        {
+          "period": "2023Q2",
+          "value": 31378.75
+        },
+        {
+          "period": "2023Q3",
+          "value": 471717.49
+        },
+        {
+          "period": "2023Q4",
+          "value": 723047.95
+        },
+        {
+          "period": "2024Q1",
+          "value": 44585.74
+        },
+        {
+          "period": "2024Q2",
+          "value": 55823.55
+        },
+        {
+          "period": "2024Q3",
+          "value": 571813.54
+        },
+        {
+          "period": "2024Q4",
+          "value": 710071.78
+        },
+        {
+          "period": "2025Q1",
+          "value": 42907.15
+        },
+        {
+          "period": "2025Q2",
+          "value": 55280.03
+        },
+        {
+          "period": "2025Q3",
+          "value": 595296.93
+        },
+        {
+          "period": "2025Q4",
+          "value": 746778.98
+        },
+        {
+          "period": "2026Q1",
+          "value": 26259.86
+        },
+        {
+          "period": "2026Q2",
+          "value": 36605.16
+        }
+      ],
+      "budget": []
+    },
+    "corporate-tax": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 230145.8
+        },
+        {
+          "period": "2021Q2",
+          "value": 367889.66
+        },
+        {
+          "period": "2021Q3",
+          "value": 490428.23
+        },
+        {
+          "period": "2021Q4",
+          "value": 641325.05
+        },
+        {
+          "period": "2022Q1",
+          "value": 272261.52
+        },
+        {
+          "period": "2022Q2",
+          "value": 390663.33
+        },
+        {
+          "period": "2022Q3",
+          "value": 532335.33
+        },
+        {
+          "period": "2022Q4",
+          "value": 657576.12
+        },
+        {
+          "period": "2023Q1",
+          "value": 187560.18
+        },
+        {
+          "period": "2023Q2",
+          "value": 263945.34
+        },
+        {
+          "period": "2023Q3",
+          "value": 338250.59
+        },
+        {
+          "period": "2023Q4",
+          "value": 416008.59
+        },
+        {
+          "period": "2024Q1",
+          "value": 129195.17
+        },
+        {
+          "period": "2024Q2",
+          "value": 193916.4
+        },
+        {
+          "period": "2024Q3",
+          "value": 253011.33
+        },
+        {
+          "period": "2024Q4",
+          "value": 316934.71
+        },
+        {
+          "period": "2025Q1",
+          "value": 109148.59
+        },
+        {
+          "period": "2025Q2",
+          "value": 173549.54
+        },
+        {
+          "period": "2025Q3",
+          "value": 240839.39
+        },
+        {
+          "period": "2025Q4",
+          "value": 301887.98
+        },
+        {
+          "period": "2026Q1",
+          "value": 118525.72
+        },
+        {
+          "period": "2026Q2",
+          "value": 183496.12
+        }
+      ],
+      "budget": []
+    },
+    "state-aid": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 1443927
+        },
+        {
+          "period": "2021Q2",
+          "value": 2888187
+        },
+        {
+          "period": "2021Q3",
+          "value": 4332447
+        },
+        {
+          "period": "2021Q4",
+          "value": 6170355
+        },
+        {
+          "period": "2022Q1",
+          "value": 1484316
+        },
+        {
+          "period": "2022Q2",
+          "value": 2968632
+        },
+        {
+          "period": "2022Q3",
+          "value": 4489358
+        },
+        {
+          "period": "2022Q4",
+          "value": 6029663
+        },
+        {
+          "period": "2023Q1",
+          "value": 436887
+        },
+        {
+          "period": "2023Q2",
+          "value": 873774
+        },
+        {
+          "period": "2023Q3",
+          "value": 1310661
+        },
+        {
+          "period": "2023Q4",
+          "value": 1755005
+        },
+        {
+          "period": "2024Q1",
+          "value": 318393
+        },
+        {
+          "period": "2024Q2",
+          "value": 636786
+        },
+        {
+          "period": "2024Q3",
+          "value": 957131
+        },
+        {
+          "period": "2024Q4",
+          "value": 1277500
+        },
+        {
+          "period": "2025Q1",
+          "value": 340732
+        },
+        {
+          "period": "2025Q2",
+          "value": 681463
+        },
+        {
+          "period": "2025Q3",
+          "value": 1023540
+        },
+        {
+          "period": "2025Q4",
+          "value": 1676155
+        },
+        {
+          "period": "2026Q1",
+          "value": 298995
+        },
+        {
+          "period": "2026Q2",
+          "value": 597990
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 5725070
+        },
+        {
+          "year": 2021,
+          "value": 5810050
+        },
+        {
+          "year": 2022,
+          "value": 5966780
+        },
+        {
+          "year": 2023,
+          "value": 1700360
+        },
+        {
+          "year": 2024,
+          "value": 1388250
+        },
+        {
+          "year": 2025,
+          "value": 1317610
+        },
+        {
+          "year": 2026,
+          "value": 1189500
+        }
+      ]
+    },
+    "interest": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 1787.62
+        },
+        {
+          "period": "2021Q2",
+          "value": 12867.98
+        },
+        {
+          "period": "2021Q3",
+          "value": 16999.38
+        },
+        {
+          "period": "2021Q4",
+          "value": 35956.46
+        },
+        {
+          "period": "2022Q1",
+          "value": 0
+        },
+        {
+          "period": "2022Q2",
+          "value": 10887.04
+        },
+        {
+          "period": "2022Q3",
+          "value": 13968.57
+        },
+        {
+          "period": "2022Q4",
+          "value": 55385.97
+        },
+        {
+          "period": "2023Q1",
+          "value": 1035.69
+        },
+        {
+          "period": "2023Q2",
+          "value": 27212.15
+        },
+        {
+          "period": "2023Q3",
+          "value": 29232.45
+        },
+        {
+          "period": "2023Q4",
+          "value": 64748.67
+        },
+        {
+          "period": "2024Q1",
+          "value": 5012.39
+        },
+        {
+          "period": "2024Q2",
+          "value": 45317.25
+        },
+        {
+          "period": "2024Q3",
+          "value": 73100.26
+        },
+        {
+          "period": "2024Q4",
+          "value": 110993.82
+        },
+        {
+          "period": "2025Q1",
+          "value": 7359.03
+        },
+        {
+          "period": "2025Q2",
+          "value": 56203.23
+        },
+        {
+          "period": "2025Q3",
+          "value": 72953.8
+        },
+        {
+          "period": "2025Q4",
+          "value": 91160.98
+        },
+        {
+          "period": "2026Q1",
+          "value": 28467.07
+        },
+        {
+          "period": "2026Q2",
+          "value": 58648.88
+        }
+      ],
+      "budget": []
+    },
+    "loans": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 5150024.95
+        },
+        {
+          "period": "2021Q2",
+          "value": 4900043.75
+        },
+        {
+          "period": "2021Q3",
+          "value": 4825069.15
+        },
+        {
+          "period": "2021Q4",
+          "value": 4575000
+        },
+        {
+          "period": "2022Q1",
+          "value": 4500029.5600000005
+        },
+        {
+          "period": "2022Q2",
+          "value": 4250048.96
+        },
+        {
+          "period": "2022Q3",
+          "value": 4175073.8600000003
+        },
+        {
+          "period": "2022Q4",
+          "value": 3925000
+        },
+        {
+          "period": "2023Q1",
+          "value": 3850000
+        },
+        {
+          "period": "2023Q2",
+          "value": 3600000
+        },
+        {
+          "period": "2023Q3",
+          "value": 3525000
+        },
+        {
+          "period": "2023Q4",
+          "value": 3725000
+        },
+        {
+          "period": "2024Q1",
+          "value": 4250000
+        },
+        {
+          "period": "2024Q2",
+          "value": 4477500
+        },
+        {
+          "period": "2024Q3",
+          "value": 4702500
+        },
+        {
+          "period": "2024Q4",
+          "value": 4190000
+        },
+        {
+          "period": "2025Q1",
+          "value": 4115000
+        },
+        {
+          "period": "2025Q2",
+          "value": 4165000
+        },
+        {
+          "period": "2025Q3",
+          "value": 3965000
+        },
+        {
+          "period": "2025Q4",
+          "value": 3965000
+        },
+        {
+          "period": "2026Q1",
+          "value": 3965000
+        },
+        {
+          "period": "2026Q2",
+          "value": 4515000
+        }
+      ],
+      "budget": [
+        {
+          "year": 2020,
+          "value": 6325000
+        },
+        {
+          "year": 2021,
+          "value": 6675000
+        },
+        {
+          "year": 2022,
+          "value": 4575000
+        },
+        {
+          "year": 2023,
+          "value": 3925000
+        },
+        {
+          "year": 2024,
+          "value": 3275000
+        },
+        {
+          "year": 2025,
+          "value": 4190000
+        },
+        {
+          "year": 2026,
+          "value": 3900220
+        }
+      ],
+      "stock": true
+    },
+    "interest-rate": {
+      "quarterly": [
+        {
+          "period": "2021Q1",
+          "value": 0.139
+        },
+        {
+          "period": "2021Q2",
+          "value": 0.525
+        },
+        {
+          "period": "2021Q3",
+          "value": 0.47
+        },
+        {
+          "period": "2021Q4",
+          "value": 0.786
+        },
+        {
+          "period": "2022Q1",
+          "value": 0
+        },
+        {
+          "period": "2022Q2",
+          "value": 0.512
+        },
+        {
+          "period": "2022Q3",
+          "value": 0.446
+        },
+        {
+          "period": "2022Q4",
+          "value": 1.411
+        },
+        {
+          "period": "2023Q1",
+          "value": 0.108
+        },
+        {
+          "period": "2023Q2",
+          "value": 1.512
+        },
+        {
+          "period": "2023Q3",
+          "value": 1.106
+        },
+        {
+          "period": "2023Q4",
+          "value": 1.738
+        },
+        {
+          "period": "2024Q1",
+          "value": 0.472
+        },
+        {
+          "period": "2024Q2",
+          "value": 2.024
+        },
+        {
+          "period": "2024Q3",
+          "value": 2.073
+        },
+        {
+          "period": "2024Q4",
+          "value": 2.649
+        },
+        {
+          "period": "2025Q1",
+          "value": 0.715
+        },
+        {
+          "period": "2025Q2",
+          "value": 2.699
+        },
+        {
+          "period": "2025Q3",
+          "value": 2.453
+        },
+        {
+          "period": "2025Q4",
+          "value": 2.299
+        },
+        {
+          "period": "2026Q1",
+          "value": 2.872
+        },
+        {
+          "period": "2026Q2",
+          "value": 2.598
+        }
+      ],
+      "budget": [],
+      "stock": true
+    }
+  }
+}

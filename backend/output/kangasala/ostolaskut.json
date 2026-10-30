@@ -1,0 +1,2365 @@
+{
+ "code": "211",
+ "name": "Kangasala",
+ "source": "Kunnan julkaisema ostolaskudata (aineisto/ostolaskut)",
+ "note": "Summat ilman arvonlisäveroa. Ylöjärven aineistosta on poistettu yksityishenkilöt ja toiminimet.",
+ "years": {
+  "2023": {
+   "total": 124395783.51,
+   "operating": 93083037.49,
+   "rows": 49565,
+   "invoices": 28478,
+   "suppliers": 1702,
+   "top10Share": 0.5218,
+   "smallInvoices": {
+    "limit": 500,
+    "count": 17827,
+    "sum": 2877946.28,
+    "share": 0.626
+   },
+   "groups": {
+    "Muiden palvelujen ostot": 61539607.75,
+    "Investoinnit ja tase-erät": 31312746.02,
+    "Aineet, tarvikkeet ja tavarat": 13280774.87,
+    "Avustukset": 6719140.46,
+    "Asiakaspalvelujen ostot": 6223268.51,
+    "Vuokrat": 2821354.48,
+    "Muut": 1799222.91,
+    "Muut toimintakulut": 687802.66,
+    "Henkilöstökulut": 11865.85
+   },
+   "monthly": [
+    8473561.01,
+    8272754.91,
+    6655919.0,
+    10221560.6,
+    14015301.54,
+    10915750.37,
+    8361968.4,
+    9183561.2,
+    10921772.08,
+    9524227.13,
+    11288808.21,
+    16560599.06
+   ],
+   "topSuppliers": [
+    {
+     "id": "1728244-6",
+     "name": "SRV Rakennus Oy",
+     "sum": 17783085.16,
+     "rows": 95
+    },
+    {
+     "id": "0119343-0",
+     "name": "Keva",
+     "sum": 14342474.93,
+     "rows": 85
+    },
+    {
+     "id": "1701683-4",
+     "name": "Kuntarahoitus Oyj",
+     "sum": 13342071.52,
+     "rows": 52
+    },
+    {
+     "id": "0211675-2",
+     "name": "Tampereen kaupunki",
+     "sum": 6644056.8,
+     "rows": 491
+    },
+    {
+     "id": "0246246-0",
+     "name": "Kansaneläkelaitos",
+     "sum": 3680279.63,
+     "rows": 25
+    },
+    {
+     "id": "2386282-6",
+     "name": "Stadshypotek AB (publ), filialverksamheten i Finland",
+     "sum": 2352642.2,
+     "rows": 17
+    },
+    {
+     "id": "1964167-6",
+     "name": "Infra Kiri Oy",
+     "sum": 1849561.22,
+     "rows": 31
+    },
+    {
+     "id": "0168716-6",
+     "name": "Kreate Oy",
+     "sum": 1721268.44,
+     "rows": 71
+    },
+    {
+     "id": "0756091-6",
+     "name": "TerraWise Oy",
+     "sum": 1647409.12,
+     "rows": 71
+    },
+    {
+     "id": "1840113-6",
+     "name": "Pilke päiväkodit Oy",
+     "sum": 1552788.71,
+     "rows": 130
+    },
+    {
+     "id": "2704961-3",
+     "name": "Touhula Nauru Oy",
+     "sum": 1514175.27,
+     "rows": 102
+    },
+    {
+     "id": "0510578-4",
+     "name": "Kangasalan Lämpö Oy",
+     "sum": 1431161.82,
+     "rows": 559
+    },
+    {
+     "id": "0965649-5",
+     "name": "Rakentajat Saarikko Oy",
+     "sum": 1412562.29,
+     "rows": 47
+    },
+    {
+     "id": "2678698-8",
+     "name": "Tuominen Yhtiöt Oy",
+     "sum": 1358142.21,
+     "rows": 279
+    },
+    {
+     "id": "2889418-1",
+     "name": "Vision Infra Oy",
+     "sum": 1307835.56,
+     "rows": 28
+    },
+    {
+     "id": "1040845-6",
+     "name": "Hervannan Kaivin Oy",
+     "sum": 1295998.71,
+     "rows": 17
+    },
+    {
+     "id": "1098099-7",
+     "name": "Työllisyysrahasto",
+     "sum": 1271328.23,
+     "rows": 26
+    },
+    {
+     "id": "2151762-3",
+     "name": "Kangasalan Uimahalli Oy",
+     "sum": 1270747.36,
+     "rows": 17
+    },
+    {
+     "id": "3001882-6",
+     "name": "Elenia Verkko Oyj",
+     "sum": 1176006.94,
+     "rows": 1972
+    },
+    {
+     "id": "0112305-3",
+     "name": "Nordea Rahoitus Suomi Oy",
+     "sum": 1140739.21,
+     "rows": 772
+    },
+    {
+     "id": "0172688-2",
+     "name": "Lujatalo Oy",
+     "sum": 1110465.46,
+     "rows": 2
+    },
+    {
+     "id": "0101197-5",
+     "name": "Ramboll Finland Oy",
+     "sum": 1076959.65,
+     "rows": 287
+    },
+    {
+     "id": "1546343-8",
+     "name": "Lekolar-Printel Oy",
+     "sum": 1006815.83,
+     "rows": 330
+    },
+    {
+     "id": "2912961-7",
+     "name": "Business Kangasala Oy",
+     "sum": 996711.69,
+     "rows": 15
+    },
+    {
+     "id": "2360731-5",
+     "name": "Sarastia Oy",
+     "sum": 985266.0,
+     "rows": 355
+    },
+    {
+     "id": "2862470-4",
+     "name": "JHS Hankerakennus Oy",
+     "sum": 960993.77,
+     "rows": 31
+    },
+    {
+     "id": "2592490-4",
+     "name": "Kangasala-talo Oy",
+     "sum": 954586.39,
+     "rows": 62
+    },
+    {
+     "id": "1769203-1",
+     "name": "Elintarviketukku Rikainen Oy",
+     "sum": 894540.12,
+     "rows": 1431
+    },
+    {
+     "id": "2038931-6",
+     "name": "Lumme Energia Oy",
+     "sum": 859701.37,
+     "rows": 1883
+    },
+    {
+     "id": "2163026-3",
+     "name": "Destia Oy",
+     "sum": 835277.62,
+     "rows": 110
+    },
+    {
+     "id": "0564498-0",
+     "name": "Putkistosaneeraus Eerola Oy",
+     "sum": 754419.25,
+     "rows": 31
+    },
+    {
+     "id": "0641873-1",
+     "name": "Kiinteistö Oy Kangasalan Timantti",
+     "sum": 750000.0,
+     "rows": 3
+    },
+    {
+     "id": "0110031-0",
+     "name": "Storia Oy",
+     "sum": 720495.59,
+     "rows": 409
+    },
+    {
+     "id": "0533755-0",
+     "name": "Alisa Pankki Oyj",
+     "sum": 684920.94,
+     "rows": 30
+    },
+    {
+     "id": "2113001-5",
+     "name": "Feelia Oy",
+     "sum": 638170.44,
+     "rows": 599
+    },
+    {
+     "id": "0826597-8",
+     "name": "Pirkanmaan Sairaanhoitopiirin kuntayhtymä",
+     "sum": 598550.34,
+     "rows": 10
+    },
+    {
+     "id": "0488027-9",
+     "name": "Kangasalan Parkki Oy",
+     "sum": 589999.92,
+     "rows": 13
+    },
+    {
+     "id": "2465039-0",
+     "name": "Parmaco Oy",
+     "sum": 554164.32,
+     "rows": 27
+    },
+    {
+     "id": "0794541-0",
+     "name": "A-Insinöörit Rakennuttaminen Oy",
+     "sum": 549950.04,
+     "rows": 77
+    },
+    {
+     "id": "0816444-8",
+     "name": "Electrolux Professional Oy",
+     "sum": 549030.68,
+     "rows": 34
+    }
+   ],
+   "topAccounts": [
+    {
+     "account": 4390,
+     "name": "Rakennusten  ja alueiden rakentamis- ja kunnossapitopalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 39898742.23,
+     "rows": 4044
+    },
+    {
+     "account": 2510,
+     "name": "Lainat rahoitus- ja vakuutuslaitoksilta (+ PA vähennys)",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 14016666.0,
+     "rows": 35
+    },
+    {
+     "account": 2770,
+     "name": "Tapaturmavakuutusmaksu työnantaja",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 11563767.32,
+     "rows": 66
+    },
+    {
+     "account": 4341,
+     "name": "Toimisto- ja asiantuntijapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 6793592.38,
+     "rows": 3186
+    },
+    {
+     "account": 4420,
+     "name": "Oppilaskuljetukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 5023777.93,
+     "rows": 1358
+    },
+    {
+     "account": 4740,
+     "name": "Muut avustukset yhteisöille",
+     "group": "Avustukset",
+     "sum": 4633605.58,
+     "rows": 356
+    },
+    {
+     "account": 2601,
+     "name": "VEL-maksut työntekijä",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 4425542.94,
+     "rows": 45
+    },
+    {
+     "account": 4580,
+     "name": "Kalusto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 4129064.45,
+     "rows": 1756
+    },
+    {
+     "account": 4560,
+     "name": "Polttoaineet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 4097316.1,
+     "rows": 5329
+    },
+    {
+     "account": 4305,
+     "name": "Muut palvelusetelikulut",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 3756607.6,
+     "rows": 423
+    },
+    {
+     "account": 4460,
+     "name": "Muut yhteistoimintaosuudet",
+     "group": "Muiden palvelujen ostot",
+     "sum": 3161119.77,
+     "rows": 50
+    },
+    {
+     "account": 4342,
+     "name": "ICT-palvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 2345018.22,
+     "rows": 7783
+    },
+    {
+     "account": 4300,
+     "name": "Asiakaspalvelujen ostot",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 2184717.22,
+     "rows": 509
+    },
+    {
+     "account": 4700,
+     "name": "Lasten kotihoidon tuki",
+     "group": "Avustukset",
+     "sum": 2068814.88,
+     "rows": 65
+    },
+    {
+     "account": 4520,
+     "name": "Elintarvikkeet, lähiruoka",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 1957280.56,
+     "rows": 5052
+    },
+    {
+     "account": 6240,
+     "name": "Korkokulut lainoista",
+     "group": "Muut",
+     "sum": 1677364.6,
+     "rows": 33
+    },
+    {
+     "account": 4840,
+     "name": "Leasing-vuokrat",
+     "group": "Vuokrat",
+     "sum": 1408559.91,
+     "rows": 1974
+    },
+    {
+     "account": 4810,
+     "name": "Rakennusten vuokrakulut",
+     "group": "Vuokrat",
+     "sum": 1304626.99,
+     "rows": 817
+    },
+    {
+     "account": 4470,
+     "name": "Muut palvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 1180453.33,
+     "rows": 791
+    },
+    {
+     "account": 4590,
+     "name": "Rakennusmateriaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 1016884.98,
+     "rows": 1690
+    },
+    {
+     "account": 4400,
+     "name": "Koneiden, kaluston ja laitteiden rakentamis ja kunnossapitop",
+     "group": "Muiden palvelujen ostot",
+     "sum": 834532.22,
+     "rows": 946
+    },
+    {
+     "account": 4510,
+     "name": "Kirjallisuus",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 787694.29,
+     "rows": 864
+    },
+    {
+     "account": 4430,
+     "name": "Sosiaali- ja terveyspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 740067.88,
+     "rows": 798
+    },
+    {
+     "account": 4500,
+     "name": "Toimisto- ja koulutarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 556290.37,
+     "rows": 1534
+    },
+    {
+     "account": 1248,
+     "name": "Muut saamiset (+ lisäys)",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 500000.0,
+     "rows": 2
+    },
+    {
+     "account": 4440,
+     "name": "Koulutuspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 443596.91,
+     "rows": 684
+    },
+    {
+     "account": 4950,
+     "name": "Muut kulut",
+     "group": "Muut toimintakulut",
+     "sum": 405795.8,
+     "rows": 1275
+    },
+    {
+     "account": 4380,
+     "name": "Puhtaanapito- ja pesulapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 398290.23,
+     "rows": 1477
+    },
+    {
+     "account": 1199,
+     "name": "KOM-hankintojen välitili",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 345930.5,
+     "rows": 3
+    },
+    {
+     "account": 4410,
+     "name": "Majoitus- ja ravitsemuspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 316248.2,
+     "rows": 855
+    },
+    {
+     "account": 4600,
+     "name": "Muu materiaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 304145.23,
+     "rows": 1804
+    },
+    {
+     "account": 4304,
+     "name": "Kotikuntakorvaukset",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 261981.85,
+     "rows": 15
+    },
+    {
+     "account": 2730,
+     "name": "Muut siirtovelat",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 258753.07,
+     "rows": 4
+    },
+    {
+     "account": 4880,
+     "name": "Muut vuokrat",
+     "group": "Muut toimintakulut",
+     "sum": 227235.28,
+     "rows": 411
+    },
+    {
+     "account": 4550,
+     "name": "Siivousaineet ja -tarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 221525.96,
+     "rows": 1192
+    },
+    {
+     "account": 4350,
+     "name": "Painatukset ja ilmoitukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 207180.87,
+     "rows": 359
+    },
+    {
+     "account": 4370,
+     "name": "Vakuutukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 114937.83,
+     "rows": 103
+    },
+    {
+     "account": 4530,
+     "name": "Vaatteisto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 113812.12,
+     "rows": 474
+    },
+    {
+     "account": 4534,
+     "name": "Hoitotarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 77573.39,
+     "rows": 183
+    },
+    {
+     "account": 4830,
+     "name": "Rakennusten ja huoneistojen pääomavastikkeet",
+     "group": "Vuokrat",
+     "sum": 73647.4,
+     "rows": 106
+    }
+   ],
+   "topCostCenters": [
+    {
+     "name": "Tasekustannuspaikka",
+     "sum": 30175091.31
+    },
+    {
+     "name": "Rakennuttaminen",
+     "sum": 25604981.81
+    },
+    {
+     "name": "Liikennealueet yhteiset työt",
+     "sum": 6749349.2
+    },
+    {
+     "name": "Lastenhoidon tuet",
+     "sum": 5776051.55
+    },
+    {
+     "name": "Kiinteistön käyttökustannukset",
+     "sum": 3265945.72
+    },
+    {
+     "name": "Liikennepalvelut",
+     "sum": 3217785.17
+    },
+    {
+     "name": "Puistot ja muut yleiset alueet",
+     "sum": 2735883.48
+    },
+    {
+     "name": "Ateria ja siivous",
+     "sum": 2720773.91
+    },
+    {
+     "name": "Veden jakelu",
+     "sum": 2446624.22
+    },
+    {
+     "name": "Viemäriveden johtamisverkko",
+     "sum": 2355297.7
+    },
+    {
+     "name": "Jäteveden puhdistus",
+     "sum": 2345219.57
+    },
+    {
+     "name": "Strategisen johdon avustukset ja jäsenmaksut",
+     "sum": 2053098.15
+    },
+    {
+     "name": "Hoito ja huolto",
+     "sum": 1977058.33
+    },
+    {
+     "name": "Työmarkkinatuen kuntaosuus",
+     "sum": 1665542.78
+    },
+    {
+     "name": "Rahoituserät",
+     "sum": 1660100.56
+    },
+    {
+     "name": "Vuokraustoiminta",
+     "sum": 1448907.4
+    },
+    {
+     "name": "Liikuntapaikat",
+     "sum": 1302860.32
+    },
+    {
+     "name": "Koulujen yhteiset",
+     "sum": 1217753.25
+    },
+    {
+     "name": "Lamminrahkan yhtenäiskoulu",
+     "sum": 1171560.92
+    },
+    {
+     "name": "Sosiaali- ja terveystoimi",
+     "sum": 1032369.79
+    },
+    {
+     "name": "Elinkeinopalvelut",
+     "sum": 990000.0
+    },
+    {
+     "name": "Erillistyöt",
+     "sum": 916386.24
+    },
+    {
+     "name": "Strategisen johdon yhteispalvelut",
+     "sum": 867791.55
+    },
+    {
+     "name": "Yleisen kulttuuritoiminnan palvelut",
+     "sum": 827341.12
+    },
+    {
+     "name": "Keskitetyt ICT-palvelut",
+     "sum": 779922.83
+    }
+   ]
+  },
+  "2024": {
+   "total": 117615244.17,
+   "operating": 83399300.94,
+   "rows": 44757,
+   "invoices": 26161,
+   "suppliers": 1524,
+   "top10Share": 0.5602,
+   "smallInvoices": {
+    "limit": 500,
+    "count": 16439,
+    "sum": 2652858.07,
+    "share": 0.6284
+   },
+   "groups": {
+    "Muiden palvelujen ostot": 53849708.45,
+    "Investoinnit ja tase-erät": 34215943.23,
+    "Aineet, tarvikkeet ja tavarat": 11282363.27,
+    "Avustukset": 6420107.11,
+    "Asiakaspalvelujen ostot": 5467351.74,
+    "Vuokrat": 3200323.59,
+    "Muut": 2556721.39,
+    "Muut toimintakulut": 622354.61,
+    "Henkilöstökulut": 370.78
+   },
+   "monthly": [
+    5507460.0,
+    6454150.83,
+    9471595.39,
+    6941810.49,
+    10390674.5,
+    10657461.13,
+    9273955.64,
+    7627084.73,
+    11547937.77,
+    10656633.9,
+    11709480.8,
+    17376998.99
+   ],
+   "topSuppliers": [
+    {
+     "id": "1701683-4",
+     "name": "Kuntarahoitus Oyj",
+     "sum": 15447894.09,
+     "rows": 53
+    },
+    {
+     "id": "0119343-0",
+     "name": "Keva",
+     "sum": 14163780.24,
+     "rows": 75
+    },
+    {
+     "id": "1728244-6",
+     "name": "SRV Rakennus Oy",
+     "sum": 10660444.68,
+     "rows": 44
+    },
+    {
+     "id": "0172688-2",
+     "name": "Lujatalo Oy",
+     "sum": 8927357.15,
+     "rows": 17
+    },
+    {
+     "id": "0211675-2",
+     "name": "Tampereen kaupunki",
+     "sum": 4278791.15,
+     "rows": 438
+    },
+    {
+     "id": "0246246-0",
+     "name": "Kansaneläkelaitos",
+     "sum": 3525816.36,
+     "rows": 27
+    },
+    {
+     "id": "3381716-4",
+     "name": "Tampereen Vesi Oy",
+     "sum": 2481590.02,
+     "rows": 30
+    },
+    {
+     "id": "2386282-6",
+     "name": "Stadshypotek AB (publ), filialverksamheten i Finland",
+     "sum": 2324489.42,
+     "rows": 17
+    },
+    {
+     "id": "1040845-6",
+     "name": "Hervannan Kaivin Oy",
+     "sum": 2200334.33,
+     "rows": 85
+    },
+    {
+     "id": "0756091-6",
+     "name": "TerraWise Oy",
+     "sum": 1881107.21,
+     "rows": 92
+    },
+    {
+     "id": "0147998-1",
+     "name": "Kiinteistö Oy Taloherttua",
+     "sum": 1648676.22,
+     "rows": 4
+    },
+    {
+     "id": "2704961-3",
+     "name": "Touhula Nauru Oy",
+     "sum": 1645739.12,
+     "rows": 51
+    },
+    {
+     "id": "0168716-6",
+     "name": "Kreate Oy",
+     "sum": 1529217.19,
+     "rows": 85
+    },
+    {
+     "id": "1840113-6",
+     "name": "Pilke päiväkodit Oy",
+     "sum": 1486967.97,
+     "rows": 57
+    },
+    {
+     "id": "1098099-7",
+     "name": "Työllisyysrahasto",
+     "sum": 1365556.23,
+     "rows": 34
+    },
+    {
+     "id": "0510578-4",
+     "name": "Kangasalan Lämpö Oy",
+     "sum": 1363386.2,
+     "rows": 560
+    },
+    {
+     "id": "0112305-3",
+     "name": "Nordea Rahoitus Suomi Oy",
+     "sum": 1315952.84,
+     "rows": 673
+    },
+    {
+     "id": "2151762-3",
+     "name": "Kangasalan Uimahalli Oy",
+     "sum": 1286994.05,
+     "rows": 19
+    },
+    {
+     "id": "3001882-6",
+     "name": "Elenia Verkko Oyj",
+     "sum": 1201080.23,
+     "rows": 1872
+    },
+    {
+     "id": "2360731-5",
+     "name": "Numera Palvelut Oy",
+     "sum": 1193620.47,
+     "rows": 326
+    },
+    {
+     "id": "2578640-9",
+     "name": "Sujutek Oy",
+     "sum": 1032397.65,
+     "rows": 46
+    },
+    {
+     "id": "2912961-7",
+     "name": "Business Kangasala Oy",
+     "sum": 1025700.0,
+     "rows": 12
+    },
+    {
+     "id": "1769203-1",
+     "name": "Elintarviketukku Rikainen Oy",
+     "sum": 998656.98,
+     "rows": 1363
+    },
+    {
+     "id": "2038931-6",
+     "name": "Lumme Energia Oy",
+     "sum": 978782.08,
+     "rows": 1759
+    },
+    {
+     "id": "2592490-4",
+     "name": "Kangasala-talo Oy",
+     "sum": 931508.78,
+     "rows": 66
+    },
+    {
+     "id": "2163026-3",
+     "name": "Destia Oy",
+     "sum": 851485.8,
+     "rows": 75
+    },
+    {
+     "id": "0101197-5",
+     "name": "Ramboll Finland Oy",
+     "sum": 754164.5,
+     "rows": 285
+    },
+    {
+     "id": "0110031-0",
+     "name": "Storia Oy",
+     "sum": 737622.36,
+     "rows": 426
+    },
+    {
+     "id": "2450787-7",
+     "name": "Päiväkoti Oravametsä Oy",
+     "sum": 714802.65,
+     "rows": 12
+    },
+    {
+     "id": "3317621-3",
+     "name": "Pimara Maanrakennus Oy",
+     "sum": 686149.24,
+     "rows": 13
+    },
+    {
+     "id": "2113001-5",
+     "name": "Feelia Oy",
+     "sum": 623726.87,
+     "rows": 656
+    },
+    {
+     "id": "2452505-5",
+     "name": "Pihlajalinna Lääkärikeskukset Oy",
+     "sum": 600537.07,
+     "rows": 351
+    },
+    {
+     "id": "0488027-9",
+     "name": "Kangasalan Parkki Oy",
+     "sum": 589999.92,
+     "rows": 12
+    },
+    {
+     "id": "2474768-6",
+     "name": "Nestella Oy",
+     "sum": 551433.59,
+     "rows": 165
+    },
+    {
+     "id": "3221308-6",
+     "name": "Pirkanmaan hyvinvointialue",
+     "sum": 537042.67,
+     "rows": 40
+    },
+    {
+     "id": "2678698-8",
+     "name": "Tuominen Yhtiöt Oy",
+     "sum": 502399.17,
+     "rows": 193
+    },
+    {
+     "id": "2465039-0",
+     "name": "Parmaco Oy",
+     "sum": 427550.0,
+     "rows": 24
+    },
+    {
+     "id": "0158221-7",
+     "name": "Ylöjärven kaupunki",
+     "sum": 425949.79,
+     "rows": 72
+    },
+    {
+     "id": "0641873-1",
+     "name": "Kiinteistö Oy Kangasalan Timantti",
+     "sum": 419582.78,
+     "rows": 2
+    },
+    {
+     "id": "0794541-0",
+     "name": "A-Insinöörit Rakennuttaminen Oy",
+     "sum": 399918.34,
+     "rows": 49
+    }
+   ],
+   "topAccounts": [
+    {
+     "account": 4390,
+     "name": "Rakennusten  ja alueiden rakentamis- ja kunnossapitopalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 33479029.74,
+     "rows": 4549
+    },
+    {
+     "account": 2510,
+     "name": "Lainat rahoitus- ja vakuutuslaitoksilta (+ PA vähennys)",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 15216666.0,
+     "rows": 35
+    },
+    {
+     "account": 2770,
+     "name": "Tapaturmavakuutusmaksu työnantaja",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 11277268.34,
+     "rows": 63
+    },
+    {
+     "account": 4341,
+     "name": "Toimisto- ja asiantuntijapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 5575981.37,
+     "rows": 2651
+    },
+    {
+     "account": 4420,
+     "name": "Oppilaskuljetukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 4770923.93,
+     "rows": 1141
+    },
+    {
+     "account": 4740,
+     "name": "Muut avustukset yhteisöille",
+     "group": "Avustukset",
+     "sum": 4576343.57,
+     "rows": 375
+    },
+    {
+     "account": 2601,
+     "name": "Työttömyysvakuutusmaksu työntekijä",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 4508106.33,
+     "rows": 45
+    },
+    {
+     "account": 4560,
+     "name": "Polttoaineet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 4300923.35,
+     "rows": 5098
+    },
+    {
+     "account": 4305,
+     "name": "Varhaiskasvatuksen palvelusetelikulut",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 4281487.42,
+     "rows": 216
+    },
+    {
+     "account": 4460,
+     "name": "Muut yhteistoimintaosuudet",
+     "group": "Muiden palvelujen ostot",
+     "sum": 3569573.3,
+     "rows": 58
+    },
+    {
+     "account": 4342,
+     "name": "ICT-palvelut ohjelmistokustannukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 2753026.15,
+     "rows": 6623
+    },
+    {
+     "account": 1199,
+     "name": "KOM-hankintojen välitili",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 2675623.59,
+     "rows": 11
+    },
+    {
+     "account": 6240,
+     "name": "Korkokulut lainoista",
+     "group": "Muut",
+     "sum": 2548398.37,
+     "rows": 33
+    },
+    {
+     "account": 4580,
+     "name": "Pienkalusto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 2222921.31,
+     "rows": 1233
+    },
+    {
+     "account": 4520,
+     "name": "Elintarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 1974789.97,
+     "rows": 4487
+    },
+    {
+     "account": 4700,
+     "name": "Lasten kotihoidon tuki",
+     "group": "Avustukset",
+     "sum": 1842763.54,
+     "rows": 38
+    },
+    {
+     "account": 4840,
+     "name": "Leasing-vuokrat",
+     "group": "Vuokrat",
+     "sum": 1747212.51,
+     "rows": 3024
+    },
+    {
+     "account": 4810,
+     "name": "Rakennusten vuokrakulut",
+     "group": "Vuokrat",
+     "sum": 1372054.75,
+     "rows": 791
+    },
+    {
+     "account": 4470,
+     "name": "Muut palvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 1085609.05,
+     "rows": 604
+    },
+    {
+     "account": 4300,
+     "name": "Asiakaspalvelujen ostot",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 993297.97,
+     "rows": 242
+    },
+    {
+     "account": 4590,
+     "name": "Rakennusmateriaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 936115.86,
+     "rows": 1330
+    },
+    {
+     "account": 4510,
+     "name": "Oppikirjat",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 723279.33,
+     "rows": 764
+    },
+    {
+     "account": 4400,
+     "name": "Koneiden, kaluston ja laitteiden rakentamis ja kunnossapitop",
+     "group": "Muiden palvelujen ostot",
+     "sum": 673143.48,
+     "rows": 986
+    },
+    {
+     "account": 4430,
+     "name": "Sosiaali- ja terveyspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 613964.17,
+     "rows": 413
+    },
+    {
+     "account": 2730,
+     "name": "Muut siirtovelat",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 433930.88,
+     "rows": 6
+    },
+    {
+     "account": 4500,
+     "name": "Toimisto- ja koulutarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 432232.16,
+     "rows": 1399
+    },
+    {
+     "account": 4440,
+     "name": "Opetus- ja kulttuuripalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 393351.02,
+     "rows": 428
+    },
+    {
+     "account": 4950,
+     "name": "Muut kulut",
+     "group": "Muut toimintakulut",
+     "sum": 375976.11,
+     "rows": 885
+    },
+    {
+     "account": 4380,
+     "name": "Puhtaanapito- ja pesulapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 349922.1,
+     "rows": 1228
+    },
+    {
+     "account": 4600,
+     "name": "Muu materiaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 344884.65,
+     "rows": 1900
+    },
+    {
+     "account": 4550,
+     "name": "Siivousaineet ja -tarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 233980.25,
+     "rows": 1141
+    },
+    {
+     "account": 4410,
+     "name": "Majoitus- ja ravitsemuspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 229782.74,
+     "rows": 636
+    },
+    {
+     "account": 4880,
+     "name": "Muut vuokrakulut",
+     "group": "Muut toimintakulut",
+     "sum": 200183.52,
+     "rows": 247
+    },
+    {
+     "account": 4304,
+     "name": "Kotikuntakorvaukset",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 192566.35,
+     "rows": 26
+    },
+    {
+     "account": 4350,
+     "name": "Painatukset ja ilmoitukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 172923.91,
+     "rows": 286
+    },
+    {
+     "account": 4370,
+     "name": "Vakuutukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 136695.51,
+     "rows": 216
+    },
+    {
+     "account": 4530,
+     "name": "Vaatteisto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 94224.33,
+     "rows": 420
+    },
+    {
+     "account": 1244,
+     "name": "Liittymismaksut palautettavat (+ lisäys)",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 56224.18,
+     "rows": 4
+    },
+    {
+     "account": 4830,
+     "name": "Rakennusten ja huoneistojen pääomavastikkeet",
+     "group": "Vuokrat",
+     "sum": 52145.86,
+     "rows": 101
+    },
+    {
+     "account": 4360,
+     "name": "Posti- ja telepalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 43234.36,
+     "rows": 394
+    }
+   ],
+   "topCostCenters": [
+    {
+     "name": "Tasekustannuspaikka",
+     "sum": 31312552.43
+    },
+    {
+     "name": "Talon rakennuttaminen",
+     "sum": 21269249.1
+    },
+    {
+     "name": "Liikennealueet yhteiset työt",
+     "sum": 6564039.11
+    },
+    {
+     "name": "Lastenhoidon tuet",
+     "sum": 6124250.96
+    },
+    {
+     "name": "Kiinteistön käyttökustannukset",
+     "sum": 3493470.5
+    },
+    {
+     "name": "Liikennepalvelut",
+     "sum": 2912116.13
+    },
+    {
+     "name": "Rahoituserät",
+     "sum": 2509933.85
+    },
+    {
+     "name": "Jäteveden puhdistus",
+     "sum": 2503023.58
+    },
+    {
+     "name": "Ateria ja siivous",
+     "sum": 2393970.78
+    },
+    {
+     "name": "Strategisen johdon avustukset ja jäsenmaksut",
+     "sum": 2146192.49
+    },
+    {
+     "name": "Veden jakelu",
+     "sum": 2141493.37
+    },
+    {
+     "name": "Osakkeiden osto",
+     "sum": 2000000.0
+    },
+    {
+     "name": "Hoito ja huolto",
+     "sum": 1694673.1
+    },
+    {
+     "name": "Työmarkkinatuen kuntaosuus",
+     "sum": 1691726.95
+    },
+    {
+     "name": "Viemäriveden johtamisverkko",
+     "sum": 1578204.0
+    },
+    {
+     "name": "Vuokraustoiminta",
+     "sum": 1535774.07
+    },
+    {
+     "name": "Ruutanan koulu",
+     "sum": 1320552.5
+    },
+    {
+     "name": "Koulujen yhteiset",
+     "sum": 1177177.54
+    },
+    {
+     "name": "Elinkeinopalvelut",
+     "sum": 1025000.0
+    },
+    {
+     "name": "Muu yhdyskuntarakentaminen",
+     "sum": 984083.53
+    },
+    {
+     "name": "Strategisen johdon yhteispalvelut",
+     "sum": 959894.41
+    },
+    {
+     "name": "Keskitetyt ICT-palvelut",
+     "sum": 831627.02
+    },
+    {
+     "name": "Puistot ja muut yleiset alueet",
+     "sum": 782671.77
+    },
+    {
+     "name": "Yleisen kulttuuritoiminnan palvelut",
+     "sum": 727089.96
+    },
+    {
+     "name": "Liikuntapalvelut",
+     "sum": 690654.14
+    }
+   ]
+  },
+  "2025": {
+   "total": 106013142.55,
+   "operating": 70236533.01,
+   "rows": 41478,
+   "invoices": 24347,
+   "suppliers": 1341,
+   "top10Share": 0.6047,
+   "smallInvoices": {
+    "limit": 500,
+    "count": 15298,
+    "sum": 2472894.73,
+    "share": 0.6283
+   },
+   "groups": {
+    "Muiden palvelujen ostot": 40511708.51,
+    "Investoinnit ja tase-erät": 35776609.54,
+    "Aineet, tarvikkeet ja tavarat": 9897320.27,
+    "Avustukset": 7821361.92,
+    "Asiakaspalvelujen ostot": 5771860.46,
+    "Vuokrat": 3062296.55,
+    "Muut": 2726412.49,
+    "Muut toimintakulut": 443533.79,
+    "Henkilöstökulut": 2039.02
+   },
+   "monthly": [
+    5191695.59,
+    6243731.18,
+    9561815.23,
+    7776504.97,
+    9579917.07,
+    9362715.27,
+    7316451.12,
+    6249556.44,
+    10186891.89,
+    9591016.01,
+    10143749.08,
+    14809098.7
+   ],
+   "topSuppliers": [
+    {
+     "id": "1701683-4",
+     "name": "Kuntarahoitus Oyj",
+     "sum": 18805786.72,
+     "rows": 61
+    },
+    {
+     "id": "0119343-0",
+     "name": "Keva",
+     "sum": 14444812.69,
+     "rows": 82
+    },
+    {
+     "id": "0211675-2",
+     "name": "Tampereen kaupunki",
+     "sum": 8394115.79,
+     "rows": 533
+    },
+    {
+     "id": "0172688-2",
+     "name": "Lujatalo Oy",
+     "sum": 6879968.19,
+     "rows": 22
+    },
+    {
+     "id": "0246246-0",
+     "name": "Kansaneläkelaitos",
+     "sum": 5120311.39,
+     "rows": 53
+    },
+    {
+     "id": "0168716-6",
+     "name": "Kreate Oy",
+     "sum": 3083680.74,
+     "rows": 41
+    },
+    {
+     "id": "2450787-7",
+     "name": "Päiväkoti Oravametsä Oy",
+     "sum": 1985481.56,
+     "rows": 12
+    },
+    {
+     "id": "3459398-3",
+     "name": "Kangasalan Vesi Oy",
+     "sum": 1969772.27,
+     "rows": 1072
+    },
+    {
+     "id": "2704961-3",
+     "name": "Touhula Nauru Oy",
+     "sum": 1744793.52,
+     "rows": 58
+    },
+    {
+     "id": "0147998-1",
+     "name": "Kiinteistö Oy Taloherttua",
+     "sum": 1676012.62,
+     "rows": 2
+    },
+    {
+     "id": "1728244-6",
+     "name": "SRV Rakennus Oy",
+     "sum": 1604762.35,
+     "rows": 20
+    },
+    {
+     "id": "0112305-3",
+     "name": "Nordea Rahoitus Suomi Oy",
+     "sum": 1482104.99,
+     "rows": 805
+    },
+    {
+     "id": "2151762-3",
+     "name": "Kangasalan Uimahalli Oy",
+     "sum": 1301556.83,
+     "rows": 21
+    },
+    {
+     "id": "0510578-4",
+     "name": "Kangasalan Lämpö Oy",
+     "sum": 1253018.37,
+     "rows": 564
+    },
+    {
+     "id": "1769203-1",
+     "name": "Elintarviketukku Rikainen Oy",
+     "sum": 974566.69,
+     "rows": 1304
+    },
+    {
+     "id": "3001882-6",
+     "name": "Elenia Verkko Oyj",
+     "sum": 936028.31,
+     "rows": 1635
+    },
+    {
+     "id": "2592490-4",
+     "name": "Kangasala-talo Oy",
+     "sum": 929990.78,
+     "rows": 65
+    },
+    {
+     "id": "2912961-7",
+     "name": "Business Kangasala Oy",
+     "sum": 927959.29,
+     "rows": 12
+    },
+    {
+     "id": "2452505-5",
+     "name": "Pihlajalinna Lääkärikeskukset Oy",
+     "sum": 916903.11,
+     "rows": 319
+    },
+    {
+     "id": "2360731-5",
+     "name": "Numera Palvelut Oy",
+     "sum": 858301.25,
+     "rows": 163
+    },
+    {
+     "id": "Yrityksen nimi sisältää henkilötietoja",
+     "name": "Yrityksen nimi sisältää henkilötietoja",
+     "sum": 785732.57,
+     "rows": 215
+    },
+    {
+     "id": "2161845-9",
+     "name": "Rakennusliike Tikirak Oy",
+     "sum": 784014.65,
+     "rows": 14
+    },
+    {
+     "id": "0110031-0",
+     "name": "Storia Oy",
+     "sum": 751030.2,
+     "rows": 494
+    },
+    {
+     "id": "1098099-7",
+     "name": "Työllisyysrahasto",
+     "sum": 681390.07,
+     "rows": 24
+    },
+    {
+     "id": "2038931-6",
+     "name": "Lumme Energia Oy",
+     "sum": 666226.65,
+     "rows": 1522
+    },
+    {
+     "id": "2678698-8",
+     "name": "Tuominen Yhtiöt Oy",
+     "sum": 647922.09,
+     "rows": 290
+    },
+    {
+     "id": "2163026-3",
+     "name": "Destia Oy",
+     "sum": 641050.67,
+     "rows": 70
+    },
+    {
+     "id": "2113001-5",
+     "name": "Feelia Oy",
+     "sum": 628345.27,
+     "rows": 527
+    },
+    {
+     "id": "2474768-6",
+     "name": "Nestella Oy",
+     "sum": 607598.18,
+     "rows": 158
+    },
+    {
+     "id": "0488027-9",
+     "name": "Kangasalan Parkki Oy",
+     "sum": 570000.0,
+     "rows": 12
+    },
+    {
+     "id": "0101197-5",
+     "name": "Ramboll Finland Oy",
+     "sum": 537144.26,
+     "rows": 207
+    },
+    {
+     "id": "1840113-6",
+     "name": "Pilke päiväkodit Oy",
+     "sum": 523244.97,
+     "rows": 34
+    },
+    {
+     "id": "0288902-6",
+     "name": "Maarakennus V. Lahnakoski Oy",
+     "sum": 451371.75,
+     "rows": 231
+    },
+    {
+     "id": "0158221-7",
+     "name": "Ylöjärven kaupunki",
+     "sum": 427196.97,
+     "rows": 146
+    },
+    {
+     "id": "2471640-9",
+     "name": "Tonin Taksi & Bussi Oy",
+     "sum": 417642.14,
+     "rows": 94
+    },
+    {
+     "id": "0641873-1",
+     "name": "Kiinteistö Oy Kangasalan Timantti",
+     "sum": 406108.43,
+     "rows": 2
+    },
+    {
+     "id": "0828308-4",
+     "name": "Pirkanmaan liitto",
+     "sum": 396763.86,
+     "rows": 3
+    },
+    {
+     "id": "1040845-6",
+     "name": "Hervannan Kaivin Oy",
+     "sum": 389822.53,
+     "rows": 7
+    },
+    {
+     "id": "1546343-8",
+     "name": "Lekolar-Printel Oy",
+     "sum": 381342.85,
+     "rows": 346
+    },
+    {
+     "id": "1475607-9",
+     "name": "Telia Finland Oyj",
+     "sum": 378512.59,
+     "rows": 4067
+    }
+   ],
+   "topAccounts": [
+    {
+     "account": 4390,
+     "name": "Rakennusten  ja alueiden rakentamis- ja kunnossapitopalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 19949117.42,
+     "rows": 4198
+    },
+    {
+     "account": 2510,
+     "name": "Lainat rahoitus- ja vakuutuslaitoksilta (+ PA vähennys)",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 16516666.0,
+     "rows": 32
+    },
+    {
+     "account": 2770,
+     "name": "Tapaturmavakuutusmaksu työnantaja",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 10955488.8,
+     "rows": 61
+    },
+    {
+     "account": 4460,
+     "name": "Muut yhteistoimintaosuudet",
+     "group": "Muiden palvelujen ostot",
+     "sum": 5522345.37,
+     "rows": 45
+    },
+    {
+     "account": 4420,
+     "name": "Henkilöstön matkustuspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 4609989.41,
+     "rows": 1125
+    },
+    {
+     "account": 4305,
+     "name": "Varhaiskasvatuksen palvelusetelikulut",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 4557281.66,
+     "rows": 182
+    },
+    {
+     "account": 2601,
+     "name": "VEL-maksut työntekijä",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 4270713.32,
+     "rows": 45
+    },
+    {
+     "account": 4341,
+     "name": "Toimisto- ja asiantuntijapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 3977513.58,
+     "rows": 1815
+    },
+    {
+     "account": 4560,
+     "name": "Polttoaineet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 3350583.47,
+     "rows": 4521
+    },
+    {
+     "account": 4747,
+     "name": "Kunnan rahoitusosuus työttömyystuista",
+     "group": "Avustukset",
+     "sum": 3223342.1,
+     "rows": 36
+    },
+    {
+     "account": 4740,
+     "name": "Muut avustukset yhteisöille",
+     "group": "Avustukset",
+     "sum": 2813293.62,
+     "rows": 199
+    },
+    {
+     "account": 6240,
+     "name": "Korkokulut lainoista",
+     "group": "Muut",
+     "sum": 2633745.9,
+     "rows": 31
+    },
+    {
+     "account": 4342,
+     "name": "ICT-palvelut ohjelmistokustannukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 2568180.25,
+     "rows": 5703
+    },
+    {
+     "account": 1199,
+     "name": "KOM-hankintojen välitili",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 2275110.0,
+     "rows": 7
+    },
+    {
+     "account": 4580,
+     "name": "Kalusto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 2065731.95,
+     "rows": 1114
+    },
+    {
+     "account": 4520,
+     "name": "Elintarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 1962691.97,
+     "rows": 4386
+    },
+    {
+     "account": 4840,
+     "name": "Leasing-vuokrat",
+     "group": "Vuokrat",
+     "sum": 1868655.85,
+     "rows": 3027
+    },
+    {
+     "account": 4700,
+     "name": "Lasten kotihoidon tuki",
+     "group": "Avustukset",
+     "sum": 1784726.2,
+     "rows": 31
+    },
+    {
+     "account": 1800,
+     "name": "Muut saamiset",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 1526652.0,
+     "rows": 4
+    },
+    {
+     "account": 4470,
+     "name": "Muut palvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 1172390.38,
+     "rows": 515
+    },
+    {
+     "account": 4810,
+     "name": "Rakennusten vuokrakulut",
+     "group": "Vuokrat",
+     "sum": 1121445.83,
+     "rows": 730
+    },
+    {
+     "account": 4300,
+     "name": "Asiakaspalvelujen ostot",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 947459.94,
+     "rows": 306
+    },
+    {
+     "account": 4430,
+     "name": "Sosiaali- ja terveyspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 925066.81,
+     "rows": 344
+    },
+    {
+     "account": 4510,
+     "name": "Kirjallisuus",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 760719.15,
+     "rows": 788
+    },
+    {
+     "account": 4380,
+     "name": "Puhtaanapito- ja pesulapalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 584154.02,
+     "rows": 1498
+    },
+    {
+     "account": 4590,
+     "name": "Rakennusmateriaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 565220.86,
+     "rows": 1402
+    },
+    {
+     "account": 4500,
+     "name": "Toimisto- ja koulutarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 410107.1,
+     "rows": 1303
+    },
+    {
+     "account": 4600,
+     "name": "Muu materiaali",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 347456.36,
+     "rows": 2018
+    },
+    {
+     "account": 4440,
+     "name": "Koulutuspalvelut",
+     "group": "Muiden palvelujen ostot",
+     "sum": 340019.83,
+     "rows": 446
+    },
+    {
+     "account": 4880,
+     "name": "Muut vuokrakulut",
+     "group": "Muut toimintakulut",
+     "sum": 300291.75,
+     "rows": 168
+    },
+    {
+     "account": 4304,
+     "name": "Kotikuntakorvaukset",
+     "group": "Asiakaspalvelujen ostot",
+     "sum": 267118.86,
+     "rows": 24
+    },
+    {
+     "account": 4400,
+     "name": "Koneiden, kaluston ja laitteiden rakentamis ja kunnossapitop",
+     "group": "Muiden palvelujen ostot",
+     "sum": 263784.4,
+     "rows": 697
+    },
+    {
+     "account": 4410,
+     "name": "Majoitus- ja ravitsemuspalvelut, henkilöstö",
+     "group": "Muiden palvelujen ostot",
+     "sum": 261941.9,
+     "rows": 704
+    },
+    {
+     "account": 4550,
+     "name": "Siivousaineet ja -tarvikkeet",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 224307.22,
+     "rows": 901
+    },
+    {
+     "account": 4370,
+     "name": "Vakuutukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 189534.88,
+     "rows": 219
+    },
+    {
+     "account": 4350,
+     "name": "Painatukset ja ilmoitukset",
+     "group": "Muiden palvelujen ostot",
+     "sum": 123806.85,
+     "rows": 221
+    },
+    {
+     "account": 4570,
+     "name": "Vesi",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 107794.85,
+     "rows": 586
+    },
+    {
+     "account": 4950,
+     "name": "Muut kulut",
+     "group": "Muut toimintakulut",
+     "sum": 105105.13,
+     "rows": 829
+    },
+    {
+     "account": 4530,
+     "name": "Vaatteisto",
+     "group": "Aineet, tarvikkeet ja tavarat",
+     "sum": 95324.67,
+     "rows": 341
+    },
+    {
+     "account": 1817,
+     "name": "Muut siirtosaamiset",
+     "group": "Investoinnit ja tase-erät",
+     "sum": 82152.13,
+     "rows": 87
+    }
+   ],
+   "topCostCenters": [
+    {
+     "name": "Tasekustannuspaikka",
+     "sum": 33378966.44
+    },
+    {
+     "name": "Talon rakennuttaminen",
+     "sum": 10852368.72
+    },
+    {
+     "name": "Lastenhoidon tuet",
+     "sum": 6339869.21
+    },
+    {
+     "name": "Liikennealueet yhteiset työt",
+     "sum": 4991328.15
+    },
+    {
+     "name": "Työllisyysalueen tuottamat palvelut",
+     "sum": 4397035.45
+    },
+    {
+     "name": "Kiinteistön käyttökustannukset",
+     "sum": 3679852.01
+    },
+    {
+     "name": "Työttömyysturvan kuntaosuus",
+     "sum": 3341973.35
+    },
+    {
+     "name": "Ateria ja siivous",
+     "sum": 2884532.88
+    },
+    {
+     "name": "Liikennepalvelut",
+     "sum": 2869035.74
+    },
+    {
+     "name": "Rahoituserät",
+     "sum": 2704583.72
+    },
+    {
+     "name": "Strategisen johdon avustukset ja jäsenmaksut",
+     "sum": 2158372.94
+    },
+    {
+     "name": "Osakkeiden osto",
+     "sum": 2050000.0
+    },
+    {
+     "name": "Hoito ja huolto",
+     "sum": 2037163.63
+    },
+    {
+     "name": "Vuokraustoiminta",
+     "sum": 1228016.4
+    },
+    {
+     "name": "Puistot ja muut yleiset alueet",
+     "sum": 986478.11
+    },
+    {
+     "name": "Koulujen yhteiset",
+     "sum": 934609.2
+    },
+    {
+     "name": "Elinkeinopalvelut",
+     "sum": 925000.0
+    },
+    {
+     "name": "Strategisen johdon yhteispalvelut",
+     "sum": 906351.73
+    },
+    {
+     "name": "Keskitetyt ICT-palvelut",
+     "sum": 873318.93
+    },
+    {
+     "name": "Työterveyshuolto",
+     "sum": 860595.68
+    },
+    {
+     "name": "Vuosikorjaukset",
+     "sum": 856608.08
+    },
+    {
+     "name": "Liikuntapaikat",
+     "sum": 815174.26
+    },
+    {
+     "name": "Yleisen kulttuuritoiminnan palvelut",
+     "sum": 695724.39
+    },
+    {
+     "name": "Pikkolan koulu",
+     "sum": 691313.56
+    },
+    {
+     "name": "Paikkatietotehtävät",
+     "sum": 632349.66
+    }
+   ]
+  }
+ },
+ "supplierTrend": [
+  {
+   "id": "1701683-4",
+   "name": "Kuntarahoitus Oyj",
+   "years": {
+    "2023": 13342071.52,
+    "2024": 15447894.09,
+    "2025": 18805786.72
+   }
+  },
+  {
+   "id": "0119343-0",
+   "name": "Keva",
+   "years": {
+    "2023": 14342474.93,
+    "2024": 14163780.24,
+    "2025": 14444812.69
+   }
+  },
+  {
+   "id": "1728244-6",
+   "name": "SRV Rakennus Oy",
+   "years": {
+    "2023": 17783085.16,
+    "2024": 10660444.68,
+    "2025": 1604762.35
+   }
+  },
+  {
+   "id": "0211675-2",
+   "name": "Tampereen kaupunki",
+   "years": {
+    "2023": 6644056.8,
+    "2024": 4278791.15,
+    "2025": 8394115.79
+   }
+  },
+  {
+   "id": "0172688-2",
+   "name": "Lujatalo Oy",
+   "years": {
+    "2023": 1110465.46,
+    "2024": 8927357.15,
+    "2025": 6879968.19
+   }
+  },
+  {
+   "id": "0246246-0",
+   "name": "Kansaneläkelaitos",
+   "years": {
+    "2023": 3680279.63,
+    "2024": 3525816.36,
+    "2025": 5120311.39
+   }
+  },
+  {
+   "id": "0168716-6",
+   "name": "Kreate Oy",
+   "years": {
+    "2023": 1721268.44,
+    "2024": 1529217.19,
+    "2025": 3083680.74
+   }
+  },
+  {
+   "id": "2386282-6",
+   "name": "Stadshypotek AB (publ), filialverksamheten i Finland",
+   "years": {
+    "2023": 2352642.2,
+    "2024": 2324489.42,
+    "2025": 351680.97
+   }
+  },
+  {
+   "id": "2704961-3",
+   "name": "Touhula Nauru Oy",
+   "years": {
+    "2023": 1514175.27,
+    "2024": 1645739.12,
+    "2025": 1744793.52
+   }
+  },
+  {
+   "id": "0510578-4",
+   "name": "Kangasalan Lämpö Oy",
+   "years": {
+    "2023": 1431161.82,
+    "2024": 1363386.2,
+    "2025": 1253018.37
+   }
+  },
+  {
+   "id": "0112305-3",
+   "name": "Nordea Rahoitus Suomi Oy",
+   "years": {
+    "2023": 1140739.21,
+    "2024": 1315952.84,
+    "2025": 1482104.99
+   }
+  },
+  {
+   "id": "1040845-6",
+   "name": "Hervannan Kaivin Oy",
+   "years": {
+    "2023": 1295998.71,
+    "2024": 2200334.33,
+    "2025": 389822.53
+   }
+  },
+  {
+   "id": "2151762-3",
+   "name": "Kangasalan Uimahalli Oy",
+   "years": {
+    "2023": 1270747.36,
+    "2024": 1286994.05,
+    "2025": 1301556.83
+   }
+  },
+  {
+   "id": "1840113-6",
+   "name": "Pilke päiväkodit Oy",
+   "years": {
+    "2023": 1552788.71,
+    "2024": 1486967.97,
+    "2025": 523244.97
+   }
+  },
+  {
+   "id": "0756091-6",
+   "name": "TerraWise Oy",
+   "years": {
+    "2023": 1647409.12,
+    "2024": 1881107.21,
+    "2025": 18345.36
+   }
+  },
+  {
+   "id": "0147998-1",
+   "name": "Kiinteistö Oy Taloherttua",
+   "years": {
+    "2023": 77050.88,
+    "2024": 1648676.22,
+    "2025": 1676012.62
+   }
+  },
+  {
+   "id": "1098099-7",
+   "name": "Työllisyysrahasto",
+   "years": {
+    "2023": 1271328.23,
+    "2024": 1365556.23,
+    "2025": 681390.07
+   }
+  },
+  {
+   "id": "3001882-6",
+   "name": "Elenia Verkko Oyj",
+   "years": {
+    "2023": 1176006.94,
+    "2024": 1201080.23,
+    "2025": 936028.31
+   }
+  },
+  {
+   "id": "2360731-5",
+   "name": "Numera Palvelut Oy",
+   "years": {
+    "2023": 985266.0,
+    "2024": 1193620.47,
+    "2025": 858301.25
+   }
+  },
+  {
+   "id": "2450787-7",
+   "name": "Päiväkoti Oravametsä Oy",
+   "years": {
+    "2023": 291193.74,
+    "2024": 714802.65,
+    "2025": 1985481.56
+   }
+  },
+  {
+   "id": "2912961-7",
+   "name": "Business Kangasala Oy",
+   "years": {
+    "2023": 996711.69,
+    "2024": 1025700.0,
+    "2025": 927959.29
+   }
+  },
+  {
+   "id": "1769203-1",
+   "name": "Elintarviketukku Rikainen Oy",
+   "years": {
+    "2023": 894540.12,
+    "2024": 998656.98,
+    "2025": 974566.69
+   }
+  },
+  {
+   "id": "2592490-4",
+   "name": "Kangasala-talo Oy",
+   "years": {
+    "2023": 954586.39,
+    "2024": 931508.78,
+    "2025": 929990.78
+   }
+  },
+  {
+   "id": "2678698-8",
+   "name": "Tuominen Yhtiöt Oy",
+   "years": {
+    "2023": 1358142.21,
+    "2024": 502399.17,
+    "2025": 647922.09
+   }
+  },
+  {
+   "id": "2038931-6",
+   "name": "Lumme Energia Oy",
+   "years": {
+    "2023": 859701.37,
+    "2024": 978782.08,
+    "2025": 666226.65
+   }
+  },
+  {
+   "id": "3381716-4",
+   "name": "Tampereen Vesi Oy",
+   "years": {
+    "2023": 0.0,
+    "2024": 2481590.02,
+    "2025": 0.0
+   }
+  },
+  {
+   "id": "0101197-5",
+   "name": "Ramboll Finland Oy",
+   "years": {
+    "2023": 1076959.65,
+    "2024": 754164.5,
+    "2025": 537144.26
+   }
+  },
+  {
+   "id": "2163026-3",
+   "name": "Destia Oy",
+   "years": {
+    "2023": 835277.62,
+    "2024": 851485.8,
+    "2025": 641050.67
+   }
+  },
+  {
+   "id": "0110031-0",
+   "name": "Storia Oy",
+   "years": {
+    "2023": 720495.59,
+    "2024": 737622.36,
+    "2025": 751030.2
+   }
+  },
+  {
+   "id": "2452505-5",
+   "name": "Pihlajalinna Lääkärikeskukset Oy",
+   "years": {
+    "2023": 530760.57,
+    "2024": 600537.07,
+    "2025": 916903.11
+   }
+  },
+  {
+   "id": "3459398-3",
+   "name": "Kangasalan Vesi Oy",
+   "years": {
+    "2023": 0.0,
+    "2024": 0.0,
+    "2025": 1969772.27
+   }
+  },
+  {
+   "id": "2113001-5",
+   "name": "Feelia Oy",
+   "years": {
+    "2023": 638170.44,
+    "2024": 623726.87,
+    "2025": 628345.27
+   }
+  },
+  {
+   "id": "1964167-6",
+   "name": "Infra Kiri Oy",
+   "years": {
+    "2023": 1849561.22,
+    "2024": 5063.8,
+    "2025": 0.0
+   }
+  },
+  {
+   "id": "0488027-9",
+   "name": "Kangasalan Parkki Oy",
+   "years": {
+    "2023": 589999.92,
+    "2024": 589999.92,
+    "2025": 570000.0
+   }
+  },
+  {
+   "id": "1546343-8",
+   "name": "Lekolar-Printel Oy",
+   "years": {
+    "2023": 1006815.83,
+    "2024": 320609.54,
+    "2025": 381342.85
+   }
+  },
+  {
+   "id": "2474768-6",
+   "name": "Nestella Oy",
+   "years": {
+    "2023": 537144.13,
+    "2024": 551433.59,
+    "2025": 607598.18
+   }
+  },
+  {
+   "id": "0641873-1",
+   "name": "Kiinteistö Oy Kangasalan Timantti",
+   "years": {
+    "2023": 750000.0,
+    "2024": 419582.78,
+    "2025": 406108.43
+   }
+  },
+  {
+   "id": "0965649-5",
+   "name": "Rakentajat Saarikko Oy",
+   "years": {
+    "2023": 1412562.29,
+    "2024": 3325.86,
+    "2025": 8020.0
+   }
+  },
+  {
+   "id": "2889418-1",
+   "name": "Vision Infra Oy",
+   "years": {
+    "2023": 1307835.56,
+    "2024": 0.0,
+    "2025": 0.0
+   }
+  },
+  {
+   "id": "0794541-0",
+   "name": "A-Insinöörit Rakennuttaminen Oy",
+   "years": {
+    "2023": 549950.04,
+    "2024": 399918.34,
+    "2025": 341122.39
+   }
+  }
+ ]
+}

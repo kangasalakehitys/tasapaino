@@ -1,0 +1,4633 @@
+{
+ "set": "KKTPA",
+ "source": "taulukkomalli-KKTPA_2024-v15-kktpa_gaap_ind_20260529_080325.xlsx",
+ "tables": {
+  "k-t10": {
+   "title": "Investointierittelyiden arviot sektoreittain",
+   "columns": {
+    "x0": "",
+    "x00": "",
+    "x01": ""
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Investointimenot",
+     "ids": {
+      "x0": "4374283",
+      "x00": "379620",
+      "x01": "379619"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Tietokoneohjelmistot",
+     "ids": {
+      "x0": "4374284",
+      "x00": "379704",
+      "x01": "379703"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Muut aineettomat hyödykkeet",
+     "ids": {
+      "x0": "4374292",
+      "x00": "380460",
+      "x01": "380459"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Maa- ja vesialueiden  hankinta",
+     "ids": {
+      "x0": "4374295",
+      "x00": "380712",
+      "x01": "380711"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Maa- ja vesialueiden parannusinvestointi",
+     "ids": {
+      "x0": "4374296",
+      "x00": "380796",
+      "x01": "380795"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Asuinrakennusten uushankinta",
+     "ids": {
+      "x0": "4374294",
+      "x00": "380628",
+      "x01": "380627"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Asuinrakennusten korjausinvestointi",
+     "ids": {
+      "x0": "4374293",
+      "x00": "380544",
+      "x01": "380543"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "Muiden rakennusten uushankinta",
+     "ids": {
+      "x0": "4374297",
+      "x00": "380880",
+      "x01": "380879"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Muut rakennukset, korjausinvestointi",
+     "ids": {
+      "x0": "4374291",
+      "x00": "380376",
+      "x01": "380375"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4374285",
+      "x00": "379788",
+      "x01": "1713"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Kuljetusvälineet",
+     "ids": {
+      "x0": "4374286",
+      "x00": "379872",
+      "x01": "379871"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "Tietokonelaitteet",
+     "ids": {
+      "x0": "4374290",
+      "x00": "380292",
+      "x01": "380291"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Viestintälaitteet",
+     "ids": {
+      "x0": "4374298",
+      "x00": "380964",
+      "x01": "380963"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4374287",
+      "x00": "379956",
+      "x01": "379955"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4374288",
+      "x00": "380040",
+      "x01": "142"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4374289",
+      "x00": "380124",
+      "x01": "234"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Rahoitusosuudet investointimenoihin",
+     "ids": {
+      "x0": "4374299",
+      "x00": "381048",
+      "x01": "1577"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Tietokoneohjelmistot",
+     "ids": {
+      "x0": "4374300",
+      "x00": "381132",
+      "x01": "381131"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "Muut aineettomat hyödykkeet",
+     "ids": {
+      "x0": "4374308",
+      "x00": "381888",
+      "x01": "381887"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "Maa- ja vesialueiden  hankinta",
+     "ids": {
+      "x0": "4374311",
+      "x00": "382140",
+      "x01": "382139"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "Maa- ja vesialueiden parannusinvestointi",
+     "ids": {
+      "x0": "4374312",
+      "x00": "382224",
+      "x01": "382223"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "Asuinrakennusten uushankinta",
+     "ids": {
+      "x0": "4374310",
+      "x00": "382056",
+      "x01": "382055"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "Asuinrakennusten korjausinvestointi",
+     "ids": {
+      "x0": "4374309",
+      "x00": "381972",
+      "x01": "381971"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "Muiden rakennusten uushankinta",
+     "ids": {
+      "x0": "4374313",
+      "x00": "382308",
+      "x01": "382307"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "Muut rakennukset, korjausinvestointi",
+     "ids": {
+      "x0": "4374307",
+      "x00": "381804",
+      "x01": "381803"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4374301",
+      "x00": "381216",
+      "x01": "381215"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Kuljetusvälineet",
+     "ids": {
+      "x0": "4374302",
+      "x00": "381300",
+      "x01": "381299"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Tietokonelaitteet",
+     "ids": {
+      "x0": "4374306",
+      "x00": "381720",
+      "x01": "381719"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "Viestintälaitteet",
+     "ids": {
+      "x0": "4374314",
+      "x00": "382392",
+      "x01": "382391"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4374303",
+      "x00": "381384",
+      "x01": "381383"
+     }
+    },
+    {
+     "code": "R0340",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4374304",
+      "x00": "381468",
+      "x01": "381467"
+     }
+    },
+    {
+     "code": "R0350",
+     "label": "Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4374305",
+      "x00": "381552",
+      "x01": "381551"
+     }
+    },
+    {
+     "code": "R0370",
+     "label": "Luovutustulot (luovutushinnan määräisenä)",
+     "ids": {
+      "x0": "4374315",
+      "x00": "382476",
+      "x01": "1564"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "Tietokoneohjelmistot",
+     "ids": {
+      "x0": "4374316",
+      "x00": "382560",
+      "x01": "382559"
+     }
+    },
+    {
+     "code": "R0400",
+     "label": "Muut aineettomat hyödykkeet",
+     "ids": {
+      "x0": "4374324",
+      "x00": "383316",
+      "x01": "383315"
+     }
+    },
+    {
+     "code": "R0410",
+     "label": "Maa- ja vesialueiden  hankinta",
+     "ids": {
+      "x0": "4374327",
+      "x00": "383568",
+      "x01": "383567"
+     }
+    },
+    {
+     "code": "R0420",
+     "label": "Maa- ja vesialueiden parannusinvestointi",
+     "ids": {
+      "x0": "4374328",
+      "x00": "383652",
+      "x01": "383651"
+     }
+    },
+    {
+     "code": "R0430",
+     "label": "Asuinrakennusten uushankinta",
+     "ids": {
+      "x0": "4374326",
+      "x00": "383484",
+      "x01": "383483"
+     }
+    },
+    {
+     "code": "R0440",
+     "label": "Asuinrakennusten korjausinvestointi",
+     "ids": {
+      "x0": "4374325",
+      "x00": "383400",
+      "x01": "383399"
+     }
+    },
+    {
+     "code": "R0450",
+     "label": "Muiden rakennusten uushankinta",
+     "ids": {
+      "x0": "4374329",
+      "x00": "383736",
+      "x01": "383735"
+     }
+    },
+    {
+     "code": "R0460",
+     "label": "Muut rakennukset, korjausinvestointi",
+     "ids": {
+      "x0": "4374323",
+      "x00": "383232",
+      "x01": "383231"
+     }
+    },
+    {
+     "code": "R0470",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4374317",
+      "x00": "382644",
+      "x01": "382643"
+     }
+    },
+    {
+     "code": "R0480",
+     "label": "Kuljetusvälineet",
+     "ids": {
+      "x0": "4374318",
+      "x00": "382728",
+      "x01": "382727"
+     }
+    },
+    {
+     "code": "R0490",
+     "label": "Tietokonelaitteet",
+     "ids": {
+      "x0": "4374322",
+      "x00": "383148",
+      "x01": "383147"
+     }
+    },
+    {
+     "code": "R0500",
+     "label": "Viestintälaitteet",
+     "ids": {
+      "x0": "4374330",
+      "x00": "383820",
+      "x01": "383819"
+     }
+    },
+    {
+     "code": "R0510",
+     "label": "Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4374319",
+      "x00": "382812",
+      "x01": "382811"
+     }
+    },
+    {
+     "code": "R0520",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4374320",
+      "x00": "382896",
+      "x01": "382895"
+     }
+    },
+    {
+     "code": "R0530",
+     "label": "Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4374321",
+      "x00": "382980",
+      "x01": "1469"
+     }
+    },
+    {
+     "code": "R0550",
+     "label": "Luovutusvoitot",
+     "ids": {
+      "x0": "4374071",
+      "x00": "361392",
+      "x01": "361391"
+     }
+    },
+    {
+     "code": "R0570",
+     "label": "Tietokoneohjelmistot",
+     "ids": {
+      "x0": "4374072",
+      "x00": "361476",
+      "x01": "361475"
+     }
+    },
+    {
+     "code": "R0580",
+     "label": "Muut aineettomat hyödykkeet",
+     "ids": {
+      "x0": "4374080",
+      "x00": "362232",
+      "x01": "362231"
+     }
+    },
+    {
+     "code": "R0590",
+     "label": "Maa- ja vesialueiden  hankinta",
+     "ids": {
+      "x0": "4374083",
+      "x00": "362484",
+      "x01": "362483"
+     }
+    },
+    {
+     "code": "R0600",
+     "label": "Maa- ja vesialueiden parannusinvestointi",
+     "ids": {
+      "x0": "4374084",
+      "x00": "362568",
+      "x01": "362567"
+     }
+    },
+    {
+     "code": "R0610",
+     "label": "Asuinrakennusten uushankinta",
+     "ids": {
+      "x0": "4374082",
+      "x00": "362400",
+      "x01": "362399"
+     }
+    },
+    {
+     "code": "R0620",
+     "label": "Asuinrakennusten korjausinvestointi",
+     "ids": {
+      "x0": "4374081",
+      "x00": "362316",
+      "x01": "362315"
+     }
+    },
+    {
+     "code": "R0630",
+     "label": "Muiden rakennusten uushankinta",
+     "ids": {
+      "x0": "4374085",
+      "x00": "362652",
+      "x01": "362651"
+     }
+    },
+    {
+     "code": "R0640",
+     "label": "Muut rakennukset, korjausinvestointi",
+     "ids": {
+      "x0": "4374079",
+      "x00": "362148",
+      "x01": "362147"
+     }
+    },
+    {
+     "code": "R0650",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4374073",
+      "x00": "361560",
+      "x01": "361559"
+     }
+    },
+    {
+     "code": "R0660",
+     "label": "Kuljetusvälineet",
+     "ids": {
+      "x0": "4374074",
+      "x00": "361644",
+      "x01": "361643"
+     }
+    },
+    {
+     "code": "R0670",
+     "label": "Tietokonelaitteet",
+     "ids": {
+      "x0": "4374078",
+      "x00": "362064",
+      "x01": "362063"
+     }
+    },
+    {
+     "code": "R0680",
+     "label": "Viestintälaitteet",
+     "ids": {
+      "x0": "4374086",
+      "x00": "362736",
+      "x01": "362735"
+     }
+    },
+    {
+     "code": "R0690",
+     "label": "Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4374075",
+      "x00": "361728",
+      "x01": "361727"
+     }
+    },
+    {
+     "code": "R0700",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4374076",
+      "x00": "361812",
+      "x01": "361811"
+     }
+    },
+    {
+     "code": "R0710",
+     "label": "Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4374077",
+      "x00": "361896",
+      "x01": "361895"
+     }
+    },
+    {
+     "code": "R0730",
+     "label": "Investointituloihin sisältyvät luovutustappiot",
+     "ids": {
+      "x0": "4999297",
+      "x00": "4999298",
+      "x01": "4999299"
+     }
+    },
+    {
+     "code": "R0750",
+     "label": "Tietokoneohjelmistot",
+     "ids": {
+      "x0": "4999381",
+      "x00": "4999382",
+      "x01": "4999383"
+     }
+    },
+    {
+     "code": "R0760",
+     "label": "Muut aineettomat hyödykkeet",
+     "ids": {
+      "x0": "5000053",
+      "x00": "5000054",
+      "x01": "5000055"
+     }
+    },
+    {
+     "code": "R0770",
+     "label": "Maa- ja vesialueiden  hankinta",
+     "ids": {
+      "x0": "5000305",
+      "x00": "5000306",
+      "x01": "5000307"
+     }
+    },
+    {
+     "code": "R0780",
+     "label": "Maa- ja vesialueiden parannusinvestointi",
+     "ids": {
+      "x0": "5000389",
+      "x00": "5000390",
+      "x01": "5000391"
+     }
+    },
+    {
+     "code": "R0790",
+     "label": "Asuinrakennusten uushankinta",
+     "ids": {
+      "x0": "5000221",
+      "x00": "5000222",
+      "x01": "5000223"
+     }
+    },
+    {
+     "code": "R0800",
+     "label": "Asuinrakennusten korjausinvestointi",
+     "ids": {
+      "x0": "5000137",
+      "x00": "5000138",
+      "x01": "5000139"
+     }
+    },
+    {
+     "code": "R0810",
+     "label": "Muiden rakennusten uushankinta",
+     "ids": {
+      "x0": "5000473",
+      "x00": "5000474",
+      "x01": "5000475"
+     }
+    },
+    {
+     "code": "R0820",
+     "label": "Muut rakennukset, korjausinvestointi",
+     "ids": {
+      "x0": "4999969",
+      "x00": "4999970",
+      "x01": "4999971"
+     }
+    },
+    {
+     "code": "R0830",
+     "label": "Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4999465",
+      "x00": "4999466",
+      "x01": "4999467"
+     }
+    },
+    {
+     "code": "R0840",
+     "label": "Kuljetusvälineet",
+     "ids": {
+      "x0": "4999549",
+      "x00": "4999550",
+      "x01": "4999551"
+     }
+    },
+    {
+     "code": "R0850",
+     "label": "Tietokonelaitteet",
+     "ids": {
+      "x0": "4999885",
+      "x00": "4999886",
+      "x01": "4999887"
+     }
+    },
+    {
+     "code": "R0860",
+     "label": "Viestintälaitteet",
+     "ids": {
+      "x0": "5000557",
+      "x00": "5000558",
+      "x01": "5000559"
+     }
+    },
+    {
+     "code": "R0870",
+     "label": "Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4999633",
+      "x00": "4999634",
+      "x01": "4999635"
+     }
+    },
+    {
+     "code": "R0880",
+     "label": "Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4999717",
+      "x00": "4999718",
+      "x01": "4999719"
+     }
+    },
+    {
+     "code": "R0890",
+     "label": "Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4999801",
+      "x00": "4999802",
+      "x01": "4999803"
+     }
+    },
+    {
+     "code": "R0910",
+     "label": "Palautusjärjestelmän arvonlisävero investoinneista",
+     "ids": {
+      "x0": "4374232",
+      "x00": "375168",
+      "x01": "375167"
+     }
+    }
+   ]
+  },
+  "k-t11": {
+   "title": "Kunnan ja kuntayhtymän tilinpäätösarvio, tuloslaskelman tilit",
+   "columns": {
+    "x0": "",
+    "x00": "",
+    "x01": ""
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Toimintatuotot",
+     "ids": {
+      "x0": "4374263",
+      "x00": "377940",
+      "x01": "16"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "3000-3199 Myyntituotot",
+     "ids": {
+      "x0": "4374264",
+      "x00": "378024",
+      "x01": "1843"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "3005 Myyntituotot, tili",
+     "ids": {
+      "x0": "4374246",
+      "x00": "376344",
+      "x01": "376343"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "3200-3299 Maksutuotot",
+     "ids": {
+      "x0": "4374266",
+      "x00": "378192",
+      "x01": "1871"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "3295 Maksutuotot, tili",
+     "ids": {
+      "x0": "4374247",
+      "x00": "376428",
+      "x01": "376427"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "3300-3399 Tuet ja avustukset",
+     "ids": {
+      "x0": "4374267",
+      "x00": "378276",
+      "x01": "1864"
+     }
+    },
+    {
+     "code": "R0075",
+     "label": "3300 Tuet ja avustukset, tili",
+     "ids": {
+      "x0": "5472058",
+      "x00": "5472072",
+      "x01": "5472085"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "3390 Palkkatuki",
+     "ids": {
+      "x0": "4374165",
+      "x00": "369456",
+      "x01": "369455"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "3400-3559 Muut toimintatuotot",
+     "ids": {
+      "x0": "4374268",
+      "x00": "378360",
+      "x01": "1863"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "3400-3499 Vuokratuotot",
+     "ids": {
+      "x0": "4374269",
+      "x00": "378444",
+      "x01": "378443"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "3499 Vuokratuotot, muut",
+     "ids": {
+      "x0": "4374187",
+      "x00": "371304",
+      "x01": "371303"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "3440 Maa- ja vesialueiden vuokratuotot",
+     "ids": {
+      "x0": "4374188",
+      "x00": "371388",
+      "x01": "371387"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "3500-3559 Muut tuotot",
+     "ids": {
+      "x0": "4374088",
+      "x00": "362904",
+      "x01": "362903"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "3510 Pysyvien vastaavien hyödykkeiden luovutusvoitot",
+     "ids": {
+      "x0": "4374087",
+      "x00": "362820",
+      "x01": "362819"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "3521 Vakuutusyhtiöiden vahinkovakuutuskorvaukset",
+     "ids": {
+      "x0": "4374167",
+      "x00": "369624",
+      "x01": "369623"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "3530 Muut tuotot, erittelemättömät",
+     "ids": {
+      "x0": "4374089",
+      "x00": "362988",
+      "x01": "362987"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "3536 Sakot ja uhkasakot",
+     "ids": {
+      "x0": "4374117",
+      "x00": "365424",
+      "x01": "365423"
+     }
+    },
+    {
+     "code": "R0083",
+     "label": "3600-3699 Valmistevarastojen muutos + (-)",
+     "ids": {
+      "x0": "5472057",
+      "x00": "5472071",
+      "x01": "1431"
+     }
+    },
+    {
+     "code": "R0085",
+     "label": "3610 Valmiiden ja keskeneräisten tuotteiden varastojen lisäys (vähennys)",
+     "ids": {
+      "x0": "5472056",
+      "x00": "5472070",
+      "x01": "5472084"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "3700-3799 Valmistus omaan käyttöön",
+     "ids": {
+      "x0": "4374234",
+      "x00": "375336",
+      "x01": "466"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "3710 Valmistus omaan käyttöön, tili",
+     "ids": {
+      "x0": "4374248",
+      "x00": "376512",
+      "x01": "376511"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Toimintakulut",
+     "ids": {
+      "x0": "4374270",
+      "x00": "378528",
+      "x01": "632"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "4000-4299 Henkilöstökulut",
+     "ids": {
+      "x0": "4374260",
+      "x00": "377688",
+      "x01": "473"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "4000-4099 Palkat ja palkkiot",
+     "ids": {
+      "x0": "4374265",
+      "x00": "378108",
+      "x01": "416"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "4000 Maksetut palkat ja palkkiot",
+     "ids": {
+      "x0": "4374190",
+      "x00": "371556",
+      "x01": "371555"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "4060 Jaksotetut palkat ja palkkiot",
+     "ids": {
+      "x0": "4374191",
+      "x00": "371640",
+      "x01": "371639"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "4065 Aktivoidut palkat ja palkkiot",
+     "ids": {
+      "x0": "4374192",
+      "x00": "371724",
+      "x01": "371723"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "4090 Henkilöstökorvaukset",
+     "ids": {
+      "x0": "4374193",
+      "x00": "371808",
+      "x01": "371807"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "4100-4229 Henkilösivukulut",
+     "ids": {
+      "x0": "4374275",
+      "x00": "378948",
+      "x01": "436"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "4100-4149 Eläkekulut",
+     "ids": {
+      "x0": "4374282",
+      "x00": "379536",
+      "x01": "116752"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "4110 Eläkevakuutusmaksut",
+     "ids": {
+      "x0": "4374194",
+      "x00": "371892",
+      "x01": "371891"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "4120 Maksetut eläkkeet",
+     "ids": {
+      "x0": "4374195",
+      "x00": "371976",
+      "x01": "371975"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "4130 Jaksotetut eläkekulut",
+     "ids": {
+      "x0": "4374196",
+      "x00": "372060",
+      "x01": "372059"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "4135 Aktivoidut eläkemenot",
+     "ids": {
+      "x0": "4374197",
+      "x00": "372144",
+      "x01": "372143"
+     }
+    },
+    {
+     "code": "R0340",
+     "label": "4150-4229 Muut henkilösivukulut",
+     "ids": {
+      "x0": "4374331",
+      "x00": "383904",
+      "x01": "116770"
+     }
+    },
+    {
+     "code": "R0350",
+     "label": "4210 Muut henkilösivukulut, erittelemättömät",
+     "ids": {
+      "x0": "4374198",
+      "x00": "372312",
+      "x01": "372311"
+     }
+    },
+    {
+     "code": "R0360",
+     "label": "4190 Jaksotetut  sosiaalivakuutusmaksut",
+     "ids": {
+      "x0": "4374199",
+      "x00": "372396",
+      "x01": "372395"
+     }
+    },
+    {
+     "code": "R0370",
+     "label": "4200 Aktivoidut sosiaalivakuutusmaksut",
+     "ids": {
+      "x0": "4374200",
+      "x00": "372480",
+      "x01": "372479"
+     }
+    },
+    {
+     "code": "R0380",
+     "label": "4300-4499 Palvelujen ostot",
+     "ids": {
+      "x0": "4374062",
+      "x00": "360636",
+      "x01": "15"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "4300-4339 Asiakaspalvelujen ostot",
+     "ids": {
+      "x0": "4374201",
+      "x00": "372564",
+      "x01": "372563"
+     }
+    },
+    {
+     "code": "R0400",
+     "label": "4300 Asiakaspalvelujen ostot, erittelemättömät",
+     "ids": {
+      "x0": "4374202",
+      "x00": "372648",
+      "x01": "372647"
+     }
+    },
+    {
+     "code": "R0410",
+     "label": "4315 Palveluseteli",
+     "ids": {
+      "x0": "4374203",
+      "x00": "372732",
+      "x01": "372731"
+     }
+    },
+    {
+     "code": "R0470",
+     "label": "4340-4499 Muiden palvelujen ostot",
+     "ids": {
+      "x0": "4374204",
+      "x00": "372816",
+      "x01": "372815"
+     }
+    },
+    {
+     "code": "R0480",
+     "label": "4340 Asiantuntijapalvelut",
+     "ids": {
+      "x0": "4374224",
+      "x00": "374496",
+      "x01": "374495"
+     }
+    },
+    {
+     "code": "R0490",
+     "label": "4341 Toimistopalvelut",
+     "ids": {
+      "x0": "4374225",
+      "x00": "374580",
+      "x01": "374579"
+     }
+    },
+    {
+     "code": "R0500",
+     "label": "4342 ICT-palvelut",
+     "ids": {
+      "x0": "4374205",
+      "x00": "372900",
+      "x01": "372899"
+     }
+    },
+    {
+     "code": "R0510",
+     "label": "4344 Rahoitus- ja pankkipalvelut",
+     "ids": {
+      "x0": "4374206",
+      "x00": "372984",
+      "x01": "372983"
+     }
+    },
+    {
+     "code": "R0520",
+     "label": "4346 Työvoiman vuokraus",
+     "ids": {
+      "x0": "4374207",
+      "x00": "373068",
+      "x01": "373067"
+     }
+    },
+    {
+     "code": "R0525",
+     "label": "4348 Tulkkauspalvelut",
+     "ids": {
+      "x0": "7733244",
+      "x00": "7733249",
+      "x01": "7733258"
+     }
+    },
+    {
+     "code": "R0530",
+     "label": "4350 Painatukset, ilmoitukset ja markkinointi",
+     "ids": {
+      "x0": "4374208",
+      "x00": "373152",
+      "x01": "373151"
+     }
+    },
+    {
+     "code": "R0540",
+     "label": "4360 Posti- ja kuriiripalvelut",
+     "ids": {
+      "x0": "4374209",
+      "x00": "373236",
+      "x01": "373235"
+     }
+    },
+    {
+     "code": "R0550",
+     "label": "4370 Vakuutukset",
+     "ids": {
+      "x0": "4374233",
+      "x00": "375252",
+      "x01": "375251"
+     }
+    },
+    {
+     "code": "R0560",
+     "label": "4380 Puhtaanapito- ja pesulapalvelut",
+     "ids": {
+      "x0": "4374210",
+      "x00": "373320",
+      "x01": "373319"
+     }
+    },
+    {
+     "code": "R0570",
+     "label": "4390 Rakennusten ja alueiden rakentamis- ja kunnossapitopalvelut",
+     "ids": {
+      "x0": "4374211",
+      "x00": "373404",
+      "x01": "373403"
+     }
+    },
+    {
+     "code": "R0580",
+     "label": "4400 Koneiden, kaluston ja laitteiden rakentamis- ja kunnossapitopalvelut",
+     "ids": {
+      "x0": "4374212",
+      "x00": "373488",
+      "x01": "373487"
+     }
+    },
+    {
+     "code": "R0590",
+     "label": "4410 Majoitus- ja ravitsemispalvelut",
+     "ids": {
+      "x0": "4374213",
+      "x00": "373572",
+      "x01": "373571"
+     }
+    },
+    {
+     "code": "R0600",
+     "label": "4420 Matkustus- ja kuljetuspalvelut",
+     "ids": {
+      "x0": "4374214",
+      "x00": "373656",
+      "x01": "373655"
+     }
+    },
+    {
+     "code": "R0610",
+     "label": "4430 Sosiaali- ja terveyspalvelut",
+     "ids": {
+      "x0": "4374215",
+      "x00": "373740",
+      "x01": "373739"
+     }
+    },
+    {
+     "code": "R0620",
+     "label": "4440 Koulutus- ja kulttuuripalvelut",
+     "ids": {
+      "x0": "4374216",
+      "x00": "373824",
+      "x01": "373823"
+     }
+    },
+    {
+     "code": "R0630",
+     "label": "4445 Koulutuskorvaukset työnantajille",
+     "ids": {
+      "x0": "4374237",
+      "x00": "375588",
+      "x01": "375587"
+     }
+    },
+    {
+     "code": "R0640",
+     "label": "4450 Osuus verotuskustannuksiin",
+     "ids": {
+      "x0": "4374217",
+      "x00": "373908",
+      "x01": "373907"
+     }
+    },
+    {
+     "code": "R0650",
+     "label": "4460 Muut yhteistoimintaosuudet",
+     "ids": {
+      "x0": "4374218",
+      "x00": "373992",
+      "x01": "373991"
+     }
+    },
+    {
+     "code": "R0660",
+     "label": "4470 Muut palvelut",
+     "ids": {
+      "x0": "4374219",
+      "x00": "374076",
+      "x01": "374075"
+     }
+    },
+    {
+     "code": "R0670",
+     "label": "4480 Aktivoidut palvelujen ostot",
+     "ids": {
+      "x0": "4374220",
+      "x00": "374160",
+      "x01": "374159"
+     }
+    },
+    {
+     "code": "R0680",
+     "label": "4500-4699 Aineet, tarvikkeet ja tavarat",
+     "ids": {
+      "x0": "4374064",
+      "x00": "360804",
+      "x01": "4"
+     }
+    },
+    {
+     "code": "R0690",
+     "label": "4500-4699 Ostot tilikauden aikana",
+     "ids": {
+      "x0": "4374280",
+      "x00": "379368",
+      "x01": "73510"
+     }
+    },
+    {
+     "code": "R0700",
+     "label": "4500 Toimisto- ja koulutarvikkeet",
+     "ids": {
+      "x0": "4374168",
+      "x00": "369708",
+      "x01": "369707"
+     }
+    },
+    {
+     "code": "R0710",
+     "label": "4510 Kirjallisuus",
+     "ids": {
+      "x0": "4374169",
+      "x00": "369792",
+      "x01": "369791"
+     }
+    },
+    {
+     "code": "R0720",
+     "label": "4520 Elintarvikkeet",
+     "ids": {
+      "x0": "4374170",
+      "x00": "369876",
+      "x01": "369875"
+     }
+    },
+    {
+     "code": "R0730",
+     "label": "4530 Vaatteisto",
+     "ids": {
+      "x0": "4374171",
+      "x00": "369960",
+      "x01": "369959"
+     }
+    },
+    {
+     "code": "R0740",
+     "label": "4533 Lääkkeet",
+     "ids": {
+      "x0": "4374226",
+      "x00": "374664",
+      "x01": "374663"
+     }
+    },
+    {
+     "code": "R0750",
+     "label": "4534 Hoitotarvikkeet",
+     "ids": {
+      "x0": "4374227",
+      "x00": "374748",
+      "x01": "374747"
+     }
+    },
+    {
+     "code": "R0760",
+     "label": "4550 Puhdistusaineet ja -tarvikkeet",
+     "ids": {
+      "x0": "4374172",
+      "x00": "370044",
+      "x01": "370043"
+     }
+    },
+    {
+     "code": "R0770",
+     "label": "4560 Poltto- ja voiteluaineet",
+     "ids": {
+      "x0": "4374173",
+      "x00": "370128",
+      "x01": "370127"
+     }
+    },
+    {
+     "code": "R0780",
+     "label": "4568 Lämmitys",
+     "ids": {
+      "x0": "4374174",
+      "x00": "370212",
+      "x01": "370211"
+     }
+    },
+    {
+     "code": "R0790",
+     "label": "4569 Sähkö ja kaasu",
+     "ids": {
+      "x0": "4374175",
+      "x00": "370296",
+      "x01": "370295"
+     }
+    },
+    {
+     "code": "R0800",
+     "label": "4570 Vesi",
+     "ids": {
+      "x0": "4374176",
+      "x00": "370380",
+      "x01": "370379"
+     }
+    },
+    {
+     "code": "R0810",
+     "label": "4580 Kalusto",
+     "ids": {
+      "x0": "4374177",
+      "x00": "370464",
+      "x01": "370463"
+     }
+    },
+    {
+     "code": "R0820",
+     "label": "4590 Rakennusmateriaali",
+     "ids": {
+      "x0": "4374178",
+      "x00": "370548",
+      "x01": "370547"
+     }
+    },
+    {
+     "code": "R0830",
+     "label": "4600 Muu materiaali",
+     "ids": {
+      "x0": "4374179",
+      "x00": "370632",
+      "x01": "370631"
+     }
+    },
+    {
+     "code": "R0840",
+     "label": "4640 Pysyviin vastaaviin aktivoidut aineet, tarvikkeet ja tavarat",
+     "ids": {
+      "x0": "4374180",
+      "x00": "370716",
+      "x01": "370715"
+     }
+    },
+    {
+     "code": "R0845",
+     "label": "4670 Varastojen lisäys/vähennys",
+     "ids": {
+      "x0": "5472055",
+      "x00": "5472069",
+      "x01": "5472083"
+     }
+    },
+    {
+     "code": "R0850",
+     "label": "4700-4799 Avustukset",
+     "ids": {
+      "x0": "4374271",
+      "x00": "378612",
+      "x01": "627"
+     }
+    },
+    {
+     "code": "R0860",
+     "label": "4700 - 4739 Avustukset kotitalouksille",
+     "ids": {
+      "x0": "4374181",
+      "x00": "370800",
+      "x01": "370799"
+     }
+    },
+    {
+     "code": "R0880",
+     "label": "4712 Kotihoidon tuki",
+     "ids": {
+      "x0": "4374239",
+      "x00": "375756",
+      "x01": "375755"
+     }
+    },
+    {
+     "code": "R0890",
+     "label": "4713 Kotihoidon tuen kuntalisä",
+     "ids": {
+      "x0": "4374240",
+      "x00": "375840",
+      "x01": "375839"
+     }
+    },
+    {
+     "code": "R0900",
+     "label": "4714 Yksityisen hoidon tuki",
+     "ids": {
+      "x0": "4374241",
+      "x00": "375924",
+      "x01": "375923"
+     }
+    },
+    {
+     "code": "R0910",
+     "label": "4715 Yksityisen hoidon tuen kuntalisä",
+     "ids": {
+      "x0": "4374242",
+      "x00": "376008",
+      "x01": "376007"
+     }
+    },
+    {
+     "code": "R0925",
+     "label": "4716 Osittainen ja joustava hoitoraha",
+     "ids": {
+      "x0": "5472064",
+      "x00": "5472078",
+      "x01": "5472091"
+     }
+    },
+    {
+     "code": "R0950",
+     "label": "4730 Starttiraha",
+     "ids": {
+      "x0": "7733245",
+      "x00": "7733250",
+      "x01": "7733259"
+     }
+    },
+    {
+     "code": "R0970",
+     "label": "4739 Muut avustukset kotitalouksille",
+     "ids": {
+      "x0": "4374182",
+      "x00": "370884",
+      "x01": "370883"
+     }
+    },
+    {
+     "code": "R0980",
+     "label": "4740-4750 Avustukset yhteisöille",
+     "ids": {
+      "x0": "4374183",
+      "x00": "370968",
+      "x01": "370967"
+     }
+    },
+    {
+     "code": "R0984",
+     "label": "4746 Työnantajan palkkatuki",
+     "ids": {
+      "x0": "7733246",
+      "x00": "7733251",
+      "x01": "7733260"
+     }
+    },
+    {
+     "code": "R0988",
+     "label": "4748 Kunnan rahoitusosuus työttömyystuista",
+     "ids": {
+      "x0": "7733247",
+      "x00": "7733252",
+      "x01": "7733261"
+     }
+    },
+    {
+     "code": "R0989",
+     "label": "4750 Muut avustukset yhteisöille",
+     "ids": {
+      "x0": "7733248",
+      "x00": "7733253",
+      "x01": "7733262"
+     }
+    },
+    {
+     "code": "R0990",
+     "label": "4800-4995 Muut toimintakulut",
+     "ids": {
+      "x0": "4374272",
+      "x00": "378696",
+      "x01": "561"
+     }
+    },
+    {
+     "code": "R1000",
+     "label": "4800-4899 Vuokrakulut",
+     "ids": {
+      "x0": "4374221",
+      "x00": "374244",
+      "x01": "374243"
+     }
+    },
+    {
+     "code": "R1010",
+     "label": "4810 Maa- ja vesialueiden vuokrakulut",
+     "ids": {
+      "x0": "4374166",
+      "x00": "369540",
+      "x01": "369539"
+     }
+    },
+    {
+     "code": "R1020",
+     "label": "4820 Rakennusten ja huoneistojen vuokrat",
+     "ids": {
+      "x0": "4374184",
+      "x00": "371052",
+      "x01": "371051"
+     }
+    },
+    {
+     "code": "R1030",
+     "label": "4830 Koneiden ja laitteiden vuokrat",
+     "ids": {
+      "x0": "4374185",
+      "x00": "371136",
+      "x01": "371135"
+     }
+    },
+    {
+     "code": "R1040",
+     "label": "4890 Muut vuokrat",
+     "ids": {
+      "x0": "4374186",
+      "x00": "371220",
+      "x01": "371219"
+     }
+    },
+    {
+     "code": "R1060",
+     "label": "4899 Aktivoidut vuokrakulut",
+     "ids": {
+      "x0": "4374245",
+      "x00": "376260",
+      "x01": "376259"
+     }
+    },
+    {
+     "code": "R1070",
+     "label": "4900-4995 Muut kulut",
+     "ids": {
+      "x0": "4374222",
+      "x00": "374328",
+      "x01": "374327"
+     }
+    },
+    {
+     "code": "R1080",
+     "label": "4901 Jätevero",
+     "ids": {
+      "x0": "4374090",
+      "x00": "363072",
+      "x01": "363071"
+     }
+    },
+    {
+     "code": "R1090",
+     "label": "4910 Muut välilliset ja välittömät verot",
+     "ids": {
+      "x0": "4374091",
+      "x00": "363156",
+      "x01": "363155"
+     }
+    },
+    {
+     "code": "R1100",
+     "label": "4920 Pysyvien vastaavien hyödykkeiden luovutustappiot",
+     "ids": {
+      "x0": "4374092",
+      "x00": "363240",
+      "x01": "363239"
+     }
+    },
+    {
+     "code": "R1110",
+     "label": "4921 Luottotappiot toimintatuotoista (myyntisaamiset)",
+     "ids": {
+      "x0": "4374108",
+      "x00": "364668",
+      "x01": "364667"
+     }
+    },
+    {
+     "code": "R1120",
+     "label": "4930 Takaustappiot",
+     "ids": {
+      "x0": "4374109",
+      "x00": "364752",
+      "x01": "364751"
+     }
+    },
+    {
+     "code": "R1130",
+     "label": "4931 Takauskorvausten takaisinperinnät",
+     "ids": {
+      "x0": "4374110",
+      "x00": "364836",
+      "x01": "364835"
+     }
+    },
+    {
+     "code": "R1140",
+     "label": "4940 Muut toimintakulut, erittelemättömät",
+     "ids": {
+      "x0": "4374111",
+      "x00": "364920",
+      "x01": "364919"
+     }
+    },
+    {
+     "code": "R1150",
+     "label": "4990 Aktivoidut muut kulut",
+     "ids": {
+      "x0": "4374112",
+      "x00": "365004",
+      "x01": "365003"
+     }
+    },
+    {
+     "code": "R1175",
+     "label": "Toimintakate",
+     "ids": {
+      "x0": "5472065",
+      "x00": "5472079",
+      "x01": "545"
+     }
+    },
+    {
+     "code": "R1180",
+     "label": "5000-5499 Verotulot",
+     "ids": {
+      "x0": "4374273",
+      "x00": "378780",
+      "x01": "584"
+     }
+    },
+    {
+     "code": "R1190",
+     "label": "5000 Kunnan tulovero",
+     "ids": {
+      "x0": "4374274",
+      "x00": "378864",
+      "x01": "378863"
+     }
+    },
+    {
+     "code": "R1200",
+     "label": "5100 Kiinteistövero",
+     "ids": {
+      "x0": "4374113",
+      "x00": "365088",
+      "x01": "365087"
+     }
+    },
+    {
+     "code": "R1210",
+     "label": "5200 Osuus yhteisöveron tuotosta",
+     "ids": {
+      "x0": "4374276",
+      "x00": "379032",
+      "x01": "379031"
+     }
+    },
+    {
+     "code": "R1220",
+     "label": "5400 Muut verotulot",
+     "ids": {
+      "x0": "4374277",
+      "x00": "379116",
+      "x01": "379115"
+     }
+    },
+    {
+     "code": "R1230",
+     "label": "5500-5899 Valtionosuudet",
+     "ids": {
+      "x0": "4374278",
+      "x00": "379200",
+      "x01": "1157"
+     }
+    },
+    {
+     "code": "R1245",
+     "label": "5501-5520 Kunnan peruspalvelujen valtionosuus",
+     "ids": {
+      "x0": "4374114",
+      "x00": "365172",
+      "x01": "365171"
+     }
+    },
+    {
+     "code": "R1250",
+     "label": "5501 Kunnan peruspalvelujen valtionosuus (ilman tasauksia)",
+     "ids": {
+      "x0": "4374115",
+      "x00": "365256",
+      "x01": "365255"
+     }
+    },
+    {
+     "code": "R1260",
+     "label": "5502 Verotuloihin perustuva valtionosuuksien tasaus",
+     "ids": {
+      "x0": "4374116",
+      "x00": "365340",
+      "x01": "365339"
+     }
+    },
+    {
+     "code": "R1265",
+     "label": "5510 Harkinnanvarainen valtionosuuden korotus",
+     "ids": {
+      "x0": "4374121",
+      "x00": "365760",
+      "x01": "365759"
+     }
+    },
+    {
+     "code": "R1267",
+     "label": "5700-5730 Opetus- ja kulttuuritoimen rahoituslain mukaiset valtionosuudet",
+     "ids": {
+      "x0": "5472059",
+      "x00": "5472073",
+      "x01": "5472086"
+     }
+    },
+    {
+     "code": "R1268",
+     "label": "5701 Opetus- ja kulttuuritoimen rahoituslain mukaiset valtionosuudet, tili",
+     "ids": {
+      "x0": "5472060",
+      "x00": "5472074",
+      "x01": "5472087"
+     }
+    },
+    {
+     "code": "R1272",
+     "label": "5800-5870 Muut valtionosuudet",
+     "ids": {
+      "x0": "4374119",
+      "x00": "365592",
+      "x01": "365591"
+     }
+    },
+    {
+     "code": "R1275",
+     "label": "5850 Muut valtionosuudet, tili",
+     "ids": {
+      "x0": "5472061",
+      "x00": "5472075",
+      "x01": "5472088"
+     }
+    },
+    {
+     "code": "R1295",
+     "label": "5890-5899  Verotulomenetysten korvaus",
+     "ids": {
+      "x0": "5472062",
+      "x00": "5472076",
+      "x01": "5472089"
+     }
+    },
+    {
+     "code": "R1305",
+     "label": "5890 Verotulomenetysten korvaus, tili",
+     "ids": {
+      "x0": "5472063",
+      "x00": "5472077",
+      "x01": "5472090"
+     }
+    },
+    {
+     "code": "R1330",
+     "label": "6000-6999 Rahoitustuotot ja -kulut + (-)",
+     "ids": {
+      "x0": "4374069",
+      "x00": "361224",
+      "x01": "45"
+     }
+    },
+    {
+     "code": "R1340",
+     "label": "6000-6099 Korkotuotot",
+     "ids": {
+      "x0": "4374068",
+      "x00": "361140",
+      "x01": "931"
+     }
+    },
+    {
+     "code": "R1350",
+     "label": "6040 Korkotuotot antolainoista",
+     "ids": {
+      "x0": "4374123",
+      "x00": "365928",
+      "x01": "365927"
+     }
+    },
+    {
+     "code": "R1360",
+     "label": "6050 Muut korkotuotot",
+     "ids": {
+      "x0": "4374124",
+      "x00": "366012",
+      "x01": "366011"
+     }
+    },
+    {
+     "code": "R1370",
+     "label": "6055 Korkojohdannaisiin liittyvät korkotuotot ja -kulut (tuottoja suojaava)",
+     "ids": {
+      "x0": "4374235",
+      "x00": "375420",
+      "x01": "375419"
+     }
+    },
+    {
+     "code": "R1380",
+     "label": "6100-6199 Muut rahoitustuotot",
+     "ids": {
+      "x0": "4374067",
+      "x00": "361056",
+      "x01": "1575"
+     }
+    },
+    {
+     "code": "R1390",
+     "label": "6100 Osinkotuotot ja osuuspääomien korot",
+     "ids": {
+      "x0": "4374125",
+      "x00": "366096",
+      "x01": "742"
+     }
+    },
+    {
+     "code": "R1400",
+     "label": "6115 Korvaus peruspääomasta",
+     "ids": {
+      "x0": "4374126",
+      "x00": "366180",
+      "x01": "722"
+     }
+    },
+    {
+     "code": "R1410",
+     "label": "6116 Korvaus jäännöspääomasta",
+     "ids": {
+      "x0": "4374127",
+      "x00": "366264",
+      "x01": "366263"
+     }
+    },
+    {
+     "code": "R1420",
+     "label": "6120 Verotilitysten korot ja korotukset",
+     "ids": {
+      "x0": "4374128",
+      "x00": "366348",
+      "x01": "366347"
+     }
+    },
+    {
+     "code": "R1430",
+     "label": "6130 Viivästyskorot",
+     "ids": {
+      "x0": "4374129",
+      "x00": "366432",
+      "x01": "366431"
+     }
+    },
+    {
+     "code": "R1440",
+     "label": "6140 Peruspääoman korot kuntayhtymiltä",
+     "ids": {
+      "x0": "4374130",
+      "x00": "366516",
+      "x01": "366515"
+     }
+    },
+    {
+     "code": "R1450",
+     "label": "6150 Kurssivoitot rahoituslainoista",
+     "ids": {
+      "x0": "4374131",
+      "x00": "366600",
+      "x01": "366599"
+     }
+    },
+    {
+     "code": "R1460",
+     "label": "6160 Arvopapereiden luovutusvoitot",
+     "ids": {
+      "x0": "4374132",
+      "x00": "366684",
+      "x01": "366683"
+     }
+    },
+    {
+     "code": "R1470",
+     "label": "6169 Korkojohdannaisiin liittyvät tuotot (ei-suojaava)",
+     "ids": {
+      "x0": "4374133",
+      "x00": "366768",
+      "x01": "366767"
+     }
+    },
+    {
+     "code": "R1480",
+     "label": "6170 Muut erittelemättömät rahoitustuotot",
+     "ids": {
+      "x0": "4374134",
+      "x00": "366852",
+      "x01": "366851"
+     }
+    },
+    {
+     "code": "R1490",
+     "label": "6176 Takausprovisiot",
+     "ids": {
+      "x0": "4374135",
+      "x00": "366936",
+      "x01": "366935"
+     }
+    },
+    {
+     "code": "R1500",
+     "label": "6180 Rahoitusarvopaperien arvonalentumisten oikaisut (Arvonalentumisten palautumiset)",
+     "ids": {
+      "x0": "4374136",
+      "x00": "367020",
+      "x01": "367019"
+     }
+    },
+    {
+     "code": "R1510",
+     "label": "6200-6299 Korkokulut",
+     "ids": {
+      "x0": "4374065",
+      "x00": "360888",
+      "x01": "360887"
+     }
+    },
+    {
+     "code": "R1520",
+     "label": "6255 Korkokulut lainoista ulkopuolisilta",
+     "ids": {
+      "x0": "4374231",
+      "x00": "375084",
+      "x01": "375083"
+     }
+    },
+    {
+     "code": "R1530",
+     "label": "6270 Korkojohdannaisiin liittyvät korkokulut ja -tuotot (kuluja suojaava)",
+     "ids": {
+      "x0": "4374236",
+      "x00": "375504",
+      "x01": "375503"
+     }
+    },
+    {
+     "code": "R1540",
+     "label": "6300-6399 Muut rahoituskulut",
+     "ids": {
+      "x0": "4374066",
+      "x00": "360972",
+      "x01": "1444"
+     }
+    },
+    {
+     "code": "R1545",
+     "label": "6301 Peruspääoman korko",
+     "ids": {
+      "x0": "5472054",
+      "x00": "5472068",
+      "x01": "5472082"
+     }
+    },
+    {
+     "code": "R1550",
+     "label": "6330 Kurssitappiot rahoituslainoista",
+     "ids": {
+      "x0": "4374137",
+      "x00": "367104",
+      "x01": "367103"
+     }
+    },
+    {
+     "code": "R1560",
+     "label": "6335 Arvopapereiden luovutustappiot",
+     "ids": {
+      "x0": "4374138",
+      "x00": "367188",
+      "x01": "367187"
+     }
+    },
+    {
+     "code": "R1570",
+     "label": "6360 Arvonalentumiset vaihtuvien vastaavien rahoitusarvopapereista",
+     "ids": {
+      "x0": "4374139",
+      "x00": "367272",
+      "x01": "367271"
+     }
+    },
+    {
+     "code": "R1580",
+     "label": "6370 Arvonalentumiset pysyvien vastaavien sijoituksista (pl. toimialasijoittamisen osakkeet ja -osuudet)",
+     "ids": {
+      "x0": "4374140",
+      "x00": "367356",
+      "x01": "367355"
+     }
+    },
+    {
+     "code": "R1590",
+     "label": "6379 Korkojohdannaisiin liittyvät kulut (ei-suojaava)",
+     "ids": {
+      "x0": "4374141",
+      "x00": "367440",
+      "x01": "367439"
+     }
+    },
+    {
+     "code": "R1600",
+     "label": "6380 Muut erittelemättömät rahoituskulut",
+     "ids": {
+      "x0": "4374142",
+      "x00": "367524",
+      "x01": "367523"
+     }
+    },
+    {
+     "code": "R1605",
+     "label": "Vuosikate",
+     "ids": {
+      "x0": "5472066",
+      "x00": "5472080",
+      "x01": "1093"
+     }
+    },
+    {
+     "code": "R1610",
+     "label": "7000-7299 Poistot ja arvonalentumiset",
+     "ids": {
+      "x0": "4374255",
+      "x00": "377268",
+      "x01": "1538"
+     }
+    },
+    {
+     "code": "R1620",
+     "label": "7100-7199 Suunnitelman mukaiset poistot",
+     "ids": {
+      "x0": "4374256",
+      "x00": "377352",
+      "x01": "31865"
+     }
+    },
+    {
+     "code": "R1630",
+     "label": "7170 Suunnitelman mukaiset poistot, erittelemättömät",
+     "ids": {
+      "x0": "4374143",
+      "x00": "367608",
+      "x01": "367607"
+     }
+    },
+    {
+     "code": "R1640",
+     "label": "7180 Kertaluonteiset poistot",
+     "ids": {
+      "x0": "4374144",
+      "x00": "367692",
+      "x01": "367691"
+     }
+    },
+    {
+     "code": "R1650",
+     "label": "7190 Pysyvien vastaavien hyödykkeiden luovutusvoitot ja -tappiot (epäolennaiset, ellei muissa tuotoissa/kuluissa)",
+     "ids": {
+      "x0": "4374145",
+      "x00": "367776",
+      "x01": "367775"
+     }
+    },
+    {
+     "code": "R1660",
+     "label": "7230-7299 Arvonalentumiset",
+     "ids": {
+      "x0": "4374279",
+      "x00": "379284",
+      "x01": "147737"
+     }
+    },
+    {
+     "code": "R1670",
+     "label": "7230 Pysyvien vastaavien hyödykkeiden arvonalentumiset",
+     "ids": {
+      "x0": "4374146",
+      "x00": "367860",
+      "x01": "367859"
+     }
+    },
+    {
+     "code": "R1680",
+     "label": "7240 Muut arvonalentumiset",
+     "ids": {
+      "x0": "4374147",
+      "x00": "367944",
+      "x01": "367943"
+     }
+    },
+    {
+     "code": "R1690",
+     "label": "8000-8199 Satunnaiset erät + (-)",
+     "ids": {
+      "x0": "4374259",
+      "x00": "377604",
+      "x01": "213"
+     }
+    },
+    {
+     "code": "R1700",
+     "label": "8000-8099 Satunnaiset tuotot",
+     "ids": {
+      "x0": "4374258",
+      "x00": "377520",
+      "x01": "427"
+     }
+    },
+    {
+     "code": "R1710",
+     "label": "8000 Satunnaiset tuotot, pysyvien vastaavien hyödykkeiden luovutusvoitot",
+     "ids": {
+      "x0": "4374148",
+      "x00": "368028",
+      "x01": "368027"
+     }
+    },
+    {
+     "code": "R1720",
+     "label": "8010 Satunnaiset tuotot, omistusosuuksien luovutukset",
+     "ids": {
+      "x0": "4374149",
+      "x00": "368112",
+      "x01": "368111"
+     }
+    },
+    {
+     "code": "R1730",
+     "label": "8020 Satunnaiset tuotot, vahingonkorvaukset ja sopimussakot",
+     "ids": {
+      "x0": "4374150",
+      "x00": "368196",
+      "x01": "368195"
+     }
+    },
+    {
+     "code": "R1740",
+     "label": "8050 Muut satunnaiset tuotot",
+     "ids": {
+      "x0": "4374151",
+      "x00": "368280",
+      "x01": "368279"
+     }
+    },
+    {
+     "code": "R1750",
+     "label": "8100-8199 Satunnaiset kulut",
+     "ids": {
+      "x0": "4374257",
+      "x00": "377436",
+      "x01": "410"
+     }
+    },
+    {
+     "code": "R1760",
+     "label": "8100 Satunnaiset kulut, pysyvien vastaavien hyödykkeiden luovutustappiot",
+     "ids": {
+      "x0": "4374152",
+      "x00": "368364",
+      "x01": "368363"
+     }
+    },
+    {
+     "code": "R1770",
+     "label": "8110 Satunnaiset kulut, omistusosuuksien luovutukset",
+     "ids": {
+      "x0": "4374153",
+      "x00": "368448",
+      "x01": "368447"
+     }
+    },
+    {
+     "code": "R1780",
+     "label": "8120 Satunnaiset kulut, vahingonkorvaukset ja sopimussakot",
+     "ids": {
+      "x0": "4374154",
+      "x00": "368532",
+      "x01": "368531"
+     }
+    },
+    {
+     "code": "R1790",
+     "label": "8130 Annetut akordit ja konserniavustukset",
+     "ids": {
+      "x0": "4374155",
+      "x00": "368616",
+      "x01": "368615"
+     }
+    },
+    {
+     "code": "R1800",
+     "label": "8150 Muut satunnaiset kulut",
+     "ids": {
+      "x0": "4374156",
+      "x00": "368700",
+      "x01": "368699"
+     }
+    },
+    {
+     "code": "R1805",
+     "label": "Tilikauden tulos",
+     "ids": {
+      "x0": "5472067",
+      "x00": "5472081",
+      "x01": "1121"
+     }
+    },
+    {
+     "code": "R1810",
+     "label": "8500-8599 Poistoeron lisäys (vähennys)",
+     "ids": {
+      "x0": "4374262",
+      "x00": "377856",
+      "x01": "107"
+     }
+    },
+    {
+     "code": "R1820",
+     "label": "8500 Poistoeron lisäys",
+     "ids": {
+      "x0": "4374157",
+      "x00": "368784",
+      "x01": "368783"
+     }
+    },
+    {
+     "code": "R1830",
+     "label": "8550 Poistoeron vähennys",
+     "ids": {
+      "x0": "4374158",
+      "x00": "368868",
+      "x01": "368867"
+     }
+    },
+    {
+     "code": "R1840",
+     "label": "8600-8699 Varausten lisäys (vähennys)",
+     "ids": {
+      "x0": "4374159",
+      "x00": "368952",
+      "x01": "368951"
+     }
+    },
+    {
+     "code": "R1850",
+     "label": "8600 Varausten lisäys",
+     "ids": {
+      "x0": "4374160",
+      "x00": "369036",
+      "x01": "369035"
+     }
+    },
+    {
+     "code": "R1860",
+     "label": "8650 Varausten vähennys",
+     "ids": {
+      "x0": "4374161",
+      "x00": "369120",
+      "x01": "369119"
+     }
+    },
+    {
+     "code": "R1870",
+     "label": "8700-8759 Rahastojen lisäys (vähennys)",
+     "ids": {
+      "x0": "4374162",
+      "x00": "369204",
+      "x01": "200"
+     }
+    },
+    {
+     "code": "R1880",
+     "label": "8700 Rahastojen lisäys",
+     "ids": {
+      "x0": "4374163",
+      "x00": "369288",
+      "x01": "369287"
+     }
+    },
+    {
+     "code": "R1890",
+     "label": "8750 Rahastojen vähennys",
+     "ids": {
+      "x0": "4374164",
+      "x00": "369372",
+      "x01": "369371"
+     }
+    },
+    {
+     "code": "R1900",
+     "label": "8800-8800 Tilikauden ylijäämä (alijäämä)",
+     "ids": {
+      "x0": "4374281",
+      "x00": "379452",
+      "x01": "1098"
+     }
+    },
+    {
+     "code": "R1910",
+     "label": "8800 Tilikauden ylijäämä (alijäämä), tili",
+     "ids": {
+      "x0": "4374254",
+      "x00": "377016",
+      "x01": "377015"
+     }
+    },
+    {
+     "code": "R1930",
+     "label": "Luontoisetujen raha-arvot",
+     "ids": {
+      "x0": "4374070",
+      "x00": "361308",
+      "x01": "361307"
+     }
+    },
+    {
+     "code": "R1940",
+     "label": "Palautusjärjestelmän arvonlisävero käyttötaloudesta",
+     "ids": {
+      "x0": "4374063",
+      "x00": "360720",
+      "x01": "360719"
+     }
+    }
+   ]
+  },
+  "k-t12": {
+   "title": "Kunnan ja kuntayhtymän tilinpäätösarvio, taseen tilit",
+   "columns": {
+    "x0": "",
+    "x00": "",
+    "x01": ""
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Vastaavaa",
+     "ids": {
+      "x0": "4991908",
+      "x00": "4345926",
+      "x01": "1320"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "1000-1299 Pysyvät vastaavat",
+     "ids": {
+      "x0": "4992083",
+      "x00": "4353738",
+      "x01": "307"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "1000-1029 Aineettomat hyödykkeet",
+     "ids": {
+      "x0": "4992084",
+      "x00": "4353822",
+      "x01": "40"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "1000-1007 Aineettomat oikeudet",
+     "ids": {
+      "x0": "4991788",
+      "x00": "4335852",
+      "x01": "143690"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "1005 Tietokoneohjelmistojen lisenssimaksut",
+     "ids": {
+      "x0": "7730890",
+      "x00": "7730893",
+      "x01": "7730896"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "1006 Muut aineettomat oikeudet",
+     "ids": {
+      "x0": "4991791",
+      "x00": "4336104",
+      "x01": "4336103"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "1010-1019 Muut pitkävaikutteiset menot",
+     "ids": {
+      "x0": "4991792",
+      "x00": "4336188",
+      "x01": "11721"
+     }
+    },
+    {
+     "code": "R0075",
+     "label": "1010 Muut pitkävaikutteiset menot, tili",
+     "ids": {
+      "x0": "4991914",
+      "x00": "4346514",
+      "x01": "4346513"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "1011 Tietokoneohjelmistot pl. lisenssimaksut",
+     "ids": {
+      "x0": "7730891",
+      "x00": "7730894",
+      "x01": "7730897"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "1020-1020 Ennakkomaksut aineettomista hyödykkeistä",
+     "ids": {
+      "x0": "4991809",
+      "x00": "4337616",
+      "x01": "10628"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "1020 Ennakkomaksut aineettomista hyödykkeistä, tili",
+     "ids": {
+      "x0": "4991915",
+      "x00": "4346598",
+      "x01": "4346597"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "1100-1199 Aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4992089",
+      "x00": "4354242",
+      "x01": "826"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "1100-1109 Maa- ja vesialueet",
+     "ids": {
+      "x0": "4991796",
+      "x00": "4336524",
+      "x01": "11830"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "1100-1104 Maa- ja vesialueet (ilman arvonkorotuksia)",
+     "ids": {
+      "x0": "4991795",
+      "x00": "4336440",
+      "x01": "4336439"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "1100 Maa- ja vesialueet, yleiset (ilman arvonkorotuksia)",
+     "ids": {
+      "x0": "4991794",
+      "x00": "4336356",
+      "x01": "4336355"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "1102 Kiinteistöjen liittymismaksut",
+     "ids": {
+      "x0": "4991798",
+      "x00": "4336692",
+      "x01": "4336691"
+     }
+    },
+    {
+     "code": "R0160",
+     "label": "1104 Kiinteistöjen vuokraoikeudet ja niihin liittyvät liittymismaksut",
+     "ids": {
+      "x0": "4991799",
+      "x00": "4336776",
+      "x01": "4336775"
+     }
+    },
+    {
+     "code": "R0170",
+     "label": "1105 Maa- ja vesialueiden arvonkorotukset",
+     "ids": {
+      "x0": "4991797",
+      "x00": "4336608",
+      "x01": "4336607"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "1110-1120 Rakennukset",
+     "ids": {
+      "x0": "4991787",
+      "x00": "4335768",
+      "x01": "143667"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "1115 Asuinrakennukset",
+     "ids": {
+      "x0": "4991904",
+      "x00": "4345590",
+      "x01": "4345589"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "1116 Muut rakennukset",
+     "ids": {
+      "x0": "4991905",
+      "x00": "4345674",
+      "x01": "4345673"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "1130-1130 Kiinteät rakenteet ja laitteet",
+     "ids": {
+      "x0": "4991800",
+      "x00": "4336860",
+      "x01": "11166"
+     }
+    },
+    {
+     "code": "R0220",
+     "label": "1130 Kiinteät rakenteet ja laitteet, tili",
+     "ids": {
+      "x0": "4991916",
+      "x00": "4346682",
+      "x01": "4346681"
+     }
+    },
+    {
+     "code": "R0230",
+     "label": "1160-1179 Koneet ja kalusto",
+     "ids": {
+      "x0": "4991789",
+      "x00": "4335936",
+      "x01": "143697"
+     }
+    },
+    {
+     "code": "R0240",
+     "label": "1160 Kuljetusvälineet",
+     "ids": {
+      "x0": "4991801",
+      "x00": "4336944",
+      "x01": "4336943"
+     }
+    },
+    {
+     "code": "R0250",
+     "label": "1165 Tietokonelaitteet",
+     "ids": {
+      "x0": "4991906",
+      "x00": "4345758",
+      "x01": "4345757"
+     }
+    },
+    {
+     "code": "R0260",
+     "label": "1166 Viestintälaitteet",
+     "ids": {
+      "x0": "4991912",
+      "x00": "4346346",
+      "x01": "4346345"
+     }
+    },
+    {
+     "code": "R0270",
+     "label": "1170 Muut koneet ja kalusto",
+     "ids": {
+      "x0": "4991802",
+      "x00": "4337028",
+      "x01": "4337027"
+     }
+    },
+    {
+     "code": "R0280",
+     "label": "1180-1189 Muut aineelliset hyödykkeet",
+     "ids": {
+      "x0": "4991804",
+      "x00": "4337196",
+      "x01": "11224"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "1180 Luonnonvarat",
+     "ids": {
+      "x0": "4991805",
+      "x00": "4337280",
+      "x01": "4337279"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "1184 Arvo- ja taide-esineet",
+     "ids": {
+      "x0": "4991803",
+      "x00": "4337112",
+      "x01": "4337111"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "1187 Muut hyödykkeet",
+     "ids": {
+      "x0": "4991806",
+      "x00": "4337364",
+      "x01": "4337363"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "1190-1199 Ennakkomaksut ja keskeneräiset hankinnat",
+     "ids": {
+      "x0": "4991807",
+      "x00": "4337448",
+      "x01": "11325"
+     }
+    },
+    {
+     "code": "R0330",
+     "label": "1190 Ennakkomaksut aineellisista hyödykkeistä",
+     "ids": {
+      "x0": "4991808",
+      "x00": "4337532",
+      "x01": "4337531"
+     }
+    },
+    {
+     "code": "R0340",
+     "label": "1195 Keskeneräiset hankinnat",
+     "ids": {
+      "x0": "4991810",
+      "x00": "4337700",
+      "x01": "4337699"
+     }
+    },
+    {
+     "code": "R0350",
+     "label": "1200-1299 Sijoitukset",
+     "ids": {
+      "x0": "4992086",
+      "x00": "4353990",
+      "x01": "581"
+     }
+    },
+    {
+     "code": "R0355",
+     "label": "1200-1203 Osakkuusyhteisöosuudet",
+     "ids": {
+      "x0": "5753128",
+      "x00": "5753132",
+      "x01": "5753136"
+     }
+    },
+    {
+     "code": "R0356",
+     "label": "1200 Osakkuusyhteisöosakkeet ja -osuudet",
+     "ids": {
+      "x0": "5753129",
+      "x00": "5753133",
+      "x01": "5753137"
+     }
+    },
+    {
+     "code": "R0357",
+     "label": "1201 Yhteisyhteisöosakkeet ja -osuudet",
+     "ids": {
+      "x0": "5753130",
+      "x00": "5753134",
+      "x01": "5753138"
+     }
+    },
+    {
+     "code": "R0358",
+     "label": "1202 Muut osakkeet ja osuudet",
+     "ids": {
+      "x0": "5753131",
+      "x00": "5753135",
+      "x01": "5753139"
+     }
+    },
+    {
+     "code": "R0360",
+     "label": "1204-1214 Osakkeet ja osuudet, sijoitukset",
+     "ids": {
+      "x0": "4991811",
+      "x00": "4337784",
+      "x01": "146"
+     }
+    },
+    {
+     "code": "R0370",
+     "label": "1204 Osakkeet ja osuudet tytäryhteisöissä",
+     "ids": {
+      "x0": "4991812",
+      "x00": "4337868",
+      "x01": "4337867"
+     }
+    },
+    {
+     "code": "R0380",
+     "label": "1205 Asunto-osakeet tytäryhteisöissä",
+     "ids": {
+      "x0": "4991983",
+      "x00": "4352394",
+      "x01": "4352393"
+     }
+    },
+    {
+     "code": "R0390",
+     "label": "1206 Kuntayhtymäosuudet",
+     "ids": {
+      "x0": "4991813",
+      "x00": "4337952",
+      "x01": "4337951"
+     }
+    },
+    {
+     "code": "R0420",
+     "label": "1212 Muut erittelemättömät osakkeet ja osuudet",
+     "ids": {
+      "x0": "4991825",
+      "x00": "4338960",
+      "x01": "4338959"
+     }
+    },
+    {
+     "code": "R0430",
+     "label": "1213 Muut asunto-osakkeet",
+     "ids": {
+      "x0": "4991984",
+      "x00": "4352478",
+      "x01": "4352477"
+     }
+    },
+    {
+     "code": "R0440",
+     "label": "1214 Osakkeiden ja osuuksien arvonkorotukset",
+     "ids": {
+      "x0": "4991816",
+      "x00": "4338204",
+      "x01": "4338203"
+     }
+    },
+    {
+     "code": "R0450",
+     "label": "1222-1222 Joukkovelkakirjalainasaamiset",
+     "ids": {
+      "x0": "4991817",
+      "x00": "4338288",
+      "x01": "1511"
+     }
+    },
+    {
+     "code": "R0460",
+     "label": "1222 Joukkovelkakirjalainasaamiset, tili",
+     "ids": {
+      "x0": "4991917",
+      "x00": "4346766",
+      "x01": "4346765"
+     }
+    },
+    {
+     "code": "R0470",
+     "label": "Josta: Lisäykset 1220 Joukkovelkakirjalainasaamiset, tili",
+     "ids": {
+      "x0": "4991918",
+      "x00": "4346850",
+      "x01": "4346849"
+     }
+    },
+    {
+     "code": "R0480",
+     "label": "Josta: Vähennykset 1220 Joukkovelkakirjalainasaamiset, tili",
+     "ids": {
+      "x0": "4991919",
+      "x00": "4346934",
+      "x01": "4346933"
+     }
+    },
+    {
+     "code": "R0490",
+     "label": "1230-1239 Muut lainasaamiset",
+     "ids": {
+      "x0": "4991818",
+      "x00": "4338372",
+      "x01": "1523"
+     }
+    },
+    {
+     "code": "R0500",
+     "label": "1237 Pääomalainasaamiset",
+     "ids": {
+      "x0": "4991819",
+      "x00": "4338456",
+      "x01": "4338455"
+     }
+    },
+    {
+     "code": "R0510",
+     "label": "Josta: Lisäykset 1237 Pääomalainasaamiset",
+     "ids": {
+      "x0": "4991820",
+      "x00": "4338540",
+      "x01": "4338539"
+     }
+    },
+    {
+     "code": "R0520",
+     "label": "Josta: Vähennykset 1237 Pääomalainasaamiset",
+     "ids": {
+      "x0": "4991821",
+      "x00": "4338624",
+      "x01": "4338623"
+     }
+    },
+    {
+     "code": "R0530",
+     "label": "1239 Muut erittelemättömät lainasaamiset",
+     "ids": {
+      "x0": "4991822",
+      "x00": "4338708",
+      "x01": "4338707"
+     }
+    },
+    {
+     "code": "R0540",
+     "label": "Josta: Lisäykset 1239 Muut erittelemättömät lainasaamiset",
+     "ids": {
+      "x0": "4991823",
+      "x00": "4338792",
+      "x01": "4338791"
+     }
+    },
+    {
+     "code": "R0550",
+     "label": "Josta: Vähennykset 1239 Muut erittelemättömät lainasaamiset",
+     "ids": {
+      "x0": "4991824",
+      "x00": "4338876",
+      "x01": "4338875"
+     }
+    },
+    {
+     "code": "R0560",
+     "label": "1240-1249 Muut saamiset (sijoitukset)",
+     "ids": {
+      "x0": "4991786",
+      "x00": "4335684",
+      "x01": "842"
+     }
+    },
+    {
+     "code": "R0570",
+     "label": "1247 Muut saamiset, erittelemättömät",
+     "ids": {
+      "x0": "4991783",
+      "x00": "4335432",
+      "x01": "4335431"
+     }
+    },
+    {
+     "code": "R0580",
+     "label": "Josta: Lisäykset 1247 Muut saamiset, erittelemättömät",
+     "ids": {
+      "x0": "4991784",
+      "x00": "4335516",
+      "x01": "4335515"
+     }
+    },
+    {
+     "code": "R0590",
+     "label": "Josta: Vähennykset 1247 Muut saamiset, erittelemättömät",
+     "ids": {
+      "x0": "4991785",
+      "x00": "4335600",
+      "x01": "4335599"
+     }
+    },
+    {
+     "code": "R0600",
+     "label": "1248 Liittymismaksut palautettavat",
+     "ids": {
+      "x0": "4991826",
+      "x00": "4339044",
+      "x01": "4339043"
+     }
+    },
+    {
+     "code": "R0610",
+     "label": "Josta: Lisäykset 1248 Liittymismaksut palautettavat",
+     "ids": {
+      "x0": "4991827",
+      "x00": "4339128",
+      "x01": "4339127"
+     }
+    },
+    {
+     "code": "R0620",
+     "label": "Josta: Vähennykset 1248 Liittymismaksut palautettavat",
+     "ids": {
+      "x0": "4991828",
+      "x00": "4339212",
+      "x01": "4339211"
+     }
+    },
+    {
+     "code": "R0630",
+     "label": "1400-1499 Toimeksiantojen varat",
+     "ids": {
+      "x0": "4992093",
+      "x00": "4354578",
+      "x01": "1365"
+     }
+    },
+    {
+     "code": "R0640",
+     "label": "1400-1429 Valtion toimeksiannot, toimeksiantojen varat",
+     "ids": {
+      "x0": "4991829",
+      "x00": "4339296",
+      "x01": "1638"
+     }
+    },
+    {
+     "code": "R0650",
+     "label": "1410 Toimeksiantojen varat, välitetyt valtion lainat",
+     "ids": {
+      "x0": "4991830",
+      "x00": "4339380",
+      "x01": "4339379"
+     }
+    },
+    {
+     "code": "R0660",
+     "label": "1420 Toimeksiantojen varat, muut valtion toimeksiannot",
+     "ids": {
+      "x0": "4991831",
+      "x00": "4339464",
+      "x01": "4339463"
+     }
+    },
+    {
+     "code": "R0670",
+     "label": "1440-1440 Lahjoitusrahastojen varat",
+     "ids": {
+      "x0": "4991832",
+      "x00": "4339548",
+      "x01": "1688"
+     }
+    },
+    {
+     "code": "R0680",
+     "label": "1440 Lahjoitusrahastojen varat, tilit",
+     "ids": {
+      "x0": "4991920",
+      "x00": "4347018",
+      "x01": "4347017"
+     }
+    },
+    {
+     "code": "R0690",
+     "label": "1460-1460 Toimeksiantojen varat, muut toimeksiantojen varat",
+     "ids": {
+      "x0": "4991833",
+      "x00": "4339632",
+      "x01": "1699"
+     }
+    },
+    {
+     "code": "R0700",
+     "label": "1460 Toimeksiantojen varat, muut toimeksiantojen varat, tili",
+     "ids": {
+      "x0": "4991921",
+      "x00": "4347102",
+      "x01": "4347101"
+     }
+    },
+    {
+     "code": "R0710",
+     "label": "1500 - 1999 Vaihtuvat vastaavat",
+     "ids": {
+      "x0": "4991982",
+      "x00": "4352310",
+      "x01": "1501"
+     }
+    },
+    {
+     "code": "R0720",
+     "label": "1500-1599 Vaihto-omaisuus",
+     "ids": {
+      "x0": "4992088",
+      "x00": "4354158",
+      "x01": "1342"
+     }
+    },
+    {
+     "code": "R0730",
+     "label": "1500 Aineet ja tarvikkeet",
+     "ids": {
+      "x0": "4991834",
+      "x00": "4339716",
+      "x01": "20675"
+     }
+    },
+    {
+     "code": "R0740",
+     "label": "1530-1530 Keskeneräiset tuotteet",
+     "ids": {
+      "x0": "4991835",
+      "x00": "4339800",
+      "x01": "20048"
+     }
+    },
+    {
+     "code": "R0750",
+     "label": "1530 Keskeneräiset tuotteet, tili",
+     "ids": {
+      "x0": "4991922",
+      "x00": "4347186",
+      "x01": "4347185"
+     }
+    },
+    {
+     "code": "R0760",
+     "label": "1550-1550 Valmiit tuotteet",
+     "ids": {
+      "x0": "4991836",
+      "x00": "4339884",
+      "x01": "20065"
+     }
+    },
+    {
+     "code": "R0770",
+     "label": "1550 Valmiit tuotteet, tili",
+     "ids": {
+      "x0": "4991923",
+      "x00": "4347270",
+      "x01": "4347269"
+     }
+    },
+    {
+     "code": "R0780",
+     "label": "1570-1570 Muu vaihto-omaisuus",
+     "ids": {
+      "x0": "4991837",
+      "x00": "4339968",
+      "x01": "20335"
+     }
+    },
+    {
+     "code": "R0790",
+     "label": "1570 Muu vaihto-omaisuus, tili",
+     "ids": {
+      "x0": "4991924",
+      "x00": "4347354",
+      "x01": "4347353"
+     }
+    },
+    {
+     "code": "R0800",
+     "label": "1590-1590 Ennakkomaksut",
+     "ids": {
+      "x0": "4991793",
+      "x00": "4336272",
+      "x01": "11482"
+     }
+    },
+    {
+     "code": "R0810",
+     "label": "1590 Ennakkomaksut, tili",
+     "ids": {
+      "x0": "4991925",
+      "x00": "4347438",
+      "x01": "4347437"
+     }
+    },
+    {
+     "code": "R0820",
+     "label": "1600-1829 Saamiset",
+     "ids": {
+      "x0": "4991985",
+      "x00": "4352562",
+      "x01": "1545"
+     }
+    },
+    {
+     "code": "R0830",
+     "label": "1600-1719 Pitkäaikaiset saamiset",
+     "ids": {
+      "x0": "4991838",
+      "x00": "4340052",
+      "x01": "1386"
+     }
+    },
+    {
+     "code": "R0840",
+     "label": "1600-1600 Pitkäaikaiset myyntisaamiset",
+     "ids": {
+      "x0": "4991839",
+      "x00": "4340136",
+      "x01": "1180"
+     }
+    },
+    {
+     "code": "R0850",
+     "label": "1600 Pitkäaikaiset myyntisaamiset, tili",
+     "ids": {
+      "x0": "4991926",
+      "x00": "4347522",
+      "x01": "4347521"
+     }
+    },
+    {
+     "code": "R0860",
+     "label": "1630-1630 Pitkäaikaiset lainasaamiset",
+     "ids": {
+      "x0": "4991840",
+      "x00": "4340220",
+      "x01": "1192"
+     }
+    },
+    {
+     "code": "R0870",
+     "label": "1630 Pitkäaikaiset lainasaamiset, tili",
+     "ids": {
+      "x0": "4991927",
+      "x00": "4347606",
+      "x01": "4347605"
+     }
+    },
+    {
+     "code": "R0880",
+     "label": "1688-1688 Pitkäaikaiset muut saamiset",
+     "ids": {
+      "x0": "4991841",
+      "x00": "4340304",
+      "x01": "1206"
+     }
+    },
+    {
+     "code": "R0890",
+     "label": "1688 Pitkäaikaiset muut saamiset, tili",
+     "ids": {
+      "x0": "4991928",
+      "x00": "4347690",
+      "x01": "4347689"
+     }
+    },
+    {
+     "code": "R0900",
+     "label": "1690-1719 Pitkäaikaiset siirtosaamiset",
+     "ids": {
+      "x0": "4991842",
+      "x00": "4340388",
+      "x01": "1214"
+     }
+    },
+    {
+     "code": "R0910",
+     "label": "1711 Pitkäaikaiset siirtyvät korot",
+     "ids": {
+      "x0": "4991843",
+      "x00": "4340472",
+      "x01": "4340471"
+     }
+    },
+    {
+     "code": "R0920",
+     "label": "1712 Pitkäaikaiset muut siirtosaamiset",
+     "ids": {
+      "x0": "4991844",
+      "x00": "4340556",
+      "x01": "4340555"
+     }
+    },
+    {
+     "code": "R0930",
+     "label": "1720-1829 Lyhytaikaiset saamiset",
+     "ids": {
+      "x0": "4991845",
+      "x00": "4340640",
+      "x01": "1267"
+     }
+    },
+    {
+     "code": "R0940",
+     "label": "1720-1720 Lyhytaikaiset myyntisaamiset",
+     "ids": {
+      "x0": "4991846",
+      "x00": "4340724",
+      "x01": "1285"
+     }
+    },
+    {
+     "code": "R0950",
+     "label": "1720 Lyhytaikaiset myyntisaamiset, tili",
+     "ids": {
+      "x0": "4991978",
+      "x00": "4351974",
+      "x01": "4351973"
+     }
+    },
+    {
+     "code": "R0960",
+     "label": "1750-1750 Lyhytaikaiset lainasaamiset",
+     "ids": {
+      "x0": "4991847",
+      "x00": "4340808",
+      "x01": "869"
+     }
+    },
+    {
+     "code": "R0970",
+     "label": "1750 Lyhytaikaiset lainasaamiset, tili",
+     "ids": {
+      "x0": "4991979",
+      "x00": "4352058",
+      "x01": "4352057"
+     }
+    },
+    {
+     "code": "R0980",
+     "label": "1800 - 1814 Lyhytaikaiset muut saamiset",
+     "ids": {
+      "x0": "4991848",
+      "x00": "4340892",
+      "x01": "884"
+     }
+    },
+    {
+     "code": "R0990",
+     "label": "1800 Lyhytaikaiset erittelemättömät muut saamiset",
+     "ids": {
+      "x0": "4991849",
+      "x00": "4340976",
+      "x01": "4340975"
+     }
+    },
+    {
+     "code": "R1000",
+     "label": "1810 Lyhytaikaiset alv-saamiset",
+     "ids": {
+      "x0": "4991850",
+      "x00": "4341060",
+      "x01": "4341059"
+     }
+    },
+    {
+     "code": "R1010",
+     "label": "1815-1829 Lyhytaikaiset siirtosaamiset",
+     "ids": {
+      "x0": "4991851",
+      "x00": "4341144",
+      "x01": "732"
+     }
+    },
+    {
+     "code": "R1020",
+     "label": "1816 Lyhytaikaiset siirtyvät korot",
+     "ids": {
+      "x0": "4991852",
+      "x00": "4341228",
+      "x01": "4341227"
+     }
+    },
+    {
+     "code": "R1030",
+     "label": "1829 Lyhytaikaiset muut siirtosaamiset",
+     "ids": {
+      "x0": "4991853",
+      "x00": "4341312",
+      "x01": "4341311"
+     }
+    },
+    {
+     "code": "R1040",
+     "label": "1830-1899 Rahoitusarvopaperit",
+     "ids": {
+      "x0": "4992085",
+      "x00": "4353906",
+      "x01": "1154"
+     }
+    },
+    {
+     "code": "R1050",
+     "label": "1830-1830 Osakkeet ja osuudet, rahoitusarvopaperit",
+     "ids": {
+      "x0": "4991854",
+      "x00": "4341396",
+      "x01": "765"
+     }
+    },
+    {
+     "code": "R1060",
+     "label": "1830 Osakkeet ja osuudet, rahoitusarvopaperit, tili",
+     "ids": {
+      "x0": "4991980",
+      "x00": "4352142",
+      "x01": "4352141"
+     }
+    },
+    {
+     "code": "R1070",
+     "label": "1850-1869 Sijoitukset rahamarkkinainstrumentteihin",
+     "ids": {
+      "x0": "4991855",
+      "x00": "4341480",
+      "x01": "781"
+     }
+    },
+    {
+     "code": "R1080",
+     "label": "1850 Sijoitukset valtion velkasitoumuksiin",
+     "ids": {
+      "x0": "4991856",
+      "x00": "4341564",
+      "x01": "4341563"
+     }
+    },
+    {
+     "code": "R1090",
+     "label": "1855 Sijoitukset kuntatodistuksiin",
+     "ids": {
+      "x0": "4991857",
+      "x00": "4341648",
+      "x01": "4341647"
+     }
+    },
+    {
+     "code": "R1110",
+     "label": "1860 Sijoitukset muihin rahamarkkinainstrumentteihin",
+     "ids": {
+      "x0": "4991858",
+      "x00": "4341732",
+      "x01": "4341731"
+     }
+    },
+    {
+     "code": "R1120",
+     "label": "1870-1870 Rahoitusarvopaperit, joukkovelkakirjalainasaamiset",
+     "ids": {
+      "x0": "4991859",
+      "x00": "4341816",
+      "x01": "429"
+     }
+    },
+    {
+     "code": "R1130",
+     "label": "1870 Rahoitusarvopaperit, joukkovelkakirjalainasaamiset, tili",
+     "ids": {
+      "x0": "4991981",
+      "x00": "4352226",
+      "x01": "4352225"
+     }
+    },
+    {
+     "code": "R1140",
+     "label": "1890-1899 Muut arvopaperit",
+     "ids": {
+      "x0": "4991860",
+      "x00": "4341900",
+      "x01": "446"
+     }
+    },
+    {
+     "code": "R1150",
+     "label": "1891 Rahasto-osuudet yhteensä",
+     "ids": {
+      "x0": "4991861",
+      "x00": "4341984",
+      "x01": "4341983"
+     }
+    },
+    {
+     "code": "R1160",
+     "label": "1892 Muut erittelemättömät arvopaperit",
+     "ids": {
+      "x0": "4991862",
+      "x00": "4342068",
+      "x01": "4342067"
+     }
+    },
+    {
+     "code": "R1170",
+     "label": "1900-1900 Rahat ja pankkisaamiset",
+     "ids": {
+      "x0": "4991910",
+      "x00": "4346094",
+      "x01": "1023"
+     }
+    },
+    {
+     "code": "R1180",
+     "label": "1900 Rahat ja pankkisaamiset, tili",
+     "ids": {
+      "x0": "4991929",
+      "x00": "4347774",
+      "x01": "4347773"
+     }
+    },
+    {
+     "code": "R1190",
+     "label": "Vastattavaa",
+     "ids": {
+      "x0": "4991998",
+      "x00": "4353654",
+      "x01": "1764"
+     }
+    },
+    {
+     "code": "R1200",
+     "label": "2000-2099 Oma pääoma",
+     "ids": {
+      "x0": "4991909",
+      "x00": "4346010",
+      "x01": "89"
+     }
+    },
+    {
+     "code": "R1210",
+     "label": "2000-2000 Peruspääoma",
+     "ids": {
+      "x0": "4991863",
+      "x00": "4342152",
+      "x01": "19362"
+     }
+    },
+    {
+     "code": "R1220",
+     "label": "2000 Peruspääoma, tili",
+     "ids": {
+      "x0": "4991930",
+      "x00": "4347858",
+      "x01": "4347857"
+     }
+    },
+    {
+     "code": "R1230",
+     "label": "Josta: Lisäykset 2000 Peruspääoma, tili",
+     "ids": {
+      "x0": "4991931",
+      "x00": "4347942",
+      "x01": "4347941"
+     }
+    },
+    {
+     "code": "R1240",
+     "label": "Josta: Vähennykset 2000 Peruspääoma, tili",
+     "ids": {
+      "x0": "4991932",
+      "x00": "4348026",
+      "x01": "4348025"
+     }
+    },
+    {
+     "code": "R1250",
+     "label": "2010-2010 Arvonkorotusrahasto",
+     "ids": {
+      "x0": "4992092",
+      "x00": "4354494",
+      "x01": "4738"
+     }
+    },
+    {
+     "code": "R1260",
+     "label": "2010 Arvonkorotusrahasto, tili",
+     "ids": {
+      "x0": "4991936",
+      "x00": "4348362",
+      "x01": "4348361"
+     }
+    },
+    {
+     "code": "R1270",
+     "label": "Josta: Lisäykset 2010 Arvonkorotusrahasto, tili",
+     "ids": {
+      "x0": "4991937",
+      "x00": "4348446",
+      "x01": "4348445"
+     }
+    },
+    {
+     "code": "R1280",
+     "label": "Josta: Vähennykset 2010 Arvonkorotusrahasto, tili",
+     "ids": {
+      "x0": "4991938",
+      "x00": "4348530",
+      "x01": "4348529"
+     }
+    },
+    {
+     "code": "R1290",
+     "label": "2015-2015 Muut omat rahastot",
+     "ids": {
+      "x0": "4991864",
+      "x00": "4342236",
+      "x01": "19375"
+     }
+    },
+    {
+     "code": "R1300",
+     "label": "2015 Muut omat rahastot, tili",
+     "ids": {
+      "x0": "4991933",
+      "x00": "4348110",
+      "x01": "4348109"
+     }
+    },
+    {
+     "code": "R1310",
+     "label": "Josta: Lisäykset 2015 Muut omat rahastot, tili",
+     "ids": {
+      "x0": "4991934",
+      "x00": "4348194",
+      "x01": "4348193"
+     }
+    },
+    {
+     "code": "R1320",
+     "label": "Josta: Vähennykset 2015 Muut omat rahastot, tili",
+     "ids": {
+      "x0": "4991935",
+      "x00": "4348278",
+      "x01": "4348277"
+     }
+    },
+    {
+     "code": "R1330",
+     "label": "2040-2040 Edellisten tilikausien ylijäämä (alijäämä)",
+     "ids": {
+      "x0": "4991865",
+      "x00": "4342320",
+      "x01": "19393"
+     }
+    },
+    {
+     "code": "R1340",
+     "label": "2040 Edellisten tilikausien ylijäämä (alijäämä), tili",
+     "ids": {
+      "x0": "4991939",
+      "x00": "4348614",
+      "x01": "4348613"
+     }
+    },
+    {
+     "code": "R1350",
+     "label": "Josta: Lisäykset 2040 Edellisten tilikausien ylijäämä (alijäämä), tili",
+     "ids": {
+      "x0": "4991940",
+      "x00": "4348698",
+      "x01": "4348697"
+     }
+    },
+    {
+     "code": "R1360",
+     "label": "Josta: Vähennykset 2040 Edellisten tilikausien ylijäämä (alijäämä), tili",
+     "ids": {
+      "x0": "4991941",
+      "x00": "4348782",
+      "x01": "4348781"
+     }
+    },
+    {
+     "code": "R1370",
+     "label": "Josta: Ylijäämän palautus 2040 Edellisten tilikausien ylijäämä (alijäämä), tili",
+     "ids": {
+      "x0": "4991942",
+      "x00": "4348866",
+      "x01": "4348865"
+     }
+    },
+    {
+     "code": "R1380",
+     "label": "2050-2050 Tilikauden ylijäämä (alijäämä), oma pääoma",
+     "ids": {
+      "x0": "4991866",
+      "x00": "4342404",
+      "x01": "22290"
+     }
+    },
+    {
+     "code": "R1390",
+     "label": "2050 Tilikauden ylijäämä (alijäämä), oma pääoma, tili",
+     "ids": {
+      "x0": "4991943",
+      "x00": "4348950",
+      "x01": "4348949"
+     }
+    },
+    {
+     "code": "R1400",
+     "label": "2100-2119 Poistoero ja vapaaehtoiset varaukset",
+     "ids": {
+      "x0": "4991867",
+      "x00": "4342488",
+      "x01": "1758"
+     }
+    },
+    {
+     "code": "R1410",
+     "label": "2100-2100 Poistoero",
+     "ids": {
+      "x0": "4992090",
+      "x00": "4354326",
+      "x01": "4294"
+     }
+    },
+    {
+     "code": "R1420",
+     "label": "2100 Poistoero, tili",
+     "ids": {
+      "x0": "4991944",
+      "x00": "4349034",
+      "x01": "4349033"
+     }
+    },
+    {
+     "code": "R1430",
+     "label": "2110-2110 Vapaaehtoiset varaukset",
+     "ids": {
+      "x0": "4992091",
+      "x00": "4354410",
+      "x01": "4323"
+     }
+    },
+    {
+     "code": "R1440",
+     "label": "2110 Vapaaehtoiset varaukset, tili",
+     "ids": {
+      "x0": "4992080",
+      "x00": "4992081",
+      "x01": "4999209"
+     }
+    },
+    {
+     "code": "R1450",
+     "label": "2120-2130 Pakolliset varaukset",
+     "ids": {
+      "x0": "4992087",
+      "x00": "4354074",
+      "x01": "1615"
+     }
+    },
+    {
+     "code": "R1460",
+     "label": "2120-2120 Eläkevaraukset",
+     "ids": {
+      "x0": "4991868",
+      "x00": "4342572",
+      "x01": "22310"
+     }
+    },
+    {
+     "code": "R1470",
+     "label": "2120 Eläkevaraukset, tili",
+     "ids": {
+      "x0": "4991945",
+      "x00": "4349202",
+      "x01": "4349201"
+     }
+    },
+    {
+     "code": "R1480",
+     "label": "2130-2130 Muut pakolliset varaukset",
+     "ids": {
+      "x0": "4991869",
+      "x00": "4342656",
+      "x01": "22324"
+     }
+    },
+    {
+     "code": "R1490",
+     "label": "2130 Muut pakolliset varaukset, tili",
+     "ids": {
+      "x0": "4991946",
+      "x00": "4349286",
+      "x01": "4349285"
+     }
+    },
+    {
+     "code": "R1500",
+     "label": "2300-2389 Toimeksiantojen pääomat",
+     "ids": {
+      "x0": "4992094",
+      "x00": "4354662",
+      "x01": "957"
+     }
+    },
+    {
+     "code": "R1510",
+     "label": "2300-2324 Valtion toimeksiannot, toimeksiantojen pääomat",
+     "ids": {
+      "x0": "4991870",
+      "x00": "4342740",
+      "x01": "1787"
+     }
+    },
+    {
+     "code": "R1520",
+     "label": "2300 Toimeksiantojen pääomat, välitettävät valtion lainat",
+     "ids": {
+      "x0": "4991871",
+      "x00": "4342824",
+      "x01": "4342823"
+     }
+    },
+    {
+     "code": "R1530",
+     "label": "2310 Toimeksiantojen pääomat, välitetyt valtion lainat",
+     "ids": {
+      "x0": "4991872",
+      "x00": "4342908",
+      "x01": "4342907"
+     }
+    },
+    {
+     "code": "R1540",
+     "label": "2320 Muut valtion toimeksiantojen pääomat",
+     "ids": {
+      "x0": "4991873",
+      "x00": "4342992",
+      "x01": "4342991"
+     }
+    },
+    {
+     "code": "R1550",
+     "label": "2325-2325 Lahjoitusrahastojen pääomat",
+     "ids": {
+      "x0": "4991874",
+      "x00": "4343076",
+      "x01": "1611"
+     }
+    },
+    {
+     "code": "R1560",
+     "label": "2325 Lahjoitusrahastojen pääomat, tili",
+     "ids": {
+      "x0": "4991947",
+      "x00": "4349370",
+      "x01": "4349369"
+     }
+    },
+    {
+     "code": "R1570",
+     "label": "2330-2330 Muut toimeksiantojen pääomat",
+     "ids": {
+      "x0": "4991782",
+      "x00": "4335348",
+      "x01": "500"
+     }
+    },
+    {
+     "code": "R1580",
+     "label": "2330 Muut toimeksiantojen pääomat, tili",
+     "ids": {
+      "x0": "4991948",
+      "x00": "4349454",
+      "x01": "4349453"
+     }
+    },
+    {
+     "code": "R1590",
+     "label": "2400-2999 Vieras pääoma",
+     "ids": {
+      "x0": "4991913",
+      "x00": "4346430",
+      "x01": "125"
+     }
+    },
+    {
+     "code": "R1600",
+     "label": "2400-2499 Pitkäaikainen vieras pääoma",
+     "ids": {
+      "x0": "4991903",
+      "x00": "4345506",
+      "x01": "335"
+     }
+    },
+    {
+     "code": "R1610",
+     "label": "2400-2439 Pitkäaikainen (korollinen vieras pääoma)",
+     "ids": {
+      "x0": "4991875",
+      "x00": "4343160",
+      "x01": "4343159"
+     }
+    },
+    {
+     "code": "R1620",
+     "label": "2400-2400 Pitkäaikaiset joukkovelkakirjalainat",
+     "ids": {
+      "x0": "4991876",
+      "x00": "4343244",
+      "x01": "1135"
+     }
+    },
+    {
+     "code": "R1630",
+     "label": "2400 Pitkäaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991949",
+      "x00": "4349538",
+      "x01": "4349537"
+     }
+    },
+    {
+     "code": "R1640",
+     "label": "Josta: Lisäykset 2400 Pitkäaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991950",
+      "x00": "4349622",
+      "x01": "4349621"
+     }
+    },
+    {
+     "code": "R1650",
+     "label": "Josta: Vähennykset 2400 Pitkäaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991951",
+      "x00": "4349706",
+      "x01": "4349705"
+     }
+    },
+    {
+     "code": "R1660",
+     "label": "2410-2410 Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta",
+     "ids": {
+      "x0": "4991877",
+      "x00": "4343328",
+      "x01": "1165"
+     }
+    },
+    {
+     "code": "R1670",
+     "label": "2410 Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991952",
+      "x00": "4349790",
+      "x01": "4349789"
+     }
+    },
+    {
+     "code": "R1680",
+     "label": "Josta: Lisäykset 2410 Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991953",
+      "x00": "4349874",
+      "x01": "4349873"
+     }
+    },
+    {
+     "code": "R1690",
+     "label": "Josta: Vähennykset 2410 Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991954",
+      "x00": "4349958",
+      "x01": "4349957"
+     }
+    },
+    {
+     "code": "R1700",
+     "label": "2420-2420 Pitkäaikaiset lainat julkisyhteisöiltä",
+     "ids": {
+      "x0": "4991878",
+      "x00": "4343409",
+      "x01": "1177"
+     }
+    },
+    {
+     "code": "R1710",
+     "label": "2420 Pitkäaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991955",
+      "x00": "4350042",
+      "x01": "4350041"
+     }
+    },
+    {
+     "code": "R1720",
+     "label": "Josta: Lisäykset 2420 Pitkäaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991956",
+      "x00": "4350126",
+      "x01": "4350125"
+     }
+    },
+    {
+     "code": "R1730",
+     "label": "Josta: Vähennykset 2420 Pitkäaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991957",
+      "x00": "4350210",
+      "x01": "4350209"
+     }
+    },
+    {
+     "code": "R1740",
+     "label": "2430-2430 Pitkäaikaiset lainat muilta luotonantajilta",
+     "ids": {
+      "x0": "4991879",
+      "x00": "4343493",
+      "x01": "945"
+     }
+    },
+    {
+     "code": "R1750",
+     "label": "2430 Pitkäaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991958",
+      "x00": "4350294",
+      "x01": "4350293"
+     }
+    },
+    {
+     "code": "R1760",
+     "label": "Josta: Lisäykset 2430 Pitkäaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991959",
+      "x00": "4350378",
+      "x01": "4350377"
+     }
+    },
+    {
+     "code": "R1770",
+     "label": "Josta: Vähennykset 2430 Pitkäaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991960",
+      "x00": "4350462",
+      "x01": "4350461"
+     }
+    },
+    {
+     "code": "R1780",
+     "label": "2440-2499 Pitkäaikainen (koroton vieras pääoma)",
+     "ids": {
+      "x0": "4991880",
+      "x00": "4343577",
+      "x01": "4343576"
+     }
+    },
+    {
+     "code": "R1790",
+     "label": "2449-2449 Pitkäaikaiset saadut ennakot",
+     "ids": {
+      "x0": "4991881",
+      "x00": "4343661",
+      "x01": "980"
+     }
+    },
+    {
+     "code": "R1800",
+     "label": "2449 Pitkäaikaiset saadut ennakot, tili",
+     "ids": {
+      "x0": "4991961",
+      "x00": "4350546",
+      "x01": "4350545"
+     }
+    },
+    {
+     "code": "R1810",
+     "label": "2457-2457 Pitkäaikaiset ostovelat",
+     "ids": {
+      "x0": "4991882",
+      "x00": "4343745",
+      "x01": "998"
+     }
+    },
+    {
+     "code": "R1820",
+     "label": "2457 Pitkäaikaiset ostovelat, tili",
+     "ids": {
+      "x0": "4991962",
+      "x00": "4350630",
+      "x01": "4350629"
+     }
+    },
+    {
+     "code": "R1830",
+     "label": "2460-2469 Pitkäaikaiset muut velat/liittymismaksut ja muut velat",
+     "ids": {
+      "x0": "4991883",
+      "x00": "4343829",
+      "x01": "1016"
+     }
+    },
+    {
+     "code": "R1840",
+     "label": "2460 Pitkäaikaiset johdannaissopimusten perusteella vastaanotetut käteisvakuudet",
+     "ids": {
+      "x0": "4991884",
+      "x00": "4343913",
+      "x01": "4343912"
+     }
+    },
+    {
+     "code": "R1850",
+     "label": "2469 Pitkäaikaiset liittymismaksut ja muut velat",
+     "ids": {
+      "x0": "4991885",
+      "x00": "4343997",
+      "x01": "4343996"
+     }
+    },
+    {
+     "code": "R1860",
+     "label": "2470-2470 Pitkäaikaiset siirtovelat",
+     "ids": {
+      "x0": "4991886",
+      "x00": "4344081",
+      "x01": "639"
+     }
+    },
+    {
+     "code": "R1870",
+     "label": "2470 Pitkäaikaiset siirtovelat, tili",
+     "ids": {
+      "x0": "4991963",
+      "x00": "4350714",
+      "x01": "4350713"
+     }
+    },
+    {
+     "code": "R1880",
+     "label": "2500-2999 Lyhytaikainen vieras pääoma",
+     "ids": {
+      "x0": "4991887",
+      "x00": "4344165",
+      "x01": "650"
+     }
+    },
+    {
+     "code": "R1890",
+     "label": "2500-2539 Lyhytaikainen (korollinen vieras pääoma)",
+     "ids": {
+      "x0": "4991888",
+      "x00": "4344249",
+      "x01": "4344248"
+     }
+    },
+    {
+     "code": "R1900",
+     "label": "2500-2501 Lyhytaikaiset joukkovelkakirjalainat",
+     "ids": {
+      "x0": "4991889",
+      "x00": "4344333",
+      "x01": "696"
+     }
+    },
+    {
+     "code": "R1910",
+     "label": "2500 Lyhytaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991964",
+      "x00": "4350798",
+      "x01": "4350797"
+     }
+    },
+    {
+     "code": "R1920",
+     "label": "Josta: Lisäykset 2500 Lyhytaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991965",
+      "x00": "4350882",
+      "x01": "4350881"
+     }
+    },
+    {
+     "code": "R1930",
+     "label": "Josta: Vähennykset 2500 Lyhytaikaiset joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991966",
+      "x00": "4350966",
+      "x01": "4350965"
+     }
+    },
+    {
+     "code": "R1940",
+     "label": "2501 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991986",
+      "x00": "4352646",
+      "x01": "4352645"
+     }
+    },
+    {
+     "code": "R1950",
+     "label": "Josta: Lisäykset 2501 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991987",
+      "x00": "4352730",
+      "x01": "4352729"
+     }
+    },
+    {
+     "code": "R1960",
+     "label": "Josta: Vähennykset 2501 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, joukkovelkakirjalainat, tili",
+     "ids": {
+      "x0": "4991988",
+      "x00": "4352814",
+      "x01": "4352813"
+     }
+    },
+    {
+     "code": "R1970",
+     "label": "2510-2511 Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta",
+     "ids": {
+      "x0": "4991890",
+      "x00": "4344417",
+      "x01": "713"
+     }
+    },
+    {
+     "code": "R1980",
+     "label": "2510 Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991967",
+      "x00": "4351050",
+      "x01": "4351049"
+     }
+    },
+    {
+     "code": "R1990",
+     "label": "Josta: Lisäykset 2510 Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991968",
+      "x00": "4351134",
+      "x01": "4351133"
+     }
+    },
+    {
+     "code": "R2000",
+     "label": "Josta: Vähennykset 2510 Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991969",
+      "x00": "4351218",
+      "x01": "4351217"
+     }
+    },
+    {
+     "code": "R2010",
+     "label": "2511 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991989",
+      "x00": "4352898",
+      "x01": "4352897"
+     }
+    },
+    {
+     "code": "R2020",
+     "label": "Josta: Lisäykset 2511 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991990",
+      "x00": "4352982",
+      "x01": "4352981"
+     }
+    },
+    {
+     "code": "R2030",
+     "label": "Josta: Vähennykset 2511 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat rahoitus- ja vakuutuslaitoksilta, tili",
+     "ids": {
+      "x0": "4991991",
+      "x00": "4353066",
+      "x01": "4353065"
+     }
+    },
+    {
+     "code": "R2040",
+     "label": "2520-2521 Lyhytaikaiset lainat julkisyhteisöiltä",
+     "ids": {
+      "x0": "4991891",
+      "x00": "4344498",
+      "x01": "495"
+     }
+    },
+    {
+     "code": "R2050",
+     "label": "2520 Lyhytaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991970",
+      "x00": "4351302",
+      "x01": "4351301"
+     }
+    },
+    {
+     "code": "R2060",
+     "label": "Josta: Lisäykset 2520 Lyhytaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991971",
+      "x00": "4351386",
+      "x01": "4351385"
+     }
+    },
+    {
+     "code": "R2070",
+     "label": "Josta: Vähennykset 2520 Lyhytaikaiset lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991972",
+      "x00": "4351470",
+      "x01": "4351469"
+     }
+    },
+    {
+     "code": "R2080",
+     "label": "2521 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991992",
+      "x00": "4353150",
+      "x01": "4353149"
+     }
+    },
+    {
+     "code": "R2090",
+     "label": "Josta: Lisäykset 2521 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991993",
+      "x00": "4353234",
+      "x01": "4353233"
+     }
+    },
+    {
+     "code": "R2100",
+     "label": "Josta: Vähennykset 2521 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat julkisyhteisöiltä, tili",
+     "ids": {
+      "x0": "4991994",
+      "x00": "4353318",
+      "x01": "4353317"
+     }
+    },
+    {
+     "code": "R2110",
+     "label": "2530-2531 Lyhytaikaiset lainat muilta luotonantajilta",
+     "ids": {
+      "x0": "4991892",
+      "x00": "4344582",
+      "x01": "516"
+     }
+    },
+    {
+     "code": "R2120",
+     "label": "2530 Lyhytaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991973",
+      "x00": "4351554",
+      "x01": "4351553"
+     }
+    },
+    {
+     "code": "R2130",
+     "label": "Josta: Lisäykset 2530 Lyhytaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991974",
+      "x00": "4351638",
+      "x01": "4351637"
+     }
+    },
+    {
+     "code": "R2140",
+     "label": "Josta: Vähennykset 2530 Lyhytaikaiset lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991975",
+      "x00": "4351722",
+      "x01": "4351721"
+     }
+    },
+    {
+     "code": "R2150",
+     "label": "2531 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991995",
+      "x00": "4353402",
+      "x01": "4353401"
+     }
+    },
+    {
+     "code": "R2160",
+     "label": "Josta: Lisäykset 2531 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991996",
+      "x00": "4353486",
+      "x01": "4353485"
+     }
+    },
+    {
+     "code": "R2170",
+     "label": "Josta: Vähennykset 2531 Pitkäaikaisten lainojen seuraavan vuoden lyhennykset, lainat muilta luotonantajilta, tili",
+     "ids": {
+      "x0": "4991997",
+      "x00": "4353570",
+      "x01": "4353569"
+     }
+    },
+    {
+     "code": "R2180",
+     "label": "2540-2999 Lyhytaikainen (koroton vieras pääoma)",
+     "ids": {
+      "x0": "4991893",
+      "x00": "4344666",
+      "x01": "4344665"
+     }
+    },
+    {
+     "code": "R2190",
+     "label": "2540-2540 Lyhytaikaiset saadut ennakot",
+     "ids": {
+      "x0": "4991894",
+      "x00": "4344750",
+      "x01": "538"
+     }
+    },
+    {
+     "code": "R2200",
+     "label": "2540 Lyhytaikaiset saadut ennakot, tili",
+     "ids": {
+      "x0": "4991976",
+      "x00": "4351806",
+      "x01": "4351805"
+     }
+    },
+    {
+     "code": "R2210",
+     "label": "2545-2545 Lyhytaikaiset ostovelat",
+     "ids": {
+      "x0": "4991895",
+      "x00": "4344834",
+      "x01": "553"
+     }
+    },
+    {
+     "code": "R2220",
+     "label": "2545 Lyhytaikaiset ostovelat, tili",
+     "ids": {
+      "x0": "4991977",
+      "x00": "4351890",
+      "x01": "4351889"
+     }
+    },
+    {
+     "code": "R2230",
+     "label": "2560-2569 Lyhytaikaiset muut velat/liittymismaksut ja muut velat",
+     "ids": {
+      "x0": "4991896",
+      "x00": "4344918",
+      "x01": "122"
+     }
+    },
+    {
+     "code": "R2240",
+     "label": "2561 Lyhytaikaiset johdannaissopimusten perusteella vastaanotetut käteisvakuudet",
+     "ids": {
+      "x0": "4991897",
+      "x00": "4345002",
+      "x01": "4345001"
+     }
+    },
+    {
+     "code": "R2250",
+     "label": "2563 Alv-velka",
+     "ids": {
+      "x0": "4991911",
+      "x00": "4346178",
+      "x01": "4346177"
+     }
+    },
+    {
+     "code": "R2260",
+     "label": "2568 Lyhytaikaiset liittymismaksuvelat",
+     "ids": {
+      "x0": "4991898",
+      "x00": "4345086",
+      "x01": "4345085"
+     }
+    },
+    {
+     "code": "R2270",
+     "label": "2569 Lyhytaikaiset muut velat, erittelemättömät",
+     "ids": {
+      "x0": "4991907",
+      "x00": "4345842",
+      "x01": "4345841"
+     }
+    },
+    {
+     "code": "R2280",
+     "label": "2570-2589 Lyhytaikaiset siirtovelat",
+     "ids": {
+      "x0": "4991899",
+      "x00": "4345170",
+      "x01": "210"
+     }
+    },
+    {
+     "code": "R2290",
+     "label": "2579 Lyhytaikaiset siirtyvät korot, siirtovelat",
+     "ids": {
+      "x0": "4991900",
+      "x00": "4345254",
+      "x01": "12"
+     }
+    },
+    {
+     "code": "R2300",
+     "label": "2580 Lomapalkkajaksotus",
+     "ids": {
+      "x0": "4991901",
+      "x00": "4345338",
+      "x01": "4345337"
+     }
+    },
+    {
+     "code": "R2310",
+     "label": "2589 Muut siirtovelat",
+     "ids": {
+      "x0": "4991902",
+      "x00": "4345422",
+      "x01": "4345421"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

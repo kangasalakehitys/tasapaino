@@ -1,0 +1,635 @@
+{
+ "set": "KKYTT",
+ "source": "taulukkomalli-KKYTT_2026-v16-kkytt_gaap_ind_20260529_081935.xlsx",
+ "tables": {
+  "k-t01": {
+   "title": "OPH:n ja THL:n erillistarpeet kunnilta ja kuntayhtymiltä",
+   "columns": {
+    "C0010": "Tilikauden rahallinen kertymä"
+   },
+   "rows": [
+    {
+     "code": "R0015",
+     "label": "Toimintatuotot: Teatteri-, tanssi- ja sirkuspalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7241348"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Toimintakulut: Teatteri-, tanssi- ja sirkuspalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7620990"
+     }
+    },
+    {
+     "code": "R0025",
+     "label": "Toimintatuotot: Musiikkipalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7241349"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Toimintakulut: Musiikkipalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7620991"
+     }
+    },
+    {
+     "code": "R0035",
+     "label": "Toimintatuotot: Museopalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7241350"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Toimintakulut: Museopalvelut, valtionosuusrahoitusta saavat laitokset",
+     "ids": {
+      "C0010": "7620992"
+     }
+    },
+    {
+     "code": "R0045",
+     "label": "Toimintakulut: Oppivelvollisuuden laajentumisen ohjaustehtävä kunnilla, kun opiskelija/toiminta ei ole minkään koulutusmuodon piirissä",
+     "ids": {
+      "C0010": "7241351"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Kulttuurifestivaalille ja -tapahtumille käyttökustannukset",
+     "ids": {
+      "C0010": "7620993"
+     }
+    },
+    {
+     "code": "R0055",
+     "label": "Josta: Kulttuurifestivaaleille ja -tapahtumille myönnetyt avustukset",
+     "ids": {
+      "C0010": "7620994"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Kulttuurifestivaalien ja -tapahtumien käyttötuotot",
+     "ids": {
+      "C0010": "7620995"
+     }
+    },
+    {
+     "code": "R0065",
+     "label": "Josta: Kulttuurifestivaalien ja -tapahtumien lippu- ja muut myyntituotot",
+     "ids": {
+      "C0010": "7620996"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Harrastamisen Suomen malli, käyttökustannukset",
+     "ids": {
+      "C0010": "7620997"
+     }
+    },
+    {
+     "code": "R0075",
+     "label": "Harrastamisen Suomen malli, käyttötuotot",
+     "ids": {
+      "C0010": "7620998"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Työterveyshuollon kustannukset",
+     "ids": {
+      "C0010": "4999211"
+     }
+    }
+   ]
+  },
+  "k-t17": {
+   "title": "VM:n erillistietotarpeet",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0020",
+     "label": "Kunnan ja kuntayhtymän vuokravastuut (sis. leasing)",
+     "ids": {
+      "C0010": "4999212"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Liikelaitosten vuokravastuut (sis. leasing)",
+     "ids": {
+      "C0010": "4999214"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Konsernin vuokravastuut (sis. leasing)",
+     "ids": {
+      "C0010": "4999213"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Käyttötalouserittelystä varhaiskasvatuksen sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "4991776"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Käyttötalouserittelystä kirjastotoiminnan sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "4991778"
+     }
+    },
+    {
+     "code": "R0085",
+     "label": "Käyttötalouserittelystä työllisyyspalveluiden sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "8213153"
+     }
+    },
+    {
+     "code": "R0095",
+     "label": "Käyttötalouserittelystä yleisen kulttuuritoiminnan, taiteen perusopetuksen, ympäristönsuojelun, ympäristöterveydenhuollon, hyvinvoinnin ja terveyden edistämisen sekä kotoutumisohjelman sisäisiin vuokriin sisältyvät pääomakustannukset",
+     "ids": {
+      "C0010": "8213154"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Investointierittelyistä kirjastotoimen pienten hankkeiden menot yhteensä",
+     "ids": {
+      "C0010": "4999215"
+     }
+    }
+   ]
+  },
+  "k-t18.01": {
+   "title": "PPP-hankkeiden yhteisarvo",
+   "columns": {
+    "C0010": "PPP-hanke"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "PPP-hankkeiden yhteisarvo",
+     "ids": {
+      "C0010": "1100"
+     }
+    }
+   ]
+  },
+  "k-t19": {
+   "title": "Takaukset",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0020",
+     "label": "Takauskanta",
+     "ids": {
+      "C0010": "191"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "josta: julkisyhteisöille annetut takaukset",
+     "ids": {
+      "C0010": "4992408"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Tilikauden aikana annetut takaukset",
+     "ids": {
+      "C0010": "177"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "josta: julkisyhteisöille annetut takaukset",
+     "ids": {
+      "C0010": "791"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Tilikauden aikana maksetut korvaukset takausvastuista",
+     "ids": {
+      "C0010": "752"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "josta: julkisyhteisöille  maksetut korvaukset",
+     "ids": {
+      "C0010": "1103669"
+     }
+    },
+    {
+     "code": "R0080",
+     "label": "Takauskorvausten takaisinperintätulot",
+     "ids": {
+      "C0010": "1140"
+     }
+    },
+    {
+     "code": "R0090",
+     "label": "josta: julkisyhteisöiltä saadut takaisinperintätulot",
+     "ids": {
+      "C0010": "1117781"
+     }
+    },
+    {
+     "code": "R0100",
+     "label": "Takauksista saadut tulot tilikauden aikana",
+     "ids": {
+      "C0010": "229"
+     }
+    },
+    {
+     "code": "R0110",
+     "label": "josta: julkisyhteisöiltä saadut tulot",
+     "ids": {
+      "C0010": "1470581"
+     }
+    },
+    {
+     "code": "R0120",
+     "label": "Takausten perusteella omaksi otetut velat",
+     "ids": {
+      "C0010": "1603"
+     }
+    },
+    {
+     "code": "R0130",
+     "label": "josta: julkisyhteisöiltä omaksi otetut velat",
+     "ids": {
+      "C0010": "1200"
+     }
+    },
+    {
+     "code": "R0140",
+     "label": "Takaukset muiden puolesta, jäljellä oleva pääoma (kunta ja kuntayhtymä)",
+     "ids": {
+      "C0010": "7565976"
+     }
+    },
+    {
+     "code": "R0150",
+     "label": "Takaukset muiden puolesta, jäljellä oleva pääoma (konserni)",
+     "ids": {
+      "C0010": "7565977"
+     }
+    }
+   ]
+  },
+  "k-t20.02": {
+   "title": "Energiatehokkuushankkeet - muut tiedot",
+   "columns": {
+    "C0010": "Päättynyt tilikausi"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Vuoden aikana tehtyihin, uusiin energiatehokkuussopimuksiin sisältyvien investointien arvo",
+     "ids": {
+      "C0010": "1532"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Uusien energiatehokkuussopimusten määrä (kappaletta)",
+     "ids": {
+      "C0010": "1152"
+     }
+    }
+   ]
+  },
+  "k-t22.01": {
+   "title": "Muut tiedot (mm. leasingvastuut ja johdannaissopimukset)",
+   "columns": {
+    "C0010": "Raportin tilikausi (nykyinen tilikausi) / päättymispäivä"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Kiinteistöihin liittyvät leasingvastuut vuoden lopussa yhteensä",
+     "ids": {
+      "C0010": "309"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Tilinpäätöshetkellä hoitamattomassa tilassa olevat kuluksi kirjaamattomat lainasaamiset",
+     "ids": {
+      "C0010": "1543"
+     }
+    },
+    {
+     "code": "R0180",
+     "label": "Johdannaissopimuksiin ja arvopaperilainaamiseen liittyvät saadut käteisvakuudet vuoden lopussa",
+     "ids": {
+      "C0010": "1530"
+     }
+    },
+    {
+     "code": "R0190",
+     "label": "Uusista, vuoden aikana tehdyitä operaatioista lainasaamisten mitätöinti / toisen velan omaksi ottaminen",
+     "ids": {
+      "C0010": "1648"
+     }
+    },
+    {
+     "code": "R0200",
+     "label": "Lainasaamisten mitätöinti",
+     "ids": {
+      "C0010": "468"
+     }
+    },
+    {
+     "code": "R0210",
+     "label": "Itselleen muutoin kuin takauksen perusteella ottama toisen yhteisön velka",
+     "ids": {
+      "C0010": "411"
+     }
+    },
+    {
+     "code": "R0290",
+     "label": "Pakollisten varausten kirjaukset",
+     "ids": {
+      "C0010": "290"
+     }
+    },
+    {
+     "code": "R0300",
+     "label": "Henkilöstökuluihin sisältyvä pakollisten varausten muutos",
+     "ids": {
+      "C0010": "506"
+     }
+    },
+    {
+     "code": "R0310",
+     "label": "Palvelujen ostoihin sisältyvä pakollisten varausten muutos",
+     "ids": {
+      "C0010": "912"
+     }
+    },
+    {
+     "code": "R0320",
+     "label": "Muihin toimintakuluihin sisältyvä pakollisten varausten muutos",
+     "ids": {
+      "C0010": "921"
+     }
+    }
+   ]
+  },
+  "k-t22.02": {
+   "title": "Koronvaihtosopimukset",
+   "columns": {
+    "C0010": "Konserni",
+    "C0020": "Kunta"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Käypä arvo",
+     "ids": {
+      "C0010": "978",
+      "C0020": "1869"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Kohde-etuuden arvo",
+     "ids": {
+      "C0010": "1499",
+      "C0020": "1853"
+     }
+    }
+   ]
+  },
+  "k-t23": {
+   "title": "Korjausrakentaminen",
+   "columns": {
+    "C0030": "Korjaamisen, kunnostamisen ja uusimisen menot käyttötaloudessa ja investoinneissa yhteensä (euroa)",
+    "C0040": "Peruskorjaus- ja perusparantamismenojen osuus edellisestä (euroa)"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "04 Toimistorakennukset",
+     "ids": {
+      "C0030": "1754",
+      "C0040": "8212888"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "061 Terveydenhuollon rakennukset",
+     "ids": {
+      "C0030": "1775",
+      "C0040": "8212886"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "062 Sosiaalipalvelurakennukset",
+     "ids": {
+      "C0030": "1739",
+      "C0040": "8212887"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "07 Kokoontumisrakennukset",
+     "ids": {
+      "C0030": "1823",
+      "C0040": "8212889"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "08 Opetusrakennukset",
+     "ids": {
+      "C0030": "1765",
+      "C0040": "8212885"
+     }
+    },
+    {
+     "code": "R0055",
+     "label": "13 Pelastustoimen rakennukset",
+     "ids": {
+      "C0030": "8212884",
+      "C0040": "8212891"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Muut rakennukset",
+     "ids": {
+      "C0030": "1834",
+      "C0040": "8212890"
+     }
+    }
+   ]
+  },
+  "k-t24.01": {
+   "title": "Muut erittelyt investoinneista, Rakentamiskustannukset",
+   "columns": {
+    "C0010": "Maa- ja vesialueet",
+    "C0020": "Rakennukset",
+    "C0030": "Asuinrakennukset",
+    "C0040": "Muut rakennukset",
+    "C0050": "Kiinteät rakenteet ja laitteet",
+    "C0060": "Koneet ja kalusto",
+    "C0070": "Muut hyödykkeet"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Omajohtoinen rakentaminen",
+     "ids": {
+      "C0010": "966",
+      "C0020": "784",
+      "C0030": "970",
+      "C0040": "953",
+      "C0050": "1372",
+      "C0060": "764",
+      "C0070": "1310"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Henkilöstökulut",
+     "ids": {
+      "C0010": "835",
+      "C0020": "172",
+      "C0030": "820",
+      "C0040": "837",
+      "C0050": "776",
+      "C0060": "150",
+      "C0070": "743"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Palvelujen ostot",
+     "ids": {
+      "C0010": "704",
+      "C0020": "1231",
+      "C0030": "595",
+      "C0040": "609",
+      "C0050": "760",
+      "C0060": "1307",
+      "C0070": "810"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Aineet, tarvikkeet ja tavarat",
+     "ids": {
+      "C0010": "1273",
+      "C0020": "1419",
+      "C0030": "1287",
+      "C0040": "1239",
+      "C0050": "1334",
+      "C0060": "1407",
+      "C0070": "1395"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Avustukset",
+     "ids": {
+      "C0010": "1842",
+      "C0020": "601",
+      "C0030": "1839",
+      "C0040": "1833",
+      "C0050": "989",
+      "C0060": "680",
+      "C0070": "1060"
+     }
+    },
+    {
+     "code": "R0060",
+     "label": "Muut toimintakulut",
+     "ids": {
+      "C0010": "1070",
+      "C0020": "255",
+      "C0030": "1044",
+      "C0040": "1064",
+      "C0050": "1115",
+      "C0060": "316",
+      "C0070": "1171"
+     }
+    },
+    {
+     "code": "R0070",
+     "label": "Rakennuttaminen",
+     "ids": {
+      "C0010": "688",
+      "C0020": "76",
+      "C0030": "726",
+      "C0040": "710",
+      "C0050": "630",
+      "C0060": "2",
+      "C0070": "571"
+     }
+    }
+   ]
+  },
+  "t00": {
+   "title": "Raportin tiedot",
+   "columns": {
+    "C0010": "Raportin tiedot"
+   },
+   "rows": [
+    {
+     "code": "R0010",
+     "label": "Y-tunnus",
+     "ids": {
+      "C0010": "62"
+     }
+    },
+    {
+     "code": "R0020",
+     "label": "Raportoivan tahon muu tunnus",
+     "ids": {
+      "C0010": "885"
+     }
+    },
+    {
+     "code": "R0030",
+     "label": "Raportointijakson alkamispäivämäärä",
+     "ids": {
+      "C0010": "511"
+     }
+    },
+    {
+     "code": "R0040",
+     "label": "Raportointijakson päättymispäivämäärä",
+     "ids": {
+      "C0010": "492"
+     }
+    },
+    {
+     "code": "R0050",
+     "label": "Lisätieto",
+     "ids": {
+      "C0010": "1909"
+     }
+    }
+   ]
+  }
+ }
+}

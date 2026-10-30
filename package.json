@@ -1,0 +1,30 @@
+{
+  "name": "tasapaino",
+  "private": true,
+  "type": "module",
+  "description": "Kuntatalouden tasapainotus: kokonaistalous, palveluluokat, verotus ja toimenpiteet verrokkikuntiin verrattuna.",
+  "scripts": {
+    "build": "node backend/functions/build.mjs",
+    "watch": "node backend/functions/build.mjs --watch",
+    "population": "node backend/functions/fetch-population.mjs && node backend/functions/fetch-pyramid.mjs",
+    "finance-q": "node backend/functions/fetch-finance.mjs",
+    "finance-pl": "node backend/functions/fetch-finance-pl.mjs",
+    "tasapaino": "node backend/functions/fetch-tasapaino.mjs",
+    "tax": "node backend/functions/fetch-tax.mjs",
+    "tax-rates": "python -I backend/functions/tax_rates.py",
+    "ostolaskut": "python -I backend/functions/ostolaskut.py",
+    "datapoints": "python -I backend/functions/tools/extract_datapoints.py backend/data/raw/taxonomy/hkt/x/hkt20260602/Taulukkomallit-Tabellmall-2026-06-02/Kunnat-kommuner/fi",
+    "compare": "node backend/functions/compare-set.mjs",
+    "maps": "node backend/functions/fetch-maps.mjs",
+    "update": "npm run population && npm run finance-pl && npm run tasapaino && npm run tax && npm run compare && npm run build",
+    "serve": "node backend/functions/serve.mjs",
+    "start": "node backend/functions/build.mjs && node backend/functions/serve.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "topojson-server": "^3.0.1"
+  },
+  "dependencies": {
+    "topojson-client": "^3.1.0"
+  }
+}

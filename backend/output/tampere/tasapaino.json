@@ -1,0 +1,6988 @@
+{
+  "code": "837",
+  "name": "Tampere",
+  "ytunnus": "0211675-2",
+  "updated": "2026-10-30T12:54:11.251Z",
+  "source": "Valtiokonttori, kuntien taloustietopalvelu: KKNR, KKTR, KKOTR, KTAS, KTPE, TOTT",
+  "population": {
+    "1972": 163609,
+    "1973": 164975,
+    "1974": 165978,
+    "1975": 166338,
+    "1976": 166058,
+    "1977": 166118,
+    "1978": 165519,
+    "1979": 165883,
+    "1980": 166228,
+    "1981": 167028,
+    "1982": 167211,
+    "1983": 167344,
+    "1984": 168150,
+    "1985": 169026,
+    "1986": 169994,
+    "1987": 170533,
+    "1988": 171068,
+    "1989": 171561,
+    "1990": 172560,
+    "1991": 173797,
+    "1992": 174859,
+    "1993": 176149,
+    "1994": 179251,
+    "1995": 182742,
+    "1996": 186026,
+    "1997": 188726,
+    "1998": 191254,
+    "1999": 193174,
+    "2000": 195468,
+    "2001": 197774,
+    "2002": 199823,
+    "2003": 200966,
+    "2004": 202932,
+    "2005": 204337,
+    "2006": 206368,
+    "2007": 207866,
+    "2008": 209552,
+    "2009": 211507,
+    "2010": 213217,
+    "2011": 215168,
+    "2012": 217421,
+    "2013": 220446,
+    "2014": 223004,
+    "2015": 225118,
+    "2016": 228274,
+    "2017": 231853,
+    "2018": 235239,
+    "2019": 238140,
+    "2020": 241009,
+    "2021": 244223,
+    "2022": 249009,
+    "2023": 255050,
+    "2024": 260180,
+    "2025": 263337
+  },
+  "annual": {
+    "2021": {
+      "stage": "Lopullinen",
+      "operatingIncome": 561871359,
+      "salesIncome": 221049244.81,
+      "feeIncome": 99091988.65,
+      "subsidyIncome": 84986030.76,
+      "otherIncome": 156744094.78,
+      "rentIncome": 80619471.76,
+      "operatingCosts": 1886456418.26,
+      "personnel": 665736632.17,
+      "services": 949844662.17,
+      "customerServices": 625829312.48,
+      "otherServices": 324015349.69,
+      "materials": 67401647.74,
+      "grants": 105025471.73,
+      "otherCosts": 98448004.45,
+      "operatingMargin": null,
+      "taxes": 1117482551.42,
+      "municipalTax": 896751821.71,
+      "propertyTax": 93270134.42,
+      "corporateTax": 127460595.29,
+      "stateAid": 360780239,
+      "interestIncome": 6600782.85,
+      "interestCosts": 16753186.08,
+      "annualMargin": null,
+      "depreciation": 106709984.05,
+      "extraordinary": 0,
+      "result": null,
+      "surplus": 76369334.34,
+      "totalAssets": 2510827724.04,
+      "equity": 1250021853.47,
+      "accumulatedSurplus": 593671950.65,
+      "loans": 891008295.4200001,
+      "cash": 280406438.48,
+      "subsidiaryShares": 282063506.62,
+      "investments": 232873528.46,
+      "investmentGrants": 5111888.42,
+      "disposals": 102478499.16,
+      "invNewBuildings": 50906117.06,
+      "invRepairBuildings": 36305247.28,
+      "invNewResidential": 0,
+      "invRepairResidential": 37733.4,
+      "invLand": 8869612.71,
+      "invStructures": 104027953.51,
+      "invMachinery": 8682437.27,
+      "invShares": 18085857.31,
+      "invIntangible": 5595259.8
+    },
+    "2022": {
+      "stage": "Lopullinen",
+      "operatingIncome": 516270899.9,
+      "salesIncome": 244337845.18,
+      "feeIncome": 100383326.31,
+      "subsidyIncome": 62635489.4,
+      "otherIncome": 108914239.01,
+      "rentIncome": 85649301.78,
+      "operatingCosts": 1963946808.82,
+      "personnel": 686090625.77,
+      "services": 994133447.81,
+      "customerServices": 648378628.98,
+      "otherServices": 345754818.83,
+      "materials": 64576424.58,
+      "grants": 104801827.72,
+      "otherCosts": 114344482.94,
+      "operatingMargin": -1442527846.57,
+      "taxes": 1192291583,
+      "municipalTax": 953897127.7,
+      "propertyTax": 99620202.84,
+      "corporateTax": 138774252.46,
+      "stateAid": 373863497,
+      "interestIncome": 6899300.97,
+      "interestCosts": 15757972.52,
+      "annualMargin": 142270336.57,
+      "depreciation": 124444814.36,
+      "extraordinary": 0,
+      "result": 17825522.21,
+      "surplus": 20095288.99,
+      "totalAssets": 2583260965.88,
+      "equity": 1262082249.17,
+      "accumulatedSurplus": 606293743.21,
+      "loans": 925885417.51,
+      "cash": 241432311.32,
+      "subsidiaryShares": 281696001.09,
+      "investments": 238445864.36,
+      "investmentGrants": 5921750.94,
+      "disposals": 16764144.4,
+      "invNewBuildings": 56850648.24,
+      "invRepairBuildings": 42451079.91,
+      "invNewResidential": 0,
+      "invRepairResidential": 32421.25,
+      "invLand": 16243192.120000001,
+      "invStructures": 110429173.05,
+      "invMachinery": 6864720.17,
+      "invShares": 575877.93,
+      "invIntangible": 4815749.340000001
+    },
+    "2023": {
+      "stage": "Lopullinen",
+      "operatingIncome": 385780830.59,
+      "salesIncome": 169517698.29,
+      "feeIncome": 40939847.02,
+      "subsidyIncome": 36217520.79,
+      "otherIncome": 139105764.49,
+      "rentIncome": 108169575.37,
+      "operatingCosts": 968323636.15,
+      "personnel": 445933508.89,
+      "services": 325875534.8,
+      "customerServices": 43014706.96,
+      "otherServices": 282860827.84,
+      "materials": 37846169.04,
+      "grants": 63237418.24,
+      "otherCosts": 95431005.18,
+      "operatingMargin": -579245074.07,
+      "taxes": 681057394,
+      "municipalTax": 477772951.21,
+      "propertyTax": 105302047.15,
+      "corporateTax": 97982395.64,
+      "stateAid": 58343614,
+      "interestIncome": 9247312.42,
+      "interestCosts": 21439796.28,
+      "annualMargin": 187998048.61,
+      "depreciation": 132683387.07,
+      "extraordinary": 0,
+      "result": 55314661.54,
+      "surplus": 58119232.21,
+      "totalAssets": 2412226913.18,
+      "equity": 1290261731.54,
+      "accumulatedSurplus": 664412975.4200001,
+      "loans": 853716049.79,
+      "cash": 91878169.11999999,
+      "subsidiaryShares": 280080268.53,
+      "investments": 232389140.45,
+      "investmentGrants": 3169919.25,
+      "disposals": 33582901.74,
+      "invNewBuildings": 60282952.98,
+      "invRepairBuildings": 38823999.33,
+      "invNewResidential": 0,
+      "invRepairResidential": 0,
+      "invLand": 11918821.190000001,
+      "invStructures": 93352676.94,
+      "invMachinery": 10056669.35,
+      "invShares": 10954500.98,
+      "invIntangible": 6750905.42
+    },
+    "2024": {
+      "stage": "Lopullinen",
+      "operatingIncome": 322164745.09,
+      "salesIncome": 101308626.2,
+      "feeIncome": 51238475.69,
+      "subsidyIncome": 33388049.97,
+      "otherIncome": 136229593.23,
+      "rentIncome": 112762308.25,
+      "operatingCosts": 973707634.35,
+      "personnel": 453179683.5,
+      "services": 329830973.64,
+      "customerServices": 45854668.57,
+      "otherServices": 283976305.07,
+      "materials": 27115977.74,
+      "grants": 62007441.08,
+      "otherCosts": 101573558.39,
+      "operatingMargin": -651175402.04,
+      "taxes": 651180550.48,
+      "municipalTax": 458298668.3,
+      "propertyTax": 108788955.4,
+      "corporateTax": 84092926.78,
+      "stateAid": 83136457,
+      "interestIncome": 18370484.6,
+      "interestCosts": 25479517.28,
+      "annualMargin": 109028879.77,
+      "depreciation": 140738166.94,
+      "extraordinary": 204293733.5,
+      "result": 172584446.33,
+      "surplus": 186072083.26,
+      "totalAssets": 2630833743.35,
+      "equity": 1476185902.89,
+      "accumulatedSurplus": 850485058.5,
+      "loans": 943620976.8399999,
+      "cash": 76102675.34,
+      "subsidiaryShares": 365091293.7,
+      "investments": 314022346.13,
+      "investmentGrants": 3353790.84,
+      "disposals": 205281463.51,
+      "invNewBuildings": 62185369.18,
+      "invRepairBuildings": 53712531.58,
+      "invNewResidential": 0,
+      "invRepairResidential": 0,
+      "invLand": 17505485.18,
+      "invStructures": 67581741.78,
+      "invMachinery": 10098874.09,
+      "invShares": 87805592.51,
+      "invIntangible": 14520717.65
+    },
+    "2025": {
+      "stage": "Lopullinen",
+      "operatingIncome": 382079605.28,
+      "salesIncome": 126474006.02,
+      "feeIncome": 41240775.06,
+      "subsidyIncome": 27789674.43,
+      "otherIncome": 186575149.77,
+      "rentIncome": 111189911.97,
+      "operatingCosts": 1068704894.22,
+      "personnel": 471629211.19,
+      "services": 370958026.74,
+      "customerServices": 54396547.69,
+      "otherServices": 316561479.05,
+      "materials": 22061468.25,
+      "grants": 101600719.61,
+      "otherCosts": 102455468.43,
+      "operatingMargin": -686135098.62,
+      "taxes": 641154613.83,
+      "municipalTax": 453129154.92,
+      "propertyTax": 110286226.51,
+      "corporateTax": 77739232.4,
+      "stateAid": 125666408,
+      "interestIncome": 17525763.52,
+      "interestCosts": 23057730.44,
+      "annualMargin": 106241663.61,
+      "depreciation": 138778616.95,
+      "extraordinary": 0,
+      "result": -32536953.34,
+      "surplus": -31592321.93,
+      "totalAssets": 2710453904.3,
+      "equity": 1444455297.79,
+      "accumulatedSurplus": 818892736.58,
+      "loans": 1020137220,
+      "cash": 96462392.84,
+      "subsidiaryShares": 391488845.02,
+      "investments": 229588754.11,
+      "investmentGrants": 3730198.65,
+      "disposals": 99119958.06,
+      "invNewBuildings": 29005121.21,
+      "invRepairBuildings": 65615970.54,
+      "invNewResidential": 0,
+      "invRepairResidential": 0,
+      "invLand": 13564630.21,
+      "invStructures": 71761152.12,
+      "invMachinery": 6318078.58,
+      "invShares": 26649329.81,
+      "invIntangible": 16448356
+    }
+  },
+  "current": {
+    "period": "2026Q3",
+    "stage": "Alustava",
+    "values": {
+      "operatingIncome": 238043400.2,
+      "salesIncome": 97106552.99,
+      "feeIncome": 30351775.38,
+      "subsidyIncome": 18356163.12,
+      "otherIncome": 92228908.71,
+      "rentIncome": 81046384.72,
+      "operatingCosts": 794637793.84,
+      "personnel": 358993826.86,
+      "services": 259183010.1,
+      "customerServices": 41401813.7,
+      "otherServices": 217781196.4,
+      "materials": 16924271.44,
+      "grants": 78103520.42,
+      "otherCosts": 81433165.02,
+      "operatingMargin": -556358300.55,
+      "taxes": 510779307.89,
+      "municipalTax": 365410123.87,
+      "propertyTax": 78188892.03,
+      "corporateTax": 67180291.99,
+      "stateAid": 107424861,
+      "interestIncome": 13115703.07,
+      "interestCosts": 16801486.55,
+      "annualMargin": 88303959.03,
+      "depreciation": 103641651.15,
+      "extraordinary": 0,
+      "result": -15337692.12,
+      "surplus": -14795642.54,
+      "totalAssets": 2728565409.59,
+      "equity": 1429659655.25,
+      "accumulatedSurplus": 804097094.0400001,
+      "loans": 1083729681.64,
+      "cash": 117128086.88,
+      "subsidiaryShares": 390321791.02,
+      "investments": 123655307.43,
+      "investmentGrants": 281103.94,
+      "disposals": 6182155.58,
+      "invNewBuildings": 18116684.83,
+      "invRepairBuildings": 47356124.15,
+      "invNewResidential": 129000,
+      "invRepairResidential": 0,
+      "invLand": 2175750.26,
+      "invStructures": 48394513.51,
+      "invMachinery": 5686300.640000001,
+      "invShares": 0,
+      "invIntangible": 1749330.04
+    }
+  },
+  "tables": {
+    "KKTR": {
+      "k-t02": {
+        "title": "Kunnan ja kuntayhtymän tilinpäätöksen rahoituslaskelma",
+        "columns": {
+          "C0010": "Päättynyt tilikausi"
+        },
+        "rows": [
+          {
+            "code": "R0010",
+            "label": "Toiminnan rahavirta"
+          },
+          {
+            "code": "R0020",
+            "label": "Vuosikate"
+          },
+          {
+            "code": "R0030",
+            "label": "Satunnaiset erät (tuotot +, kulut -)"
+          },
+          {
+            "code": "R0040",
+            "label": "Tulorahoituksen korjauserät"
+          },
+          {
+            "code": "R0050",
+            "label": "Investointien rahavirta"
+          },
+          {
+            "code": "R0060",
+            "label": "Investointimenot"
+          },
+          {
+            "code": "R0070",
+            "label": "Rahoitusosuudet investointimenoihin"
+          },
+          {
+            "code": "R0080",
+            "label": "Pysyvien vastaavien hyödykkeiden luovutustulot"
+          },
+          {
+            "code": "R0090",
+            "label": "Toiminnan ja investointien rahavirta"
+          },
+          {
+            "code": "R0110",
+            "label": "Antolainauksen muutokset (vähennys +, lisäys -,)"
+          },
+          {
+            "code": "R0120",
+            "label": "Antolainasaamisten lisäys"
+          },
+          {
+            "code": "R0130",
+            "label": "Antolainasaamisten vähennys"
+          },
+          {
+            "code": "R0140",
+            "label": "Lainakannan muutokset (lisäys +, vähennys -)"
+          },
+          {
+            "code": "R0150",
+            "label": "Pitkäaikaisten lainojen lisäys"
+          },
+          {
+            "code": "R0160",
+            "label": "Pitkäaikaisten lainojen vähennys"
+          },
+          {
+            "code": "R0170",
+            "label": "Lyhytaikaisten lainojen muutos (lisäys +, vähennys -)"
+          },
+          {
+            "code": "R0180",
+            "label": "Lyhytaikaisten lainojen lisäys"
+          },
+          {
+            "code": "R0190",
+            "label": "Lyhytaikaisten lainojen vähennys"
+          },
+          {
+            "code": "R0200",
+            "label": "Oman pääoman muutokset (lisäys +, vähennykset -)"
+          },
+          {
+            "code": "R0210",
+            "label": "Oman pääoman lisäys"
+          },
+          {
+            "code": "R0220",
+            "label": "Oman pääoman vähennys"
+          },
+          {
+            "code": "R0230",
+            "label": "Muut maksuvalmiuden muutokset"
+          },
+          {
+            "code": "R0240",
+            "label": "Toimeksiantojen varojen ja pääomien muutokset (lisäys +, vähennys -)"
+          },
+          {
+            "code": "R0250",
+            "label": "Toimeksiantojen varojen ja pääomien lisäys"
+          },
+          {
+            "code": "R0260",
+            "label": "Toimeksiantojen varojen ja pääomien vähennys"
+          },
+          {
+            "code": "R0270",
+            "label": "Vaihto-omaisuuden muutos"
+          },
+          {
+            "code": "R0280",
+            "label": "Saamisten muutos"
+          },
+          {
+            "code": "R0290",
+            "label": "Korottomien velkojen muutos"
+          },
+          {
+            "code": "R0300",
+            "label": "Rahoituksen rahavirta"
+          },
+          {
+            "code": "R0310",
+            "label": "Rahavarojen muutos"
+          },
+          {
+            "code": "R0320",
+            "label": "Rahavarat 31.12."
+          },
+          {
+            "code": "R0330",
+            "label": "Rahavarat 1.1."
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0010": {
+              "C0010": 114967323.23
+            },
+            "R0020": {
+              "C0010": 181418484.23
+            },
+            "R0030": {
+              "C0010": 0
+            },
+            "R0040": {
+              "C0010": -66451161
+            },
+            "R0050": {
+              "C0010": -125283140.9
+            },
+            "R0060": {
+              "C0010": 232873528.46
+            },
+            "R0070": {
+              "C0010": 5111888.4
+            },
+            "R0080": {
+              "C0010": 102478499.16
+            },
+            "R0090": {
+              "C0010": -10315817.67
+            },
+            "R0110": {
+              "C0010": 1374187.29
+            },
+            "R0120": {
+              "C0010": 2542608.44
+            },
+            "R0130": {
+              "C0010": 3916795.73
+            },
+            "R0140": {
+              "C0010": -23721080.23
+            },
+            "R0150": {
+              "C0010": 5383860
+            },
+            "R0160": {
+              "C0010": 21288542.69
+            },
+            "R0170": {
+              "C0010": -7816397.54
+            },
+            "R0200": {
+              "C0010": 0
+            },
+            "R0230": {
+              "C0010": 111495.91
+            },
+            "R0240": {
+              "C0010": -242663.17
+            },
+            "R0270": {
+              "C0010": 5090199.81
+            },
+            "R0280": {
+              "C0010": -23300175.9
+            },
+            "R0290": {
+              "C0010": 18564135.17
+            },
+            "R0300": {
+              "C0010": -22235397.03
+            },
+            "R0310": {
+              "C0010": -32551214.7
+            },
+            "R0320": {
+              "C0010": 280406438.48
+            },
+            "R0330": {
+              "C0010": 312957653.18
+            }
+          },
+          "2022": {
+            "R0010": {
+              "C0010": 127745801.45
+            },
+            "R0020": {
+              "C0010": 142270336.57
+            },
+            "R0030": {
+              "C0010": 0
+            },
+            "R0040": {
+              "C0010": -14524535.12
+            },
+            "R0050": {
+              "C0010": -215759969.02
+            },
+            "R0060": {
+              "C0010": 238445864.36
+            },
+            "R0070": {
+              "C0010": 5921750.94
+            },
+            "R0080": {
+              "C0010": 16764144.4
+            },
+            "R0090": {
+              "C0010": -88014167.57
+            },
+            "R0110": {
+              "C0010": -1543742.28
+            },
+            "R0120": {
+              "C0010": 2042692.36
+            },
+            "R0130": {
+              "C0010": 498950.08
+            },
+            "R0140": {
+              "C0010": 34877122.09
+            },
+            "R0150": {
+              "C0010": 0
+            },
+            "R0160": {
+              "C0010": 25734101.05
+            },
+            "R0170": {
+              "C0010": 60611223.14
+            },
+            "R0200": {
+              "C0010": 0
+            },
+            "R0230": {
+              "C0010": 15706660.6
+            },
+            "R0240": {
+              "C0010": -262869.07
+            },
+            "R0270": {
+              "C0010": -512559.72
+            },
+            "R0280": {
+              "C0010": -13397209.97
+            },
+            "R0290": {
+              "C0010": 29879299.36
+            },
+            "R0300": {
+              "C0010": 49040040.41
+            },
+            "R0310": {
+              "C0010": -38974127.16
+            },
+            "R0320": {
+              "C0010": 241432311.32
+            },
+            "R0330": {
+              "C0010": 280406438.48
+            }
+          },
+          "2023": {
+            "R0010": {
+              "C0010": 167239417.97
+            },
+            "R0020": {
+              "C0010": 187998048.61
+            },
+            "R0030": {
+              "C0010": 0
+            },
+            "R0040": {
+              "C0010": -20758630.64
+            },
+            "R0050": {
+              "C0010": -195636319.46
+            },
+            "R0060": {
+              "C0010": 232389140.45
+            },
+            "R0070": {
+              "C0010": 3169919.25
+            },
+            "R0080": {
+              "C0010": 33582901.74
+            },
+            "R0090": {
+              "C0010": -28396901.49
+            },
+            "R0110": {
+              "C0010": 8800047.41
+            },
+            "R0120": {
+              "C0010": 1877555.43
+            },
+            "R0130": {
+              "C0010": 10677602.84
+            },
+            "R0140": {
+              "C0010": -72169367.72
+            },
+            "R0150": {
+              "C0010": 60000000
+            },
+            "R0160": {
+              "C0010": 68831662.03
+            },
+            "R0170": {
+              "C0010": -63337705.69
+            },
+            "R0200": {
+              "C0010": 0
+            },
+            "R0230": {
+              "C0010": -57787920.4
+            },
+            "R0240": {
+              "C0010": -1907783.49
+            },
+            "R0270": {
+              "C0010": -738572.48
+            },
+            "R0280": {
+              "C0010": 29167757.2
+            },
+            "R0290": {
+              "C0010": -84309321.63
+            },
+            "R0300": {
+              "C0010": -121157240.71
+            },
+            "R0310": {
+              "C0010": -149554142.2
+            },
+            "R0320": {
+              "C0010": 91878169.12
+            },
+            "R0330": {
+              "C0010": 241432311.32
+            }
+          },
+          "2024": {
+            "R0010": {
+              "C0010": 301690591.87
+            },
+            "R0020": {
+              "C0010": 109028879.62
+            },
+            "R0030": {
+              "C0010": 204293733.51
+            },
+            "R0040": {
+              "C0010": -11632021.26
+            },
+            "R0050": {
+              "C0010": -105387091.76
+            },
+            "R0060": {
+              "C0010": 314022346.13
+            },
+            "R0070": {
+              "C0010": 3353790.84
+            },
+            "R0080": {
+              "C0010": 205281463.53
+            },
+            "R0090": {
+              "C0010": 196303500.11
+            },
+            "R0110": {
+              "C0010": -282892669.84
+            },
+            "R0120": {
+              "C0010": 284553830.76
+            },
+            "R0130": {
+              "C0010": 1661160.92
+            },
+            "R0140": {
+              "C0010": 89904927.03
+            },
+            "R0150": {
+              "C0010": 177000000
+            },
+            "R0160": {
+              "C0010": 67641339.33
+            },
+            "R0170": {
+              "C0010": -19453733.64
+            },
+            "R0200": {
+              "C0010": 0
+            },
+            "R0230": {
+              "C0010": -19091251.08
+            },
+            "R0240": {
+              "C0010": 6520892.44
+            },
+            "R0270": {
+              "C0010": 988848.37
+            },
+            "R0280": {
+              "C0010": 23288162.13
+            },
+            "R0290": {
+              "C0010": -49889154.02
+            },
+            "R0300": {
+              "C0010": -212078993.89
+            },
+            "R0310": {
+              "C0010": -15775493.78
+            },
+            "R0320": {
+              "C0010": 76102675.34
+            },
+            "R0330": {
+              "C0010": 91878169.12
+            }
+          },
+          "2025": {
+            "R0010": {
+              "C0010": 41213908.58
+            },
+            "R0020": {
+              "C0010": 106241663.61
+            },
+            "R0030": {
+              "C0010": 0
+            },
+            "R0040": {
+              "C0010": -65027755.03
+            },
+            "R0050": {
+              "C0010": -126738597.4
+            },
+            "R0060": {
+              "C0010": 229588754.11
+            },
+            "R0070": {
+              "C0010": 3730198.65
+            },
+            "R0080": {
+              "C0010": 99119958.06
+            },
+            "R0090": {
+              "C0010": -85524688.82
+            },
+            "R0110": {
+              "C0010": -584167.71
+            },
+            "R0120": {
+              "C0010": 1094723.53
+            },
+            "R0130": {
+              "C0010": 510555.82
+            },
+            "R0140": {
+              "C0010": 76516243.18
+            },
+            "R0150": {
+              "C0010": 164000000
+            },
+            "R0160": {
+              "C0010": 48241173.73
+            },
+            "R0170": {
+              "C0010": -39242583.09
+            },
+            "R0200": {
+              "C0010": 0
+            },
+            "R0230": {
+              "C0010": 29952330.85
+            },
+            "R0240": {
+              "C0010": -2267742.2
+            },
+            "R0270": {
+              "C0010": -414683.24
+            },
+            "R0280": {
+              "C0010": -2407836.46
+            },
+            "R0290": {
+              "C0010": 35042592.75
+            },
+            "R0300": {
+              "C0010": 105884406.32
+            },
+            "R0310": {
+              "C0010": 20359717.5
+            },
+            "R0320": {
+              "C0010": 96462392.84
+            },
+            "R0330": {
+              "C0010": 76102675.34
+            }
+          }
+        }
+      }
+    },
+    "KKOTR": {
+      "kk-t01": {
+        "title": "Kunnan ja kuntayhtymän konsernituloslaskelma",
+        "columns": {
+          "C0010": "Päättynyt tilikausi"
+        },
+        "rows": [
+          {
+            "code": "R0020",
+            "label": "Toimintatuotot"
+          },
+          {
+            "code": "R0030",
+            "label": "Toimintakulut"
+          },
+          {
+            "code": "R0040",
+            "label": "Osuus osakkuusyhteisojen voitosta  (tappioista)"
+          },
+          {
+            "code": "R0050",
+            "label": "Toimintakate"
+          },
+          {
+            "code": "R0060",
+            "label": "Verotulot"
+          },
+          {
+            "code": "R0070",
+            "label": "Valtionosuudet"
+          },
+          {
+            "code": "R0080",
+            "label": "Rahoitustuotot ja -kulut"
+          },
+          {
+            "code": "R0090",
+            "label": "Korkotuotot"
+          },
+          {
+            "code": "R0100",
+            "label": "Muut rahoitustuotot"
+          },
+          {
+            "code": "R0110",
+            "label": "Korkokulut"
+          },
+          {
+            "code": "R0120",
+            "label": "Muut rahoituskulut"
+          },
+          {
+            "code": "R0130",
+            "label": "Vuosikate"
+          },
+          {
+            "code": "R0140",
+            "label": "Poistot ja arvonalentumiset"
+          },
+          {
+            "code": "R0150",
+            "label": "Suunnitelman mukaiset poistot"
+          },
+          {
+            "code": "R0160",
+            "label": "Omistuksen eliminointierot"
+          },
+          {
+            "code": "R0170",
+            "label": "Konserniliikearvon poisto ja konsernireservin vähennys"
+          },
+          {
+            "code": "R0180",
+            "label": "Arvonalentumiset"
+          },
+          {
+            "code": "R0190",
+            "label": "Satunnaiset erät"
+          },
+          {
+            "code": "R0200",
+            "label": "Tilikauden tulos"
+          },
+          {
+            "code": "R0210",
+            "label": "Tilinpäätössiirrot"
+          },
+          {
+            "code": "R0220",
+            "label": "Tilikauden verot"
+          },
+          {
+            "code": "R0230",
+            "label": "Laskennalliset verot"
+          },
+          {
+            "code": "R0240",
+            "label": "Vähemmistöosuudet"
+          },
+          {
+            "code": "R0250",
+            "label": "Tilikauden ylijäämä (alijäämä)"
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0020": {
+              "C0010": 1425534938.57
+            },
+            "R0030": {
+              "C0010": 2510431399.22
+            },
+            "R0040": {
+              "C0010": 10332991.35
+            },
+            "R0050": {
+              "C0010": -1074563469.3
+            },
+            "R0060": {
+              "C0010": 1117482551.42
+            },
+            "R0070": {
+              "C0010": 360780239
+            },
+            "R0080": {
+              "C0010": -32919373.2
+            },
+            "R0090": {
+              "C0010": 2151402.84
+            },
+            "R0100": {
+              "C0010": 5477091.15
+            },
+            "R0110": {
+              "C0010": 37664785.8
+            },
+            "R0120": {
+              "C0010": 2883081.4
+            },
+            "R0130": {
+              "C0010": 370779947.92
+            },
+            "R0140": {
+              "C0010": 256754461.03
+            },
+            "R0150": {
+              "C0010": 229913563.96
+            },
+            "R0160": {
+              "C0010": 25368085.87
+            },
+            "R0170": {
+              "C0010": 0
+            },
+            "R0180": {
+              "C0010": 1472811.2
+            },
+            "R0190": {
+              "C0010": 0
+            },
+            "R0200": {
+              "C0010": 114025486.88
+            },
+            "R0210": {
+              "C0010": -44659.49
+            },
+            "R0220": {
+              "C0010": 12826275.74
+            },
+            "R0230": {
+              "C0010": -7392665.94
+            },
+            "R0240": {
+              "C0010": -7181989.51
+            },
+            "R0250": {
+              "C0010": 86579896.21
+            }
+          },
+          "2022": {
+            "R0020": {
+              "C0010": 1443900938.72
+            },
+            "R0030": {
+              "C0010": 2593853347.12
+            },
+            "R0040": {
+              "C0010": 7755305.41
+            },
+            "R0050": {
+              "C0010": -1142197102.98
+            },
+            "R0060": {
+              "C0010": 1192291583
+            },
+            "R0070": {
+              "C0010": 373863497
+            },
+            "R0080": {
+              "C0010": -36919965.36
+            },
+            "R0090": {
+              "C0010": 3091013.18
+            },
+            "R0100": {
+              "C0010": 2628988.18
+            },
+            "R0110": {
+              "C0010": 39020387.2
+            },
+            "R0120": {
+              "C0010": 3619579.52
+            },
+            "R0130": {
+              "C0010": 387038011.66
+            },
+            "R0140": {
+              "C0010": 272885470.15
+            },
+            "R0150": {
+              "C0010": 270071810.31
+            },
+            "R0160": {
+              "C0010": -29863.49
+            },
+            "R0170": {
+              "C0010": 0
+            },
+            "R0180": {
+              "C0010": 2843523.33
+            },
+            "R0190": {
+              "C0010": 0
+            },
+            "R0200": {
+              "C0010": 114152541.51
+            },
+            "R0210": {
+              "C0010": 566757.57
+            },
+            "R0220": {
+              "C0010": 23754947.64
+            },
+            "R0230": {
+              "C0010": -2352107.39
+            },
+            "R0240": {
+              "C0010": 373894.41
+            },
+            "R0250": {
+              "C0010": 88986138.46
+            }
+          },
+          "2023": {
+            "R0020": {
+              "C0010": 1043711472.61
+            },
+            "R0030": {
+              "C0010": 1472390858.35
+            },
+            "R0040": {
+              "C0010": 2045685.16
+            },
+            "R0050": {
+              "C0010": -426633700.58
+            },
+            "R0060": {
+              "C0010": 681057394
+            },
+            "R0070": {
+              "C0010": 58343614
+            },
+            "R0080": {
+              "C0010": -31587776.18
+            },
+            "R0090": {
+              "C0010": 13270423.67
+            },
+            "R0100": {
+              "C0010": 2239794.97
+            },
+            "R0110": {
+              "C0010": 46460117.86
+            },
+            "R0120": {
+              "C0010": 637876.96
+            },
+            "R0130": {
+              "C0010": 281179531.23
+            },
+            "R0140": {
+              "C0010": 217051093.91
+            },
+            "R0150": {
+              "C0010": 215254395.66
+            },
+            "R0160": {
+              "C0010": 0
+            },
+            "R0170": {
+              "C0010": 0
+            },
+            "R0180": {
+              "C0010": 1796698.25
+            },
+            "R0190": {
+              "C0010": 0
+            },
+            "R0200": {
+              "C0010": 64128437.32
+            },
+            "R0210": {
+              "C0010": 1099567.32
+            },
+            "R0220": {
+              "C0010": 9516341.94
+            },
+            "R0230": {
+              "C0010": -3627879.55
+            },
+            "R0240": {
+              "C0010": 223116.79
+            },
+            "R0250": {
+              "C0010": 52306899.95
+            }
+          },
+          "2024": {
+            "R0020": {
+              "C0010": 1021378374.81
+            },
+            "R0030": {
+              "C0010": 1442174546.88
+            },
+            "R0040": {
+              "C0010": 2551617.37
+            },
+            "R0050": {
+              "C0010": -418244554.7
+            },
+            "R0060": {
+              "C0010": 651180550.4
+            },
+            "R0070": {
+              "C0010": 83136457
+            },
+            "R0080": {
+              "C0010": -34497668.5
+            },
+            "R0090": {
+              "C0010": 20623297.45
+            },
+            "R0100": {
+              "C0010": 5524107.76
+            },
+            "R0110": {
+              "C0010": 58684407.92
+            },
+            "R0120": {
+              "C0010": 1960665.79
+            },
+            "R0130": {
+              "C0010": 281574784.2
+            },
+            "R0140": {
+              "C0010": 233696543.65
+            },
+            "R0150": {
+              "C0010": 228363671.57
+            },
+            "R0160": {
+              "C0010": -2117234.41
+            },
+            "R0170": {
+              "C0010": 0
+            },
+            "R0180": {
+              "C0010": 7450106.49
+            },
+            "R0190": {
+              "C0010": 0
+            },
+            "R0200": {
+              "C0010": 47878240.55
+            },
+            "R0210": {
+              "C0010": 151082.07
+            },
+            "R0220": {
+              "C0010": 11471060.79
+            },
+            "R0230": {
+              "C0010": -4142811.91
+            },
+            "R0240": {
+              "C0010": -2901736.15
+            },
+            "R0250": {
+              "C0010": 29513713.77
+            }
+          },
+          "2025": {
+            "R0020": {
+              "C0010": 1021248100.4
+            },
+            "R0030": {
+              "C0010": 1503229969.2
+            },
+            "R0040": {
+              "C0010": 2874089.61
+            },
+            "R0050": {
+              "C0010": -479107779.19
+            },
+            "R0060": {
+              "C0010": 641154613.83
+            },
+            "R0070": {
+              "C0010": 125666408
+            },
+            "R0080": {
+              "C0010": -40883457.25
+            },
+            "R0090": {
+              "C0010": 12901285.44
+            },
+            "R0100": {
+              "C0010": 3858201.18
+            },
+            "R0110": {
+              "C0010": 56795206.07
+            },
+            "R0120": {
+              "C0010": 847737.8
+            },
+            "R0130": {
+              "C0010": 246829785.39
+            },
+            "R0140": {
+              "C0010": 265055474.98
+            },
+            "R0150": {
+              "C0010": 242194268.52
+            },
+            "R0160": {
+              "C0010": 384558.65
+            },
+            "R0170": {
+              "C0010": 0
+            },
+            "R0180": {
+              "C0010": 22476647.81
+            },
+            "R0190": {
+              "C0010": 0
+            },
+            "R0200": {
+              "C0010": -18225689.59
+            },
+            "R0210": {
+              "C0010": 141453.44
+            },
+            "R0220": {
+              "C0010": 10185674.8
+            },
+            "R0230": {
+              "C0010": -4313476.47
+            },
+            "R0240": {
+              "C0010": -558959.95
+            },
+            "R0250": {
+              "C0010": -33142347.37
+            }
+          }
+        }
+      },
+      "kk-t02": {
+        "title": "Kunnan ja kuntayhtymän konsernin rahoituslaskelma",
+        "columns": {
+          "C0010": "Päättynyt tilikausi"
+        },
+        "rows": [
+          {
+            "code": "R0020",
+            "label": "Toiminnan rahavirta"
+          },
+          {
+            "code": "R0030",
+            "label": "Vuosikate"
+          },
+          {
+            "code": "R0040",
+            "label": "Satunnaiset erät"
+          },
+          {
+            "code": "R0050",
+            "label": "Tilikauden verot"
+          },
+          {
+            "code": "R0060",
+            "label": "Tulorahoituksen korjauserät"
+          },
+          {
+            "code": "R0070",
+            "label": "Investointien rahavirta"
+          },
+          {
+            "code": "R0080",
+            "label": "Investointimenot"
+          },
+          {
+            "code": "R0090",
+            "label": "Rahoitusosuudet investointimenoihin"
+          },
+          {
+            "code": "R0100",
+            "label": "Pysyvien vastaavien hyödykkeiden luovutustulot"
+          },
+          {
+            "code": "R0110",
+            "label": "Toiminnan ja investointien rahavirta"
+          },
+          {
+            "code": "R0130",
+            "label": "Rahoituksen rahavirta"
+          },
+          {
+            "code": "R0140",
+            "label": "Antolainauksen muutokset (lisäys -, vähennys +)"
+          },
+          {
+            "code": "R0150",
+            "label": "Antolainasaamisten lisäys"
+          },
+          {
+            "code": "R0160",
+            "label": "Antolainasaamisten vähennys"
+          },
+          {
+            "code": "R0170",
+            "label": "Lainakannan muutokset (lisäys +, vähennys -)"
+          },
+          {
+            "code": "R0180",
+            "label": "Pitkäaikaisten lainojen lisäys"
+          },
+          {
+            "code": "R0190",
+            "label": "Pitkäaikaisten lainojen vähennys"
+          },
+          {
+            "code": "R0200",
+            "label": "Lyhytaikaisten lainojen muutos (lisäys +, vähennys -)"
+          },
+          {
+            "code": "R0210",
+            "label": "Lyhytaikaisten lainojen lisäys"
+          },
+          {
+            "code": "R0220",
+            "label": "Lyhytaikaisten lainojen vähennys"
+          },
+          {
+            "code": "R0230",
+            "label": "Oman pääoman muutokset + (-)"
+          },
+          {
+            "code": "R0240",
+            "label": "Muut maksuvalmiuden muutokset + (-)"
+          },
+          {
+            "code": "R0250",
+            "label": "Toimeksiantojen varojen ja pääomien muutokset + (-)"
+          },
+          {
+            "code": "R0260",
+            "label": "Vaihto-omaisuuden muutos + (-)"
+          },
+          {
+            "code": "R0270",
+            "label": "Saamisten muutos + (-)"
+          },
+          {
+            "code": "R0280",
+            "label": "Korottomien velkojen muutos + (-)"
+          },
+          {
+            "code": "R0290",
+            "label": "Rahavarojen muutos"
+          },
+          {
+            "code": "R0300",
+            "label": "Rahavarat 31.12."
+          },
+          {
+            "code": "R0310",
+            "label": "Rahavarat 1.1."
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0020": {
+              "C0010": 295393389.92
+            },
+            "R0030": {
+              "C0010": 370779947.92
+            },
+            "R0040": {
+              "C0010": 0
+            },
+            "R0050": {
+              "C0010": 12826275.74
+            },
+            "R0060": {
+              "C0010": -62560282.25
+            },
+            "R0070": {
+              "C0010": -430558619.28
+            },
+            "R0080": {
+              "C0010": 520587130.45
+            },
+            "R0090": {
+              "C0010": 5591915.4
+            },
+            "R0100": {
+              "C0010": 84436595.77
+            },
+            "R0110": {
+              "C0010": -135165229.35
+            },
+            "R0130": {
+              "C0010": 139242372.07
+            },
+            "R0140": {
+              "C0010": -325928.44
+            },
+            "R0150": {
+              "C0010": 2799862.4
+            },
+            "R0160": {
+              "C0010": 2473933.96
+            },
+            "R0170": {
+              "C0010": 128056445.27
+            },
+            "R0180": {
+              "C0010": 478355385.16
+            },
+            "R0190": {
+              "C0010": 344656146
+            },
+            "R0200": {
+              "C0010": -5642793.89
+            },
+            "R0230": {
+              "C0010": -3497669.5
+            },
+            "R0240": {
+              "C0010": 15009524.74
+            },
+            "R0250": {
+              "C0010": -286027.73
+            },
+            "R0260": {
+              "C0010": 7342431.29
+            },
+            "R0270": {
+              "C0010": -47412655.71
+            },
+            "R0280": {
+              "C0010": 55365776.88
+            },
+            "R0290": {
+              "C0010": 4077142.72
+            },
+            "R0300": {
+              "C0010": 388755070.68
+            },
+            "R0310": {
+              "C0010": 384677927.95
+            }
+          },
+          "2022": {
+            "R0020": {
+              "C0010": 301041920.12
+            },
+            "R0030": {
+              "C0010": 387038011.66
+            },
+            "R0040": {
+              "C0010": 0
+            },
+            "R0050": {
+              "C0010": 23754947.64
+            },
+            "R0060": {
+              "C0010": -62241143.9
+            },
+            "R0070": {
+              "C0010": -405862117.01
+            },
+            "R0080": {
+              "C0010": 550128089.71
+            },
+            "R0090": {
+              "C0010": 5921750.94
+            },
+            "R0100": {
+              "C0010": 138344221.76
+            },
+            "R0110": {
+              "C0010": -104820196.89
+            },
+            "R0130": {
+              "C0010": 61243047.13
+            },
+            "R0140": {
+              "C0010": -2527011.58
+            },
+            "R0150": {
+              "C0010": 2867692
+            },
+            "R0160": {
+              "C0010": 340680.42
+            },
+            "R0170": {
+              "C0010": -6792324.58
+            },
+            "R0180": {
+              "C0010": 159321552.27
+            },
+            "R0190": {
+              "C0010": 141831704.87
+            },
+            "R0200": {
+              "C0010": -24282171.98
+            },
+            "R0230": {
+              "C0010": -2151774.02
+            },
+            "R0240": {
+              "C0010": 72714157.32
+            },
+            "R0250": {
+              "C0010": -338646.37
+            },
+            "R0260": {
+              "C0010": -22147312.76
+            },
+            "R0270": {
+              "C0010": -59822677.6
+            },
+            "R0280": {
+              "C0010": 155022794.05
+            },
+            "R0290": {
+              "C0010": -43577149.76
+            },
+            "R0300": {
+              "C0010": 345177920.91
+            },
+            "R0310": {
+              "C0010": 388755070.68
+            }
+          },
+          "2023": {
+            "R0020": {
+              "C0010": 278234243.18
+            },
+            "R0030": {
+              "C0010": 281179531.23
+            },
+            "R0040": {
+              "C0010": 0
+            },
+            "R0050": {
+              "C0010": 9516341.94
+            },
+            "R0060": {
+              "C0010": 6571053.89
+            },
+            "R0070": {
+              "C0010": -522426542.13
+            },
+            "R0080": {
+              "C0010": 537371153.22
+            },
+            "R0090": {
+              "C0010": 3169919.25
+            },
+            "R0100": {
+              "C0010": 11774691.84
+            },
+            "R0110": {
+              "C0010": -244192298.95
+            },
+            "R0130": {
+              "C0010": 89393007.54
+            },
+            "R0140": {
+              "C0010": 8499236.75
+            },
+            "R0150": {
+              "C0010": 2093036.43
+            },
+            "R0160": {
+              "C0010": 10592273.18
+            },
+            "R0170": {
+              "C0010": 229510254.56
+            },
+            "R0180": {
+              "C0010": 304249346.51
+            },
+            "R0190": {
+              "C0010": 121956877.52
+            },
+            "R0200": {
+              "C0010": 47217785.57
+            },
+            "R0230": {
+              "C0010": -357520.55
+            },
+            "R0240": {
+              "C0010": -148258963.22
+            },
+            "R0250": {
+              "C0010": -1877438.16
+            },
+            "R0260": {
+              "C0010": -2789411.8
+            },
+            "R0270": {
+              "C0010": 45627343.65
+            },
+            "R0280": {
+              "C0010": -189219456.91
+            },
+            "R0290": {
+              "C0010": -154799291.41
+            },
+            "R0300": {
+              "C0010": 149772299.86
+            },
+            "R0310": {
+              "C0010": 304571591.27
+            }
+          },
+          "2024": {
+            "R0020": {
+              "C0010": 257150386.71
+            },
+            "R0030": {
+              "C0010": 281574784.2
+            },
+            "R0040": {
+              "C0010": 0
+            },
+            "R0050": {
+              "C0010": 11471060.79
+            },
+            "R0060": {
+              "C0010": -12953336.7
+            },
+            "R0070": {
+              "C0010": -516617347.84
+            },
+            "R0080": {
+              "C0010": 538561349.04
+            },
+            "R0090": {
+              "C0010": 6105781.33
+            },
+            "R0100": {
+              "C0010": 15838219.87
+            },
+            "R0110": {
+              "C0010": -259466961.13
+            },
+            "R0130": {
+              "C0010": 255237348.54
+            },
+            "R0140": {
+              "C0010": -1082762.22
+            },
+            "R0150": {
+              "C0010": 1189492.15
+            },
+            "R0160": {
+              "C0010": 106729.93
+            },
+            "R0170": {
+              "C0010": 253149190.93
+            },
+            "R0180": {
+              "C0010": 427971564.24
+            },
+            "R0190": {
+              "C0010": 157281718.92
+            },
+            "R0200": {
+              "C0010": -17540654.39
+            },
+            "R0230": {
+              "C0010": -860439.44
+            },
+            "R0240": {
+              "C0010": 4031359.27
+            },
+            "R0250": {
+              "C0010": 6520882.91
+            },
+            "R0260": {
+              "C0010": -2763085.66
+            },
+            "R0270": {
+              "C0010": 41799602.45
+            },
+            "R0280": {
+              "C0010": -41526040.43
+            },
+            "R0290": {
+              "C0010": -4229612.59
+            },
+            "R0300": {
+              "C0010": 145542687.28
+            },
+            "R0310": {
+              "C0010": 149772299.86
+            }
+          },
+          "2025": {
+            "R0020": {
+              "C0010": 205996597.21
+            },
+            "R0030": {
+              "C0010": 246829785.39
+            },
+            "R0040": {
+              "C0010": 0
+            },
+            "R0050": {
+              "C0010": 10185674.8
+            },
+            "R0060": {
+              "C0010": -30647513.38
+            },
+            "R0070": {
+              "C0010": -395131614.99
+            },
+            "R0080": {
+              "C0010": 501286813.24
+            },
+            "R0090": {
+              "C0010": 28825778.89
+            },
+            "R0100": {
+              "C0010": 77329419.36
+            },
+            "R0110": {
+              "C0010": -189135017.78
+            },
+            "R0130": {
+              "C0010": 219543717.32
+            },
+            "R0140": {
+              "C0010": -878721.1
+            },
+            "R0150": {
+              "C0010": 1094723.53
+            },
+            "R0160": {
+              "C0010": 216002.43
+            },
+            "R0170": {
+              "C0010": 220486927.69
+            },
+            "R0180": {
+              "C0010": 384655102.97
+            },
+            "R0190": {
+              "C0010": 124515064.24
+            },
+            "R0200": {
+              "C0010": -39653111.04
+            },
+            "R0230": {
+              "C0010": 1795305.92
+            },
+            "R0240": {
+              "C0010": -1859795.19
+            },
+            "R0250": {
+              "C0010": -2267745.91
+            },
+            "R0260": {
+              "C0010": -2110769.98
+            },
+            "R0270": {
+              "C0010": -2403843
+            },
+            "R0280": {
+              "C0010": 4922563.7
+            },
+            "R0290": {
+              "C0010": 30408699.54
+            },
+            "R0300": {
+              "C0010": 175951386.82
+            },
+            "R0310": {
+              "C0010": 145542687.28
+            }
+          }
+        }
+      },
+      "kk-t03": {
+        "title": "Kunnan ja kuntayhtymän konsernitase",
+        "columns": {
+          "C0010": "Päättyneen tilikauden lopussa"
+        },
+        "rows": [
+          {
+            "code": "R0010",
+            "label": "Vastaavaa"
+          },
+          {
+            "code": "R0020",
+            "label": "Pysyvät vastaavat"
+          },
+          {
+            "code": "R0030",
+            "label": "Aineettomat hyödykkeet"
+          },
+          {
+            "code": "R0040",
+            "label": "Aineettomat oikeudet"
+          },
+          {
+            "code": "R0050",
+            "label": "Konserniliikearvo"
+          },
+          {
+            "code": "R0060",
+            "label": "Muut pitkävaikutteiset menot"
+          },
+          {
+            "code": "R0070",
+            "label": "Ennakkomaksut aineettomista hyödykkeistä"
+          },
+          {
+            "code": "R0080",
+            "label": "Aineelliset hyödykkeet"
+          },
+          {
+            "code": "R0090",
+            "label": "Maa- ja vesialueet"
+          },
+          {
+            "code": "R0100",
+            "label": "Rakennukset"
+          },
+          {
+            "code": "R0110",
+            "label": "Kiinteät rakenteet ja laitteet"
+          },
+          {
+            "code": "R0120",
+            "label": "Koneet ja kalusto"
+          },
+          {
+            "code": "R0130",
+            "label": "Muut aineelliset hyödykkeet"
+          },
+          {
+            "code": "R0140",
+            "label": "Ennakkomaksut ja keskeneräiset hankinnat"
+          },
+          {
+            "code": "R0150",
+            "label": "Sijoitukset"
+          },
+          {
+            "code": "R0160",
+            "label": "Osakkuusyhteisöosuudet"
+          },
+          {
+            "code": "R0170",
+            "label": "Muut osakkeet ja osuudet"
+          },
+          {
+            "code": "R0180",
+            "label": "Joukkovelkakirjalainasaamiset"
+          },
+          {
+            "code": "R0190",
+            "label": "Muut lainasaamiset"
+          },
+          {
+            "code": "R0200",
+            "label": "Muut saamiset (sijoitukset)"
+          },
+          {
+            "code": "R0210",
+            "label": "Toimeksiantojen varat"
+          },
+          {
+            "code": "R0220",
+            "label": "Valtion toimeksiannot, toimeksiantojen varat"
+          },
+          {
+            "code": "R0230",
+            "label": "Lahjoitusrahastojen varat"
+          },
+          {
+            "code": "R0240",
+            "label": "Toimeksiantojen varat, muut toimeksiantojen varat"
+          },
+          {
+            "code": "R0250",
+            "label": "Vaihtuvat vastaavat"
+          },
+          {
+            "code": "R0260",
+            "label": "Vaihto-omaisuus"
+          },
+          {
+            "code": "R0270",
+            "label": "Aineet ja tarvikkeet"
+          },
+          {
+            "code": "R0280",
+            "label": "Keskeneräiset tuotteet"
+          },
+          {
+            "code": "R0290",
+            "label": "Valmiit tuotteet"
+          },
+          {
+            "code": "R0300",
+            "label": "Muu vaihto-omaisuus"
+          },
+          {
+            "code": "R0310",
+            "label": "Ennakkomaksut"
+          },
+          {
+            "code": "R0320",
+            "label": "Saamiset"
+          },
+          {
+            "code": "R0330",
+            "label": "Pitkäaikaiset saamiset"
+          },
+          {
+            "code": "R0340",
+            "label": "Pitkäaikaiset myyntisaamiset"
+          },
+          {
+            "code": "R0350",
+            "label": "Pitkäaikaiset lainasaamiset"
+          },
+          {
+            "code": "R0360",
+            "label": "Pitkäaikaiset laskennalliset verosaamiset"
+          },
+          {
+            "code": "R0370",
+            "label": "Pitkäaikaiset muut saamiset"
+          },
+          {
+            "code": "R0380",
+            "label": "Pitkäaikaiset siirtosaamiset"
+          },
+          {
+            "code": "R0390",
+            "label": "Lyhytaikaiset saamiset"
+          },
+          {
+            "code": "R0400",
+            "label": "Lyhytaikaiset myyntisaamiset"
+          },
+          {
+            "code": "R0410",
+            "label": "Lyhytaikaiset lainasaamiset"
+          },
+          {
+            "code": "R0420",
+            "label": "Lyhytaikaiset laskennalliset verosaamiset"
+          },
+          {
+            "code": "R0430",
+            "label": "Lyhytaikaiset muut saamiset"
+          },
+          {
+            "code": "R0440",
+            "label": "Lyhytaikaiset siirtosaamiset"
+          },
+          {
+            "code": "R0450",
+            "label": "Rahoitusarvopaperit"
+          },
+          {
+            "code": "R0460",
+            "label": "Osakkeet ja osuudet, rahoitusarvopaperit"
+          },
+          {
+            "code": "R0470",
+            "label": "Sijoitukset rahamarkkinainstrumentteihin"
+          },
+          {
+            "code": "R0480",
+            "label": "Rahoitusarvopaperit, joukkovelkakirjalainasaamiset"
+          },
+          {
+            "code": "R0490",
+            "label": "Muut arvopaperit"
+          },
+          {
+            "code": "R0500",
+            "label": "Rahat ja pankkisaamiset"
+          },
+          {
+            "code": "R0510",
+            "label": "Vastattavaa"
+          },
+          {
+            "code": "R0520",
+            "label": "Oma pääoma"
+          },
+          {
+            "code": "R0530",
+            "label": "Peruspääoma"
+          },
+          {
+            "code": "R0540",
+            "label": "Säätiöiden ja yhdistysten peruspääomat"
+          },
+          {
+            "code": "R0550",
+            "label": "Arvonkorotusrahasto"
+          },
+          {
+            "code": "R0560",
+            "label": "Muut omat rahastot"
+          },
+          {
+            "code": "R0570",
+            "label": "Edellisten tilikausien ylijäämä (alijäämä)"
+          },
+          {
+            "code": "R0580",
+            "label": "Tilikauden ylijäämä (alijäämä), oma pääoma"
+          },
+          {
+            "code": "R0590",
+            "label": "Vähemmistöosuudet, vastattavaa"
+          },
+          {
+            "code": "R0600",
+            "label": "Konsernireservi"
+          },
+          {
+            "code": "R0610",
+            "label": "Pakolliset varaukset"
+          },
+          {
+            "code": "R0620",
+            "label": "Eläkevaraukset"
+          },
+          {
+            "code": "R0630",
+            "label": "Muut pakolliset varaukset"
+          },
+          {
+            "code": "R0640",
+            "label": "Toimeksiantojen pääomat"
+          },
+          {
+            "code": "R0650",
+            "label": "Valtion toimeksiannot, toimeksiantojen pääomat"
+          },
+          {
+            "code": "R0660",
+            "label": "Lahjoitusrahastojen pääomat"
+          },
+          {
+            "code": "R0670",
+            "label": "Muut toimeksiantojen pääomat"
+          },
+          {
+            "code": "R0680",
+            "label": "Vieras pääoma"
+          },
+          {
+            "code": "R0690",
+            "label": "Pitkäaikainen vieras pääoma"
+          },
+          {
+            "code": "R0700",
+            "label": "Pitkäaikainen (korollinen vieras pääoma)"
+          },
+          {
+            "code": "R0710",
+            "label": "Pitkäaikaiset joukkovelkakirjalainat"
+          },
+          {
+            "code": "R0720",
+            "label": "Pitkäaikaiset lainat rahoitus- ja vakuutuslaitoksilta"
+          },
+          {
+            "code": "R0730",
+            "label": "Pitkäaikaiset lainat julkisyhteisöiltä"
+          },
+          {
+            "code": "R0740",
+            "label": "Pitkäaikaiset lainat muilta luotonantajilta"
+          },
+          {
+            "code": "R0750",
+            "label": "Pitkäaikainen (koroton vieras pääoma)"
+          },
+          {
+            "code": "R0760",
+            "label": "Pitkäaikaiset saadut ennakot"
+          },
+          {
+            "code": "R0770",
+            "label": "Pitkäaikaiset ostovelat"
+          },
+          {
+            "code": "R0780",
+            "label": "Pitkäaikaiset muut velat/liittymismaksut ja muut velat"
+          },
+          {
+            "code": "R0790",
+            "label": "Pitkäaikaiset siirtovelat"
+          },
+          {
+            "code": "R0800",
+            "label": "Pitkäaikaiset laskennalliset verovelat"
+          },
+          {
+            "code": "R0810",
+            "label": "Lyhytaikainen vieras pääoma"
+          },
+          {
+            "code": "R0820",
+            "label": "Lyhytaikainen (korollinen vieras pääoma)"
+          },
+          {
+            "code": "R0830",
+            "label": "Lyhytaikaiset joukkovelkakirjalainat"
+          },
+          {
+            "code": "R0840",
+            "label": "Lyhytaikaiset lainat rahoitus- ja vakuutuslaitoksilta"
+          },
+          {
+            "code": "R0850",
+            "label": "Lyhytaikaiset lainat julkisyhteisöiltä"
+          },
+          {
+            "code": "R0860",
+            "label": "Lyhytaikaiset lainat muilta luotonantajilta"
+          },
+          {
+            "code": "R0870",
+            "label": "Lyhytaikainen (koroton vieras pääoma)"
+          },
+          {
+            "code": "R0880",
+            "label": "Lyhytaikaiset saadut ennakot"
+          },
+          {
+            "code": "R0890",
+            "label": "Lyhytaikaiset ostovelat"
+          },
+          {
+            "code": "R0900",
+            "label": "Lyhytaikaiset muut velat/liittymismaksut ja muut velat"
+          },
+          {
+            "code": "R0910",
+            "label": "Lyhytaikaiset siirtovelat"
+          },
+          {
+            "code": "R0920",
+            "label": "Lyhytaikaiset laskennalliset verovelat"
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0010": {
+              "C0010": 4626363611.85
+            },
+            "R0020": {
+              "C0010": 3939079470.37
+            },
+            "R0030": {
+              "C0010": 162493810.56
+            },
+            "R0040": {
+              "C0010": 21432753.39
+            },
+            "R0050": {
+              "C0010": 0
+            },
+            "R0060": {
+              "C0010": 138280103.6
+            },
+            "R0070": {
+              "C0010": 2780953.57
+            },
+            "R0080": {
+              "C0010": 3648117129.2
+            },
+            "R0090": {
+              "C0010": 273973699.33
+            },
+            "R0100": {
+              "C0010": 1916723175.09
+            },
+            "R0110": {
+              "C0010": 700305456.89
+            },
+            "R0120": {
+              "C0010": 204287008.76
+            },
+            "R0130": {
+              "C0010": 33946704.75
+            },
+            "R0140": {
+              "C0010": 518881084.39
+            },
+            "R0150": {
+              "C0010": 128468530.61
+            },
+            "R0160": {
+              "C0010": 75266607.58
+            },
+            "R0170": {
+              "C0010": 26094003.69
+            },
+            "R0180": {
+              "C0010": 0
+            },
+            "R0190": {
+              "C0010": 26132544.83
+            },
+            "R0200": {
+              "C0010": 975374.51
+            },
+            "R0210": {
+              "C0010": 4654605.31
+            },
+            "R0220": {
+              "C0010": 4346077.14
+            },
+            "R0230": {
+              "C0010": 308528.17
+            },
+            "R0240": {
+              "C0010": 0
+            },
+            "R0250": {
+              "C0010": 469153743.24
+            },
+            "R0260": {
+              "C0010": 42784329.05
+            },
+            "R0270": {
+              "C0010": 39237942.78
+            },
+            "R0280": {
+              "C0010": 3018305.33
+            },
+            "R0290": {
+              "C0010": 260242.26
+            },
+            "R0300": {
+              "C0010": 267838.67
+            },
+            "R0310": {
+              "C0010": 0
+            },
+            "R0320": {
+              "C0010": 251090136.44
+            },
+            "R0330": {
+              "C0010": 9877978.53
+            },
+            "R0340": {
+              "C0010": 0
+            },
+            "R0350": {
+              "C0010": 366636.39
+            },
+            "R0360": {
+              "C0010": 2557578.15
+            },
+            "R0370": {
+              "C0010": 485304.53
+            },
+            "R0380": {
+              "C0010": 6468459.46
+            },
+            "R0390": {
+              "C0010": 241212157.91
+            },
+            "R0400": {
+              "C0010": 132661083.94
+            },
+            "R0410": {
+              "C0010": 250620.97
+            },
+            "R0420": {
+              "C0010": 3307.4
+            },
+            "R0430": {
+              "C0010": 47510217.53
+            },
+            "R0440": {
+              "C0010": 60786928.07
+            },
+            "R0450": {
+              "C0010": 175279277.76
+            },
+            "R0460": {
+              "C0010": 157457657.88
+            },
+            "R0470": {
+              "C0010": 9724744.85
+            },
+            "R0480": {
+              "C0010": 2521517.35
+            },
+            "R0490": {
+              "C0010": 5575357.68
+            },
+            "R0500": {
+              "C0010": 213475792.92
+            },
+            "R0510": {
+              "C0010": 4626363611.85
+            },
+            "R0520": {
+              "C0010": 1558367796.1
+            },
+            "R0530": {
+              "C0010": 636657232.28
+            },
+            "R0540": {
+              "C0010": 284038.63
+            },
+            "R0550": {
+              "C0010": 0
+            },
+            "R0560": {
+              "C0010": 35807306.79
+            },
+            "R0570": {
+              "C0010": 799039322.2
+            },
+            "R0580": {
+              "C0010": 86579896.21
+            },
+            "R0590": {
+              "C0010": 93676304.43
+            },
+            "R0600": {
+              "C0010": 0
+            },
+            "R0610": {
+              "C0010": 33863212.44
+            },
+            "R0620": {
+              "C0010": 1447900.8
+            },
+            "R0630": {
+              "C0010": 32415311.64
+            },
+            "R0640": {
+              "C0010": 21799947.09
+            },
+            "R0650": {
+              "C0010": 167073.78
+            },
+            "R0660": {
+              "C0010": 14391664.58
+            },
+            "R0670": {
+              "C0010": 7241208.73
+            },
+            "R0680": {
+              "C0010": 2918656351.79
+            },
+            "R0690": {
+              "C0010": 2275946540.82
+            },
+            "R0700": {
+              "C0010": 2186142502.28
+            },
+            "R0710": {
+              "C0010": 0
+            },
+            "R0720": {
+              "C0010": 2069716314.97
+            },
+            "R0730": {
+              "C0010": 48437896.78
+            },
+            "R0740": {
+              "C0010": 67988290.53
+            },
+            "R0750": {
+              "C0010": 89804038.54
+            },
+            "R0760": {
+              "C0010": 933408.27
+            },
+            "R0770": {
+              "C0010": 3894877.05
+            },
+            "R0780": {
+              "C0010": 59640527.43
+            },
+            "R0790": {
+              "C0010": 14566499.7
+            },
+            "R0800": {
+              "C0010": 10768726.09
+            },
+            "R0810": {
+              "C0010": 642709810.97
+            },
+            "R0820": {
+              "C0010": 95658473.22
+            },
+            "R0830": {
+              "C0010": 0
+            },
+            "R0840": {
+              "C0010": 84136445.78
+            },
+            "R0850": {
+              "C0010": 7005321.06
+            },
+            "R0860": {
+              "C0010": 4516706.39
+            },
+            "R0870": {
+              "C0010": 547051337.75
+            },
+            "R0880": {
+              "C0010": 9447912.72
+            },
+            "R0890": {
+              "C0010": 198376151.09
+            },
+            "R0900": {
+              "C0010": 51099937.71
+            },
+            "R0910": {
+              "C0010": 250585679.99
+            },
+            "R0920": {
+              "C0010": 37541656.24
+            }
+          },
+          "2022": {
+            "R0010": {
+              "C0010": 4807928059.53
+            },
+            "R0020": {
+              "C0010": 4112355983.97
+            },
+            "R0030": {
+              "C0010": 148942534.34
+            },
+            "R0040": {
+              "C0010": 16839743.4
+            },
+            "R0050": {
+              "C0010": 0
+            },
+            "R0060": {
+              "C0010": 131423903.56
+            },
+            "R0070": {
+              "C0010": 678887.39
+            },
+            "R0080": {
+              "C0010": 3815905767.15
+            },
+            "R0090": {
+              "C0010": 292539095.25
+            },
+            "R0100": {
+              "C0010": 1910306984.99
+            },
+            "R0110": {
+              "C0010": 802192206.15
+            },
+            "R0120": {
+              "C0010": 193891037.92
+            },
+            "R0130": {
+              "C0010": 33427077.45
+            },
+            "R0140": {
+              "C0010": 583549365.4
+            },
+            "R0150": {
+              "C0010": 147507682.47
+            },
+            "R0160": {
+              "C0010": 89361690.54
+            },
+            "R0170": {
+              "C0010": 28014941.01
+            },
+            "R0180": {
+              "C0010": 0
+            },
+            "R0190": {
+              "C0010": 29155676.41
+            },
+            "R0200": {
+              "C0010": 975374.51
+            },
+            "R0210": {
+              "C0010": 3819874.1
+            },
+            "R0220": {
+              "C0010": 3536003.46
+            },
+            "R0230": {
+              "C0010": 283870.64
+            },
+            "R0240": {
+              "C0010": 0
+            },
+            "R0250": {
+              "C0010": 691752201.47
+            },
+            "R0260": {
+              "C0010": 54138931.39
+            },
+            "R0270": {
+              "C0010": 48484920.64
+            },
+            "R0280": {
+              "C0010": 4554343.94
+            },
+            "R0290": {
+              "C0010": 653801.6
+            },
+            "R0300": {
+              "C0010": 445865.21
+            },
+            "R0310": {
+              "C0010": 0
+            },
+            "R0320": {
+              "C0010": 292435349.16
+            },
+            "R0330": {
+              "C0010": 10762393.81
+            },
+            "R0340": {
+              "C0010": 1523535
+            },
+            "R0350": {
+              "C0010": 1163423.87
+            },
+            "R0360": {
+              "C0010": 2117233.24
+            },
+            "R0370": {
+              "C0010": 341594.6
+            },
+            "R0380": {
+              "C0010": 5616607.09
+            },
+            "R0390": {
+              "C0010": 281672955.36
+            },
+            "R0400": {
+              "C0010": 154341513.03
+            },
+            "R0410": {
+              "C0010": 340995
+            },
+            "R0420": {
+              "C0010": 3307.4
+            },
+            "R0430": {
+              "C0010": 67910587.94
+            },
+            "R0440": {
+              "C0010": 59076551.99
+            },
+            "R0450": {
+              "C0010": 41444142.07
+            },
+            "R0460": {
+              "C0010": 13138643.6
+            },
+            "R0470": {
+              "C0010": 0
+            },
+            "R0480": {
+              "C0010": 402206.46
+            },
+            "R0490": {
+              "C0010": 27903292.01
+            },
+            "R0500": {
+              "C0010": 303733778.84
+            },
+            "R0510": {
+              "C0010": 4807928059.53
+            },
+            "R0520": {
+              "C0010": 1634423119.57
+            },
+            "R0530": {
+              "C0010": 636657232.28
+            },
+            "R0540": {
+              "C0010": 284038.63
+            },
+            "R0550": {
+              "C0010": 0
+            },
+            "R0560": {
+              "C0010": 34090007.95
+            },
+            "R0570": {
+              "C0010": 874405702.25
+            },
+            "R0580": {
+              "C0010": 88986138.46
+            },
+            "R0590": {
+              "C0010": 77096403.54
+            },
+            "R0600": {
+              "C0010": 0
+            },
+            "R0610": {
+              "C0010": 28829720.51
+            },
+            "R0620": {
+              "C0010": 1225786
+            },
+            "R0630": {
+              "C0010": 27603934.51
+            },
+            "R0640": {
+              "C0010": 20626569.51
+            },
+            "R0650": {
+              "C0010": 235456.42
+            },
+            "R0660": {
+              "C0010": 14343446.47
+            },
+            "R0670": {
+              "C0010": 6047666.62
+            },
+            "R0680": {
+              "C0010": 3046952246.41
+            },
+            "R0690": {
+              "C0010": 2209672117.1
+            },
+            "R0700": {
+              "C0010": 2126188126.35
+            },
+            "R0710": {
+              "C0010": 0
+            },
+            "R0720": {
+              "C0010": 2019048320.5
+            },
+            "R0730": {
+              "C0010": 41023011.05
+            },
+            "R0740": {
+              "C0010": 66116794.81
+            },
+            "R0750": {
+              "C0010": 83483990.75
+            },
+            "R0760": {
+              "C0010": 1013143.86
+            },
+            "R0770": {
+              "C0010": 0
+            },
+            "R0780": {
+              "C0010": 58504884.07
+            },
+            "R0790": {
+              "C0010": 14430991.45
+            },
+            "R0800": {
+              "C0010": 9534971.38
+            },
+            "R0810": {
+              "C0010": 837280129.31
+            },
+            "R0820": {
+              "C0010": 148490823.26
+            },
+            "R0830": {
+              "C0010": 0
+            },
+            "R0840": {
+              "C0010": 138394155.15
+            },
+            "R0850": {
+              "C0010": 6391801.28
+            },
+            "R0860": {
+              "C0010": 3704866.83
+            },
+            "R0870": {
+              "C0010": 688789306.05
+            },
+            "R0880": {
+              "C0010": 9351714.75
+            },
+            "R0890": {
+              "C0010": 236593041.46
+            },
+            "R0900": {
+              "C0010": 48080843.2
+            },
+            "R0910": {
+              "C0010": 353722250.09
+            },
+            "R0920": {
+              "C0010": 41041456.55
+            }
+          },
+          "2023": {
+            "R0010": {
+              "C0010": 4467350643.3
+            },
+            "R0020": {
+              "C0010": 4042813510.1
+            },
+            "R0030": {
+              "C0010": 128099483.54
+            },
+            "R0040": {
+              "C0010": 7162794.93
+            },
+            "R0050": {
+              "C0010": 0
+            },
+            "R0060": {
+              "C0010": 120451630.54
+            },
+            "R0070": {
+              "C0010": 485058.07
+            },
+            "R0080": {
+              "C0010": 3771704129.1
+            },
+            "R0090": {
+              "C0010": 304240610.72
+            },
+            "R0100": {
+              "C0010": 1786250121.17
+            },
+            "R0110": {
+              "C0010": 827904304.75
+            },
+            "R0120": {
+              "C0010": 165163107.73
+            },
+            "R0130": {
+              "C0010": 33060228.89
+            },
+            "R0140": {
+              "C0010": 655085755.84
+            },
+            "R0150": {
+              "C0010": 143009897.45
+            },
+            "R0160": {
+              "C0010": 90599456.22
+            },
+            "R0170": {
+              "C0010": 31041165.02
+            },
+            "R0180": {
+              "C0010": 0
+            },
+            "R0190": {
+              "C0010": 20473157.04
+            },
+            "R0200": {
+              "C0010": 896119.17
+            },
+            "R0210": {
+              "C0010": 5909416.03
+            },
+            "R0220": {
+              "C0010": 5619545.39
+            },
+            "R0230": {
+              "C0010": 289870.64
+            },
+            "R0240": {
+              "C0010": 0
+            },
+            "R0250": {
+              "C0010": 418627717.17
+            },
+            "R0260": {
+              "C0010": 52827403.46
+            },
+            "R0270": {
+              "C0010": 47858810.97
+            },
+            "R0280": {
+              "C0010": 3130349.81
+            },
+            "R0290": {
+              "C0010": 862064.83
+            },
+            "R0300": {
+              "C0010": 976177.85
+            },
+            "R0310": {
+              "C0010": 0
+            },
+            "R0320": {
+              "C0010": 216028013.85
+            },
+            "R0330": {
+              "C0010": 9902621.48
+            },
+            "R0340": {
+              "C0010": 2388293.15
+            },
+            "R0350": {
+              "C0010": 84938.73
+            },
+            "R0360": {
+              "C0010": 2265418.29
+            },
+            "R0370": {
+              "C0010": 461917.32
+            },
+            "R0380": {
+              "C0010": 4702053.99
+            },
+            "R0390": {
+              "C0010": 206125392.38
+            },
+            "R0400": {
+              "C0010": 116658846.94
+            },
+            "R0410": {
+              "C0010": 60099.13
+            },
+            "R0420": {
+              "C0010": 0
+            },
+            "R0430": {
+              "C0010": 41485029.58
+            },
+            "R0440": {
+              "C0010": 47921416.72
+            },
+            "R0450": {
+              "C0010": 26668295.56
+            },
+            "R0460": {
+              "C0010": 0
+            },
+            "R0470": {
+              "C0010": 0
+            },
+            "R0480": {
+              "C0010": 0
+            },
+            "R0490": {
+              "C0010": 26668295.56
+            },
+            "R0500": {
+              "C0010": 123104004.3
+            },
+            "R0510": {
+              "C0010": 4467350643.3
+            },
+            "R0520": {
+              "C0010": 1617723632.99
+            },
+            "R0530": {
+              "C0010": 607813879.46
+            },
+            "R0540": {
+              "C0010": 167762.41
+            },
+            "R0550": {
+              "C0010": 0
+            },
+            "R0560": {
+              "C0010": 27709060.79
+            },
+            "R0570": {
+              "C0010": 929726030.38
+            },
+            "R0580": {
+              "C0010": 52306899.95
+            },
+            "R0590": {
+              "C0010": 81107685.83
+            },
+            "R0600": {
+              "C0010": 0
+            },
+            "R0610": {
+              "C0010": 23571498.67
+            },
+            "R0620": {
+              "C0010": 1089250
+            },
+            "R0630": {
+              "C0010": 22482248.67
+            },
+            "R0640": {
+              "C0010": 20002755.47
+            },
+            "R0650": {
+              "C0010": 0
+            },
+            "R0660": {
+              "C0010": 13724130.99
+            },
+            "R0670": {
+              "C0010": 6278624.48
+            },
+            "R0680": {
+              "C0010": 2724945070.33
+            },
+            "R0690": {
+              "C0010": 2145748486.18
+            },
+            "R0700": {
+              "C0010": 2044887403.92
+            },
+            "R0710": {
+              "C0010": 0
+            },
+            "R0720": {
+              "C0010": 2007725234.06
+            },
+            "R0730": {
+              "C0010": 35348836.5
+            },
+            "R0740": {
+              "C0010": 1813333.36
+            },
+            "R0750": {
+              "C0010": 100861082.26
+            },
+            "R0760": {
+              "C0010": 865935.99
+            },
+            "R0770": {
+              "C0010": 0
+            },
+            "R0780": {
+              "C0010": 60638658.04
+            },
+            "R0790": {
+              "C0010": 28203486.26
+            },
+            "R0800": {
+              "C0010": 11153001.97
+            },
+            "R0810": {
+              "C0010": 579196584.15
+            },
+            "R0820": {
+              "C0010": 190729742.66
+            },
+            "R0830": {
+              "C0010": 59650211.81
+            },
+            "R0840": {
+              "C0010": 125737785.29
+            },
+            "R0850": {
+              "C0010": 5235078.9
+            },
+            "R0860": {
+              "C0010": 106666.66
+            },
+            "R0870": {
+              "C0010": 388466841.49
+            },
+            "R0880": {
+              "C0010": 6510048.06
+            },
+            "R0890": {
+              "C0010": 143243239.09
+            },
+            "R0900": {
+              "C0010": 44016926.4
+            },
+            "R0910": {
+              "C0010": 156149381.24
+            },
+            "R0920": {
+              "C0010": 38547246.71
+            }
+          },
+          "2024": {
+            "R0010": {
+              "C0010": 4717926280.67
+            },
+            "R0020": {
+              "C0010": 4339630875.67
+            },
+            "R0030": {
+              "C0010": 128490433.07
+            },
+            "R0040": {
+              "C0010": 6021235.39
+            },
+            "R0050": {
+              "C0010": 0
+            },
+            "R0060": {
+              "C0010": 121549785.27
+            },
+            "R0070": {
+              "C0010": 919412.41
+            },
+            "R0080": {
+              "C0010": 4066627166.77
+            },
+            "R0090": {
+              "C0010": 321874950.5
+            },
+            "R0100": {
+              "C0010": 1877503873
+            },
+            "R0110": {
+              "C0010": 829886198.46
+            },
+            "R0120": {
+              "C0010": 178246922.17
+            },
+            "R0130": {
+              "C0010": 34424618.45
+            },
+            "R0140": {
+              "C0010": 824690604.19
+            },
+            "R0150": {
+              "C0010": 144513275.83
+            },
+            "R0160": {
+              "C0010": 90955734.68
+            },
+            "R0170": {
+              "C0010": 32553002.72
+            },
+            "R0180": {
+              "C0010": 0
+            },
+            "R0190": {
+              "C0010": 20109731.13
+            },
+            "R0200": {
+              "C0010": 894807.3
+            },
+            "R0210": {
+              "C0010": 2806941.29
+            },
+            "R0220": {
+              "C0010": 2763070.65
+            },
+            "R0230": {
+              "C0010": 43870.64
+            },
+            "R0240": {
+              "C0010": 0
+            },
+            "R0250": {
+              "C0010": 375488463.71
+            },
+            "R0260": {
+              "C0010": 55590489.12
+            },
+            "R0270": {
+              "C0010": 52739160.52
+            },
+            "R0280": {
+              "C0010": 954644.36
+            },
+            "R0290": {
+              "C0010": 643309.59
+            },
+            "R0300": {
+              "C0010": 1253374.65
+            },
+            "R0310": {
+              "C0010": 0
+            },
+            "R0320": {
+              "C0010": 174355287.31
+            },
+            "R0330": {
+              "C0010": 9043700.71
+            },
+            "R0340": {
+              "C0010": 2131153.68
+            },
+            "R0350": {
+              "C0010": 79638.73
+            },
+            "R0360": {
+              "C0010": 2392294.19
+            },
+            "R0370": {
+              "C0010": 417058.8
+            },
+            "R0380": {
+              "C0010": 4023555.31
+            },
+            "R0390": {
+              "C0010": 165311586.6
+            },
+            "R0400": {
+              "C0010": 84907660.18
+            },
+            "R0410": {
+              "C0010": 60099.13
+            },
+            "R0420": {
+              "C0010": 0
+            },
+            "R0430": {
+              "C0010": 34632579.69
+            },
+            "R0440": {
+              "C0010": 45711247.6
+            },
+            "R0450": {
+              "C0010": 45579346.3
+            },
+            "R0460": {
+              "C0010": 0
+            },
+            "R0470": {
+              "C0010": 16000000
+            },
+            "R0480": {
+              "C0010": 0
+            },
+            "R0490": {
+              "C0010": 29579346.3
+            },
+            "R0500": {
+              "C0010": 99963340.98
+            },
+            "R0510": {
+              "C0010": 4717926280.67
+            },
+            "R0520": {
+              "C0010": 1647113848.26
+            },
+            "R0530": {
+              "C0010": 607813879.46
+            },
+            "R0540": {
+              "C0010": 167762.41
+            },
+            "R0550": {
+              "C0010": 0
+            },
+            "R0560": {
+              "C0010": 27585562.29
+            },
+            "R0570": {
+              "C0010": 982032930.33
+            },
+            "R0580": {
+              "C0010": 29513713.77
+            },
+            "R0590": {
+              "C0010": 83168591.72
+            },
+            "R0600": {
+              "C0010": 0
+            },
+            "R0610": {
+              "C0010": 20789402.31
+            },
+            "R0620": {
+              "C0010": 1009698
+            },
+            "R0630": {
+              "C0010": 19779704.31
+            },
+            "R0640": {
+              "C0010": 23421163.63
+            },
+            "R0650": {
+              "C0010": 0
+            },
+            "R0660": {
+              "C0010": 18253472.43
+            },
+            "R0670": {
+              "C0010": 5167691.2
+            },
+            "R0680": {
+              "C0010": 2943433274.75
+            },
+            "R0690": {
+              "C0010": 2427517403.3
+            },
+            "R0700": {
+              "C0010": 2330767907.9
+            },
+            "R0710": {
+              "C0010": 0
+            },
+            "R0720": {
+              "C0010": 2299436816.01
+            },
+            "R0730": {
+              "C0010": 29564425.19
+            },
+            "R0740": {
+              "C0010": 1766666.7
+            },
+            "R0750": {
+              "C0010": 96749495.4
+            },
+            "R0760": {
+              "C0010": 104787.2
+            },
+            "R0770": {
+              "C0010": 858387.27
+            },
+            "R0780": {
+              "C0010": 65053176.85
+            },
+            "R0790": {
+              "C0010": 17006707.54
+            },
+            "R0800": {
+              "C0010": 13726436.54
+            },
+            "R0810": {
+              "C0010": 515915871.45
+            },
+            "R0820": {
+              "C0010": 157998429.61
+            },
+            "R0830": {
+              "C0010": 39831391.51
+            },
+            "R0840": {
+              "C0010": 113018499.54
+            },
+            "R0850": {
+              "C0010": 5061871.9
+            },
+            "R0860": {
+              "C0010": 86666.66
+            },
+            "R0870": {
+              "C0010": 357917441.84
+            },
+            "R0880": {
+              "C0010": 7425556.54
+            },
+            "R0890": {
+              "C0010": 110903819.81
+            },
+            "R0900": {
+              "C0010": 41938085.29
+            },
+            "R0910": {
+              "C0010": 157406480.25
+            },
+            "R0920": {
+              "C0010": 40243499.95
+            }
+          },
+          "2025": {
+            "R0010": {
+              "C0010": 4919582590.05
+            },
+            "R0020": {
+              "C0010": 4501988577.68
+            },
+            "R0030": {
+              "C0010": 132423307.64
+            },
+            "R0040": {
+              "C0010": 6789862.16
+            },
+            "R0050": {
+              "C0010": 0
+            },
+            "R0060": {
+              "C0010": 125398728.92
+            },
+            "R0070": {
+              "C0010": 234716.56
+            },
+            "R0080": {
+              "C0010": 4220175746.5
+            },
+            "R0090": {
+              "C0010": 326282277.61
+            },
+            "R0100": {
+              "C0010": 2272059553.94
+            },
+            "R0110": {
+              "C0010": 1012108075.06
+            },
+            "R0120": {
+              "C0010": 193901022.48
+            },
+            "R0130": {
+              "C0010": 33775822.69
+            },
+            "R0140": {
+              "C0010": 382048994.72
+            },
+            "R0150": {
+              "C0010": 149389523.54
+            },
+            "R0160": {
+              "C0010": 95300584.83
+            },
+            "R0170": {
+              "C0010": 32205679.18
+            },
+            "R0180": {
+              "C0010": 0
+            },
+            "R0190": {
+              "C0010": 20999349.13
+            },
+            "R0200": {
+              "C0010": 883910.4
+            },
+            "R0210": {
+              "C0010": 2800582.37
+            },
+            "R0220": {
+              "C0010": 2684701.73
+            },
+            "R0230": {
+              "C0010": 115880.64
+            },
+            "R0240": {
+              "C0010": 0
+            },
+            "R0250": {
+              "C0010": 414793430
+            },
+            "R0260": {
+              "C0010": 57701259.1
+            },
+            "R0270": {
+              "C0010": 53838161.59
+            },
+            "R0280": {
+              "C0010": 1414479.55
+            },
+            "R0290": {
+              "C0010": 527844.45
+            },
+            "R0300": {
+              "C0010": 1502059
+            },
+            "R0310": {
+              "C0010": 418714.51
+            },
+            "R0320": {
+              "C0010": 181140784.08
+            },
+            "R0330": {
+              "C0010": 10258825.66
+            },
+            "R0340": {
+              "C0010": 1872983.33
+            },
+            "R0350": {
+              "C0010": 1579638.73
+            },
+            "R0360": {
+              "C0010": 2862345.68
+            },
+            "R0370": {
+              "C0010": 511984.78
+            },
+            "R0380": {
+              "C0010": 3431873.14
+            },
+            "R0390": {
+              "C0010": 170881958.42
+            },
+            "R0400": {
+              "C0010": 95023586.85
+            },
+            "R0410": {
+              "C0010": 157.5
+            },
+            "R0420": {
+              "C0010": 60666.17
+            },
+            "R0430": {
+              "C0010": 41444878.5
+            },
+            "R0440": {
+              "C0010": 34352669.4
+            },
+            "R0450": {
+              "C0010": 44969199.73
+            },
+            "R0460": {
+              "C0010": 0
+            },
+            "R0470": {
+              "C0010": 14000000
+            },
+            "R0480": {
+              "C0010": 0
+            },
+            "R0490": {
+              "C0010": 30969199.73
+            },
+            "R0500": {
+              "C0010": 130982187.09
+            },
+            "R0510": {
+              "C0010": 4919582590.07
+            },
+            "R0520": {
+              "C0010": 1622033366.63
+            },
+            "R0530": {
+              "C0010": 607813879.46
+            },
+            "R0540": {
+              "C0010": 167762.41
+            },
+            "R0550": {
+              "C0010": 0
+            },
+            "R0560": {
+              "C0010": 27468303.66
+            },
+            "R0570": {
+              "C0010": 1019725768.46
+            },
+            "R0580": {
+              "C0010": -33142347.36
+            },
+            "R0590": {
+              "C0010": 85362900.13
+            },
+            "R0600": {
+              "C0010": 0
+            },
+            "R0610": {
+              "C0010": 32778897.7
+            },
+            "R0620": {
+              "C0010": 927596
+            },
+            "R0630": {
+              "C0010": 31851301.7
+            },
+            "R0640": {
+              "C0010": 21147058.8
+            },
+            "R0650": {
+              "C0010": 0
+            },
+            "R0660": {
+              "C0010": 18313469.24
+            },
+            "R0670": {
+              "C0010": 2833589.56
+            },
+            "R0680": {
+              "C0010": 3158260366.81
+            },
+            "R0690": {
+              "C0010": 2654109952.08
+            },
+            "R0700": {
+              "C0010": 2534692817.74
+            },
+            "R0710": {
+              "C0010": 0
+            },
+            "R0720": {
+              "C0010": 2510760198.25
+            },
+            "R0730": {
+              "C0010": 22252619.45
+            },
+            "R0740": {
+              "C0010": 1680000.04
+            },
+            "R0750": {
+              "C0010": 119417134.34
+            },
+            "R0760": {
+              "C0010": 73787.2
+            },
+            "R0770": {
+              "C0010": 1106632.08
+            },
+            "R0780": {
+              "C0010": 60718944.25
+            },
+            "R0790": {
+              "C0010": 17148190.57
+            },
+            "R0800": {
+              "C0010": 40369580.24
+            },
+            "R0810": {
+              "C0010": 504150414.73
+            },
+            "R0820": {
+              "C0010": 174560447.46
+            },
+            "R0830": {
+              "C0010": 0
+            },
+            "R0840": {
+              "C0010": 167738024.8
+            },
+            "R0850": {
+              "C0010": 6735756
+            },
+            "R0860": {
+              "C0010": 86666.66
+            },
+            "R0870": {
+              "C0010": 329589967.27
+            },
+            "R0880": {
+              "C0010": 6699120.63
+            },
+            "R0890": {
+              "C0010": 117497352.07
+            },
+            "R0900": {
+              "C0010": 45025332.7
+            },
+            "R0910": {
+              "C0010": 160310843.25
+            },
+            "R0920": {
+              "C0010": 57318.62
+            }
+          }
+        }
+      }
+    },
+    "KTAS": {
+      "k-t05": {
+        "title": "Kunnan ja kuntayhtymän talousarvio ja -suunnitelma",
+        "columns": {
+          "C0010": "Laadintakauden talousarvio 202x-1 (mukaan lukien talousarviomuutokset)",
+          "C0020": "Talousarvio 202x",
+          "C0030": "Taloussuunnitelma\n202x+1",
+          "C0040": "Taloussuunnitelma\n202x+2"
+        },
+        "rows": [
+          {
+            "code": "R0020",
+            "label": "Toimintatulot"
+          },
+          {
+            "code": "R0030",
+            "label": "Myyntitulot"
+          },
+          {
+            "code": "R0040",
+            "label": "Maksutulot"
+          },
+          {
+            "code": "R0050",
+            "label": "Tuet ja avustukset"
+          },
+          {
+            "code": "R0060",
+            "label": "Muut toimintatulot"
+          },
+          {
+            "code": "R0070",
+            "label": "Valmistevarastojen muutos"
+          },
+          {
+            "code": "R0080",
+            "label": "Valmistus omaan käyttöön"
+          },
+          {
+            "code": "R0090",
+            "label": "Toimintamenot"
+          },
+          {
+            "code": "R0100",
+            "label": "Henkilöstömenot"
+          },
+          {
+            "code": "R0110",
+            "label": "Palvelujen ostot"
+          },
+          {
+            "code": "R0120",
+            "label": "Aineet, tarvikkeet ja tavarat"
+          },
+          {
+            "code": "R0130",
+            "label": "Avustukset"
+          },
+          {
+            "code": "R0140",
+            "label": "Muut toimintamenot"
+          },
+          {
+            "code": "R0150",
+            "label": "TOIMINTAKATE"
+          },
+          {
+            "code": "R0160",
+            "label": "Verotulot"
+          },
+          {
+            "code": "R0170",
+            "label": "Valtionosuudet"
+          },
+          {
+            "code": "R0180",
+            "label": "Rahoitustulot (+) ja -menot (-)"
+          },
+          {
+            "code": "R0190",
+            "label": "VUOSIKATE"
+          },
+          {
+            "code": "R0200",
+            "label": "Poistot ja arvonalentumiset"
+          },
+          {
+            "code": "R0210",
+            "label": "Satunnaiset erät"
+          },
+          {
+            "code": "R0220",
+            "label": "TILIKAUDEN TULOS"
+          },
+          {
+            "code": "R0230",
+            "label": "Tilinpäätössiirrot + (-)"
+          },
+          {
+            "code": "R0240",
+            "label": "TILIKAUDEN YLIJÄÄMÄ (ALIJÄÄMÄ)"
+          },
+          {
+            "code": "R0250",
+            "label": "Investointimenot yhteensä (brutto)"
+          },
+          {
+            "code": "R0260",
+            "label": "Aineettomat hyödykkeet"
+          },
+          {
+            "code": "R0270",
+            "label": "Maa- ja vesialueet"
+          },
+          {
+            "code": "R0280",
+            "label": "Rakennukset"
+          },
+          {
+            "code": "R0290",
+            "label": "Rakennukset: opetus- ja kulttuuritoimi"
+          },
+          {
+            "code": "R0300",
+            "label": "Rakennukset: sosiaali- ja terveystoimi"
+          },
+          {
+            "code": "R0310",
+            "label": "Rakennukset: muut"
+          },
+          {
+            "code": "R0320",
+            "label": "Kiinteät rakenteet ja laitteet"
+          },
+          {
+            "code": "R0330",
+            "label": "Koneet ja kalusto"
+          },
+          {
+            "code": "R0340",
+            "label": "Muut aineelliset hyödykkeet"
+          },
+          {
+            "code": "R0350",
+            "label": "Osakkeet ja osuudet"
+          },
+          {
+            "code": "R0360",
+            "label": "Rahoitusosuudet investointimenoihin"
+          },
+          {
+            "code": "R0370",
+            "label": "Investointihyödykkeiden luovutustulot (brutto)"
+          },
+          {
+            "code": "R0380",
+            "label": "Toiminnan ja investointien rahavirta"
+          },
+          {
+            "code": "R0390",
+            "label": "Lainakanta 31.12."
+          },
+          {
+            "code": "R0400",
+            "label": "Henkilötyövuodet"
+          },
+          {
+            "code": "R0410",
+            "label": "Tuloveroprosentti"
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0020": {
+              "C0010": 439464301.16,
+              "C0020": 492861980.47,
+              "C0030": 501341000,
+              "C0040": 506300000
+            },
+            "R0030": {
+              "C0010": 209473075.98,
+              "C0020": 226769134.7,
+              "C0030": 230670000,
+              "C0040": 232952000
+            },
+            "R0040": {
+              "C0010": 98328009.45,
+              "C0020": 97466496.45,
+              "C0030": 99143000,
+              "C0040": 100124000
+            },
+            "R0050": {
+              "C0010": 32592086.76,
+              "C0020": 32224742.85,
+              "C0030": 32779000,
+              "C0040": 33103000
+            },
+            "R0060": {
+              "C0010": 99071128.97,
+              "C0020": 136401606.47,
+              "C0030": 138749000,
+              "C0040": 140121000
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 3580000,
+              "C0020": 3080000,
+              "C0030": 3133000,
+              "C0040": 3164000
+            },
+            "R0090": {
+              "C0010": 1758599889.13,
+              "C0020": 1820133558.32,
+              "C0030": 1850835500,
+              "C0040": 1869145000
+            },
+            "R0100": {
+              "C0010": 638653268.35,
+              "C0020": 651388564.54,
+              "C0030": 662219000,
+              "C0040": 668768000
+            },
+            "R0110": {
+              "C0010": 854187859.67,
+              "C0020": 887680145.99,
+              "C0030": 902736000,
+              "C0040": 911666000
+            },
+            "R0120": {
+              "C0010": 64719712.2,
+              "C0020": 59162669.31,
+              "C0030": 60164000,
+              "C0040": 60759000
+            },
+            "R0130": {
+              "C0010": 121615968.81,
+              "C0020": 119316092.61,
+              "C0030": 121369000,
+              "C0040": 122569000
+            },
+            "R0140": {
+              "C0010": 79423080.1,
+              "C0020": 102586085.87,
+              "C0030": 104347500,
+              "C0040": 105383000
+            },
+            "R0150": {
+              "C0010": -1315555587.97,
+              "C0020": -1324191577.85,
+              "C0030": -1346361500,
+              "C0040": -1359681000
+            },
+            "R0160": {
+              "C0010": 1015900000,
+              "C0020": 1053700000,
+              "C0030": 1070000000,
+              "C0040": 1103000000
+            },
+            "R0170": {
+              "C0010": 376274000,
+              "C0020": 351919000,
+              "C0030": 340661000,
+              "C0040": 344661000
+            },
+            "R0180": {
+              "C0010": 26383600,
+              "C0020": 16419000,
+              "C0030": 18318000,
+              "C0040": 17607000
+            },
+            "R0190": {
+              "C0010": 103002012.03,
+              "C0020": 97846422.15,
+              "C0030": 82617500,
+              "C0040": 105587000
+            },
+            "R0200": {
+              "C0010": 112813872.24,
+              "C0020": 114740336.97,
+              "C0030": 121503000,
+              "C0040": 124494000
+            },
+            "R0210": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": -9811860.21,
+              "C0020": -16893914.82,
+              "C0030": -38885500,
+              "C0040": -18907000
+            },
+            "R0230": {
+              "C0010": 1175000,
+              "C0020": 2071000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0240": {
+              "C0010": -8636860.21,
+              "C0020": -14822914.82,
+              "C0030": -38885500,
+              "C0040": -18907000
+            },
+            "R0250": {
+              "C0010": 276941000.89,
+              "C0020": 271617000,
+              "C0030": 245662000,
+              "C0040": 256095000
+            },
+            "R0260": {
+              "C0010": 12406000,
+              "C0020": 8580000,
+              "C0030": 3750000,
+              "C0040": 3750000
+            },
+            "R0270": {
+              "C0010": 30289000,
+              "C0020": 30980000,
+              "C0030": 17600000,
+              "C0040": 20400000
+            },
+            "R0280": {
+              "C0010": 94364320.89,
+              "C0020": 111975000,
+              "C0030": 117405000,
+              "C0040": 118740000
+            },
+            "R0290": {
+              "C0010": 65532000.89,
+              "C0020": 94650000,
+              "C0030": 94305000,
+              "C0040": 101840000
+            },
+            "R0300": {
+              "C0010": 11878000,
+              "C0020": 3450000,
+              "C0030": 6200000,
+              "C0040": 6000000
+            },
+            "R0310": {
+              "C0010": 16954320,
+              "C0020": 13875000,
+              "C0030": 16900000,
+              "C0040": 10900000
+            },
+            "R0320": {
+              "C0010": 84259000,
+              "C0020": 90845000,
+              "C0030": 90425000,
+              "C0040": 94285000
+            },
+            "R0330": {
+              "C0010": 13438000,
+              "C0020": 13691000,
+              "C0030": 12336000,
+              "C0040": 14774000
+            },
+            "R0340": {
+              "C0010": 365000,
+              "C0020": 346000,
+              "C0030": 346000,
+              "C0040": 346000
+            },
+            "R0350": {
+              "C0010": 41819680,
+              "C0020": 15200000,
+              "C0030": 3800000,
+              "C0040": 3800000
+            },
+            "R0360": {
+              "C0010": 3010000,
+              "C0020": 637000,
+              "C0030": 62000,
+              "C0040": 62000
+            },
+            "R0370": {
+              "C0010": 46359173.75,
+              "C0020": 76958000,
+              "C0030": 18500000,
+              "C0040": 13600000
+            },
+            "R0380": {
+              "C0010": -145512338.29,
+              "C0020": -145935000,
+              "C0030": -159483000,
+              "C0040": -148846000
+            },
+            "R0390": {
+              "C0010": 900244290,
+              "C0020": 1050037000,
+              "C0030": 1192034000,
+              "C0040": 1325934000
+            },
+            "R0400": {
+              "C0010": 12600,
+              "C0020": 12975,
+              "C0030": 13000,
+              "C0040": 13000
+            },
+            "R0410": {
+              "C0030": 20.25,
+              "C0040": 20.25
+            }
+          },
+          "2022": {
+            "R0020": {
+              "C0010": 505260526.91,
+              "C0020": 503264587.39,
+              "C0030": 183476000,
+              "C0040": 192441000
+            },
+            "R0030": {
+              "C0010": 231824370.07,
+              "C0020": 238121349.92,
+              "C0030": 86812000,
+              "C0040": 91054000
+            },
+            "R0040": {
+              "C0010": 97758819.45,
+              "C0020": 84510353.45,
+              "C0030": 30810000,
+              "C0040": 32316000
+            },
+            "R0050": {
+              "C0010": 38682814.89,
+              "C0020": 36362158.59,
+              "C0030": 13257000,
+              "C0040": 13904000
+            },
+            "R0060": {
+              "C0010": 136994522.5,
+              "C0020": 144270725.43,
+              "C0030": 52597000,
+              "C0040": 55167000
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 5177200,
+              "C0020": 3610000,
+              "C0030": 1316000,
+              "C0040": 1380000
+            },
+            "R0090": {
+              "C0010": 1861926540.96,
+              "C0020": 1922692587.39,
+              "C0030": 700958000,
+              "C0040": 735209500
+            },
+            "R0100": {
+              "C0010": 669166550,
+              "C0020": 696527849.43,
+              "C0030": 253934000,
+              "C0040": 266342000
+            },
+            "R0110": {
+              "C0010": 928590449.18,
+              "C0020": 951134553.57,
+              "C0030": 346756000,
+              "C0040": 363700000
+            },
+            "R0120": {
+              "C0010": 62333242.1,
+              "C0020": 59225059.47,
+              "C0030": 21592500,
+              "C0040": 22647000
+            },
+            "R0130": {
+              "C0010": 99537264.82,
+              "C0020": 98886114.82,
+              "C0030": 36050000,
+              "C0040": 37813000
+            },
+            "R0140": {
+              "C0010": 102299034.86,
+              "C0020": 116919010.1,
+              "C0030": 42625500,
+              "C0040": 44707500
+            },
+            "R0150": {
+              "C0010": -1351488814.05,
+              "C0020": -1415818000,
+              "C0030": -516166000,
+              "C0040": -541388500
+            },
+            "R0160": {
+              "C0010": 1101000000,
+              "C0020": 1115800000,
+              "C0030": 597200000,
+              "C0040": 582500000
+            },
+            "R0170": {
+              "C0010": 360174000,
+              "C0020": 366636000,
+              "C0030": 22533000,
+              "C0040": 39211000
+            },
+            "R0180": {
+              "C0010": 15419000,
+              "C0020": 17014000,
+              "C0030": 14643000,
+              "C0040": 15075000
+            },
+            "R0190": {
+              "C0010": 125104185.95,
+              "C0020": 83632000,
+              "C0030": 118210000,
+              "C0040": 95397500
+            },
+            "R0200": {
+              "C0010": 114709336.97,
+              "C0020": 110268912,
+              "C0030": 113594000,
+              "C0040": 118004500
+            },
+            "R0210": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": 10394848.98,
+              "C0020": -26636912,
+              "C0030": 4616000,
+              "C0040": -22607000
+            },
+            "R0230": {
+              "C0010": 2071000,
+              "C0020": 2071000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0240": {
+              "C0010": 12465848.98,
+              "C0020": -24565912,
+              "C0030": 4616000,
+              "C0040": -22607000
+            },
+            "R0250": {
+              "C0010": 294499186,
+              "C0020": 234994000,
+              "C0030": 257237000,
+              "C0040": 239489000
+            },
+            "R0260": {
+              "C0010": 11580186,
+              "C0020": 7250000,
+              "C0030": 8670000,
+              "C0040": 7870000
+            },
+            "R0270": {
+              "C0010": 34600000,
+              "C0020": 21110000,
+              "C0030": 11265000,
+              "C0040": 13992500
+            },
+            "R0280": {
+              "C0010": 118584113,
+              "C0020": 98396000,
+              "C0030": 123572000,
+              "C0040": 103383000
+            },
+            "R0290": {
+              "C0010": 100006000,
+              "C0020": 83221000,
+              "C0030": 114417000,
+              "C0040": 95333000
+            },
+            "R0300": {
+              "C0010": 5431000,
+              "C0020": 950000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0310": {
+              "C0010": 13147113,
+              "C0020": 14225000,
+              "C0030": 9155000,
+              "C0040": 8050000
+            },
+            "R0320": {
+              "C0010": 96172887,
+              "C0020": 90499000,
+              "C0030": 95405000,
+              "C0040": 102991000
+            },
+            "R0330": {
+              "C0010": 12991000,
+              "C0020": 13449000,
+              "C0030": 14335000,
+              "C0040": 8762500
+            },
+            "R0340": {
+              "C0010": 371000,
+              "C0020": 190000,
+              "C0030": 190000,
+              "C0040": 190000
+            },
+            "R0350": {
+              "C0010": 20200000,
+              "C0020": 4100000,
+              "C0030": 3800000,
+              "C0040": 2300000
+            },
+            "R0360": {
+              "C0010": 2695000,
+              "C0020": 355000,
+              "C0030": 1375000,
+              "C0040": 150000
+            },
+            "R0370": {
+              "C0010": 76458000,
+              "C0020": 68950000,
+              "C0030": 26284000,
+              "C0040": 10560000
+            },
+            "R0380": {
+              "C0010": -140001086,
+              "C0020": -136003000,
+              "C0030": -133064000,
+              "C0040": -142592000
+            },
+            "R0390": {
+              "C0010": 975037269,
+              "C0020": 1077704000,
+              "C0030": 1198872000,
+              "C0040": 1340564000
+            },
+            "R0400": {
+              "C0010": 13000,
+              "C0020": 13600,
+              "C0030": 8000,
+              "C0040": 8000
+            },
+            "R0410": {
+              "C0030": 7.86,
+              "C0040": 7.86
+            }
+          },
+          "2023": {
+            "R0020": {
+              "C0010": 487325112.91,
+              "C0020": 345312605.36,
+              "C0030": 348987184.61,
+              "C0040": 352637898.12
+            },
+            "R0030": {
+              "C0010": 235281772.26,
+              "C0020": 161949293.43,
+              "C0030": 163674053.41,
+              "C0040": 165417182.07
+            },
+            "R0040": {
+              "C0010": 96271077.82,
+              "C0020": 35023766.37,
+              "C0030": 35393769.48,
+              "C0040": 35704713.13
+            },
+            "R0050": {
+              "C0010": 43371845.11,
+              "C0020": 31714910.77,
+              "C0030": 32052674.57,
+              "C0040": 32394035.55
+            },
+            "R0060": {
+              "C0010": 112400417.72,
+              "C0020": 116624634.79,
+              "C0030": 117866687.15,
+              "C0040": 119121967.37
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 5766841,
+              "C0020": 5110000,
+              "C0030": 5176430,
+              "C0040": 5243723.59
+            },
+            "R0090": {
+              "C0010": 1948188161.91,
+              "C0020": 942554605.36,
+              "C0030": 954807815.23,
+              "C0040": 967220316.83
+            },
+            "R0100": {
+              "C0010": 704056863.82,
+              "C0020": 431145082.58,
+              "C0030": 436749968.65,
+              "C0040": 442427718.25
+            },
+            "R0110": {
+              "C0010": 969100052.69,
+              "C0020": 309380543.3,
+              "C0030": 313402490.36,
+              "C0040": 317476722.74
+            },
+            "R0120": {
+              "C0010": 60118293.09,
+              "C0020": 40620048.21,
+              "C0030": 41148108.84,
+              "C0040": 41683034.25
+            },
+            "R0130": {
+              "C0010": 98485775.57,
+              "C0020": 65978034,
+              "C0030": 66835748.44,
+              "C0040": 67704613.17
+            },
+            "R0140": {
+              "C0010": 116427176.74,
+              "C0020": 95430897.27,
+              "C0030": 96671498.94,
+              "C0040": 97928228.42
+            },
+            "R0150": {
+              "C0010": -1455096208,
+              "C0020": -592132000,
+              "C0030": -600644200.62,
+              "C0040": -609338695.12
+            },
+            "R0160": {
+              "C0010": 1184300000,
+              "C0020": 630000000,
+              "C0030": 615500000,
+              "C0040": 630000000
+            },
+            "R0170": {
+              "C0010": 370578000,
+              "C0020": 61896000,
+              "C0030": 81547000,
+              "C0040": 76163000
+            },
+            "R0180": {
+              "C0010": 17014000,
+              "C0020": 27183000,
+              "C0030": 12649000,
+              "C0040": 9441000
+            },
+            "R0190": {
+              "C0010": 116795792,
+              "C0020": 126947000,
+              "C0030": 109051799.38,
+              "C0040": 106265304.88
+            },
+            "R0200": {
+              "C0010": 110111912,
+              "C0020": 126947000,
+              "C0030": 133417000,
+              "C0040": 135502000
+            },
+            "R0210": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": 6683880,
+              "C0020": 0,
+              "C0030": -24365200.62,
+              "C0040": -29236695.12
+            },
+            "R0230": {
+              "C0010": 2071000,
+              "C0020": 2071000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0240": {
+              "C0010": 8754880,
+              "C0020": 2071000,
+              "C0030": -24365200.62,
+              "C0040": -29236695.12
+            },
+            "R0250": {
+              "C0010": 289879200,
+              "C0020": 226641000,
+              "C0030": 232196000,
+              "C0040": 247462000
+            },
+            "R0260": {
+              "C0010": 11123200,
+              "C0020": 6650000,
+              "C0030": 6150000,
+              "C0040": 6850000
+            },
+            "R0270": {
+              "C0010": 41290000,
+              "C0020": 17660000,
+              "C0030": 14950000,
+              "C0040": 6700000
+            },
+            "R0280": {
+              "C0010": 122874000,
+              "C0020": 111221000,
+              "C0030": 108726000,
+              "C0040": 120942000
+            },
+            "R0290": {
+              "C0010": 120160000,
+              "C0020": 108591000,
+              "C0030": 105526000,
+              "C0040": 114742000
+            },
+            "R0300": {
+              "C0010": 1034000,
+              "C0020": 1000000,
+              "C0030": 1400000,
+              "C0040": 500000
+            },
+            "R0310": {
+              "C0010": 1680000,
+              "C0020": 1630000,
+              "C0030": 1800000,
+              "C0040": 5700000
+            },
+            "R0320": {
+              "C0010": 96380000,
+              "C0020": 76150000,
+              "C0030": 87670000,
+              "C0040": 97400000
+            },
+            "R0330": {
+              "C0010": 13922000,
+              "C0020": 10370000,
+              "C0030": 12450000,
+              "C0040": 12880000
+            },
+            "R0340": {
+              "C0010": 190000,
+              "C0020": 190000,
+              "C0030": 350000,
+              "C0040": 290000
+            },
+            "R0350": {
+              "C0010": 4100000,
+              "C0020": 4400000,
+              "C0030": 1900000,
+              "C0040": 2400000
+            },
+            "R0360": {
+              "C0010": 505000,
+              "C0020": 4450000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0370": {
+              "C0010": 20125000,
+              "C0020": 29920000,
+              "C0030": 29900000,
+              "C0040": 29900000
+            },
+            "R0380": {
+              "C0010": -171629644.6,
+              "C0020": -86243706,
+              "C0030": -113144000,
+              "C0040": -131196000
+            },
+            "R0390": {
+              "C0010": 937704123,
+              "C0020": 932020000,
+              "C0030": 1038805000,
+              "C0040": 1163161000
+            },
+            "R0400": {
+              "C0010": 13300,
+              "C0020": 8300,
+              "C0030": 8300,
+              "C0040": 8300
+            },
+            "R0410": {
+              "C0030": 7.61,
+              "C0040": 7.61
+            }
+          },
+          "2024": {
+            "R0020": {
+              "C0010": 365281927.59,
+              "C0020": 350256374.58,
+              "C0030": 335724502.07,
+              "C0040": 340888992.12
+            },
+            "R0030": {
+              "C0010": 162353165.66,
+              "C0020": 96755900.68,
+              "C0030": 119334018.69,
+              "C0040": 122020699.07
+            },
+            "R0040": {
+              "C0010": 35559784.94,
+              "C0020": 46166610.03,
+              "C0030": 39189942.23,
+              "C0040": 38173741.08
+            },
+            "R0050": {
+              "C0010": 36696649.21,
+              "C0020": 29718152.49,
+              "C0030": 30312515.54,
+              "C0040": 30918765.85
+            },
+            "R0060": {
+              "C0010": 130672327.78,
+              "C0020": 177615711.38,
+              "C0030": 146888025.61,
+              "C0040": 149775786.12
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 5373909.89,
+              "C0020": 128681.89,
+              "C0030": 131255.53,
+              "C0040": 133880.64
+            },
+            "R0090": {
+              "C0010": 978042065.53,
+              "C0020": 983446056.47,
+              "C0030": 1075783877.6,
+              "C0040": 1095427755.15
+            },
+            "R0100": {
+              "C0010": 449364127.88,
+              "C0020": 452733457.76,
+              "C0030": 460592026.92,
+              "C0040": 468973227.45
+            },
+            "R0110": {
+              "C0010": 326596459.66,
+              "C0020": 334176581.39,
+              "C0030": 396114113.02,
+              "C0040": 403371535.28
+            },
+            "R0120": {
+              "C0010": 41592856.6,
+              "C0020": 32501171.07,
+              "C0030": 33151194.49,
+              "C0040": 33814218.38
+            },
+            "R0130": {
+              "C0010": 64310592.2,
+              "C0020": 64787482.2,
+              "C0030": 84694231.84,
+              "C0040": 86011816.48
+            },
+            "R0140": {
+              "C0010": 96178029.19,
+              "C0020": 99247364.05,
+              "C0030": 101232311.33,
+              "C0040": 103256957.56
+            },
+            "R0150": {
+              "C0010": -607386228.05,
+              "C0020": -633061000,
+              "C0030": -739928120,
+              "C0040": -754404882.39
+            },
+            "R0160": {
+              "C0010": 679000000,
+              "C0020": 643500000,
+              "C0030": 664000000,
+              "C0040": 694000000
+            },
+            "R0170": {
+              "C0010": 56164000,
+              "C0020": 79990000,
+              "C0030": 135908000,
+              "C0040": 137908000
+            },
+            "R0180": {
+              "C0010": 23984000,
+              "C0020": 25369000,
+              "C0030": 24069000,
+              "C0040": 21667000
+            },
+            "R0190": {
+              "C0010": 151761771.95,
+              "C0020": 115798000,
+              "C0030": 84048880,
+              "C0040": 99170117.61
+            },
+            "R0200": {
+              "C0010": 128836000,
+              "C0020": 128738000,
+              "C0030": 126894000,
+              "C0040": 125252000
+            },
+            "R0210": {
+              "C0010": 0,
+              "C0020": 165500000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": 22925771.95,
+              "C0020": 152560000,
+              "C0030": -42845120,
+              "C0040": -26081882.39
+            },
+            "R0230": {
+              "C0010": 2071000,
+              "C0020": 1175000,
+              "C0030": 1175000,
+              "C0040": 1175000
+            },
+            "R0240": {
+              "C0010": 24996771.95,
+              "C0020": 153735000,
+              "C0030": -41670120,
+              "C0040": -24906882.39
+            },
+            "R0250": {
+              "C0010": 287681732,
+              "C0020": 285499167,
+              "C0030": 233146000,
+              "C0040": 245212000
+            },
+            "R0260": {
+              "C0010": 10212732,
+              "C0020": 14600000,
+              "C0030": 14220000,
+              "C0040": 15220000
+            },
+            "R0270": {
+              "C0010": 21885000,
+              "C0020": 15650000,
+              "C0030": 15800000,
+              "C0040": 10800000
+            },
+            "R0280": {
+              "C0010": 129044000,
+              "C0020": 128717167,
+              "C0030": 116556000,
+              "C0040": 122252000
+            },
+            "R0290": {
+              "C0010": 127994000,
+              "C0020": 99117167,
+              "C0030": 115306000,
+              "C0040": 122202000
+            },
+            "R0300": {
+              "C0010": 1000000,
+              "C0020": 26450000,
+              "C0030": 100000,
+              "C0040": 0
+            },
+            "R0310": {
+              "C0010": 50000,
+              "C0020": 3150000,
+              "C0030": 1150000,
+              "C0040": 50000
+            },
+            "R0320": {
+              "C0010": 94748000,
+              "C0020": 61810000,
+              "C0030": 75290000,
+              "C0040": 75060000
+            },
+            "R0330": {
+              "C0010": 16384000,
+              "C0020": 10822000,
+              "C0030": 8730000,
+              "C0040": 18930000
+            },
+            "R0340": {
+              "C0010": 200000,
+              "C0020": 200000,
+              "C0030": 150000,
+              "C0040": 150000
+            },
+            "R0350": {
+              "C0010": 15208000,
+              "C0020": 53700000,
+              "C0030": 2400000,
+              "C0040": 2800000
+            },
+            "R0360": {
+              "C0010": 4625500,
+              "C0020": 2386000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0370": {
+              "C0010": 29420000,
+              "C0020": 450887000,
+              "C0030": 29900000,
+              "C0040": 29900000
+            },
+            "R0380": {
+              "C0010": -122794000,
+              "C0020": 229141000,
+              "C0030": -139197000,
+              "C0040": -136142000
+            },
+            "R0390": {
+              "C0010": 932020000,
+              "C0020": 923547000,
+              "C0030": 1063833000,
+              "C0040": 1204060000
+            },
+            "R0400": {
+              "C0010": 8280,
+              "C0020": 8285,
+              "C0030": 8700,
+              "C0040": 8700
+            },
+            "R0410": {
+              "C0030": 7.6,
+              "C0040": 7.6
+            }
+          },
+          "2025": {
+            "R0020": {
+              "C0010": 353158778.8,
+              "C0020": 381086387.73,
+              "C0030": 335906555.48,
+              "C0040": 349282026.59
+            },
+            "R0030": {
+              "C0010": 96166288.68,
+              "C0020": 126104543.66,
+              "C0030": 128524634.53,
+              "C0040": 131545127.22
+            },
+            "R0040": {
+              "C0010": 46412080.38,
+              "C0020": 39681513.38,
+              "C0030": 38375143.65,
+              "C0040": 39142646.52
+            },
+            "R0050": {
+              "C0010": 32517415.5,
+              "C0020": 25786409.45,
+              "C0030": 26302137.64,
+              "C0040": 26828180.39
+            },
+            "R0060": {
+              "C0010": 178062994.24,
+              "C0020": 189513921.24,
+              "C0030": 142704639.66,
+              "C0040": 151766072.46
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 426051.78,
+              "C0020": 143363.78,
+              "C0030": 146231.06,
+              "C0040": 149155.68
+            },
+            "R0090": {
+              "C0010": 994283633.58,
+              "C0020": 1094543751.51,
+              "C0030": 1115178086.55,
+              "C0040": 1138623448.27
+            },
+            "R0100": {
+              "C0010": 463300115.02,
+              "C0020": 487726364.43,
+              "C0030": 496233851.72,
+              "C0040": 507309828.75
+            },
+            "R0110": {
+              "C0010": 333356052.04,
+              "C0020": 380344725.91,
+              "C0030": 387942120.43,
+              "C0040": 395691462.84
+            },
+            "R0120": {
+              "C0010": 32554177.49,
+              "C0020": 24229766.76,
+              "C0030": 24714362.1,
+              "C0040": 25208649.34
+            },
+            "R0130": {
+              "C0010": 64610950,
+              "C0020": 97011897,
+              "C0030": 98952134.94,
+              "C0040": 100931177.64
+            },
+            "R0140": {
+              "C0010": 100462339.03,
+              "C0020": 105230997.41,
+              "C0030": 107335617.36,
+              "C0040": 109482329.7
+            },
+            "R0150": {
+              "C0010": -640698803,
+              "C0020": -713314000,
+              "C0030": -779125300.01,
+              "C0040": -789192266
+            },
+            "R0160": {
+              "C0010": 643500000,
+              "C0020": 668000000,
+              "C0030": 696500000,
+              "C0040": 727000000
+            },
+            "R0170": {
+              "C0010": 80845000,
+              "C0020": 115978000,
+              "C0030": 130000000,
+              "C0040": 137000000
+            },
+            "R0180": {
+              "C0010": 25369000,
+              "C0020": 24456000,
+              "C0030": 19780000,
+              "C0040": 16052000
+            },
+            "R0190": {
+              "C0010": 109015197,
+              "C0020": 95120000,
+              "C0030": 67154699.99,
+              "C0040": 90859734
+            },
+            "R0200": {
+              "C0010": 128546000,
+              "C0020": 134705000,
+              "C0030": 131598000,
+              "C0040": 130140000
+            },
+            "R0210": {
+              "C0010": 204294000,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": 184763197,
+              "C0020": -39585000,
+              "C0030": -64443300.01,
+              "C0040": -39280266
+            },
+            "R0230": {
+              "C0010": 13710000,
+              "C0020": 1175000,
+              "C0030": 1175000,
+              "C0040": 1175000
+            },
+            "R0240": {
+              "C0010": 198473197,
+              "C0020": -38410000,
+              "C0030": -63268300.01,
+              "C0040": -38105266
+            },
+            "R0250": {
+              "C0010": 360449655,
+              "C0020": 226922000,
+              "C0030": 267393000,
+              "C0040": 266600000
+            },
+            "R0260": {
+              "C0010": 17821488,
+              "C0020": 17255000,
+              "C0030": 15684000,
+              "C0040": 15640000
+            },
+            "R0270": {
+              "C0010": 20050000,
+              "C0020": 17110000,
+              "C0030": 24460000,
+              "C0040": 15900000
+            },
+            "R0280": {
+              "C0010": 153696167,
+              "C0020": 85132000,
+              "C0030": 119062000,
+              "C0040": 136542000
+            },
+            "R0290": {
+              "C0010": 123830167,
+              "C0020": 84682000,
+              "C0030": 117912000,
+              "C0040": 136492000
+            },
+            "R0300": {
+              "C0010": 27516000,
+              "C0020": 100000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0310": {
+              "C0010": 2350000,
+              "C0020": 350000,
+              "C0030": 1150000,
+              "C0040": 50000
+            },
+            "R0320": {
+              "C0010": 65529000,
+              "C0020": 80405000,
+              "C0030": 99251000,
+              "C0040": 85948000
+            },
+            "R0330": {
+              "C0010": 14254000,
+              "C0020": 7400000,
+              "C0030": 7136000,
+              "C0040": 10770000
+            },
+            "R0340": {
+              "C0010": 218000,
+              "C0020": 200000,
+              "C0030": 200000,
+              "C0040": 200000
+            },
+            "R0350": {
+              "C0010": 88881000,
+              "C0020": 19420000,
+              "C0030": 1600000,
+              "C0040": 1600000
+            },
+            "R0360": {
+              "C0010": 2647291,
+              "C0020": 1900000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0370": {
+              "C0010": 279760000,
+              "C0020": 97603000,
+              "C0030": 22055000,
+              "C0040": 28800000
+            },
+            "R0380": {
+              "C0010": 235266833,
+              "C0020": -102526630,
+              "C0030": -198916300,
+              "C0040": -174355266
+            },
+            "R0390": {
+              "C0010": 953547000,
+              "C0020": 1043166000,
+              "C0030": 1245727000,
+              "C0040": 1418269000
+            },
+            "R0400": {
+              "C0010": 8285,
+              "C0020": 8467,
+              "C0030": 8400,
+              "C0040": 8400
+            },
+            "R0410": {
+              "C0030": 7.6,
+              "C0040": 7.6
+            }
+          },
+          "2026": {
+            "R0020": {
+              "C0010": 376580502.84,
+              "C0020": 351005768.89,
+              "C0030": 349808081.21,
+              "C0040": 353984162
+            },
+            "R0030": {
+              "C0010": 129623478.67,
+              "C0020": 130436282.67,
+              "C0030": 134900645.5,
+              "C0040": 138044651.95
+            },
+            "R0040": {
+              "C0010": 37474597.58,
+              "C0020": 43298311.58,
+              "C0030": 44291294.7,
+              "C0040": 44734207.64
+            },
+            "R0050": {
+              "C0010": 26718600.39,
+              "C0020": 24198538.24,
+              "C0030": 24940523.62,
+              "C0040": 25689928.86
+            },
+            "R0060": {
+              "C0010": 182763826.2,
+              "C0020": 153072636.4,
+              "C0030": 145675617.39,
+              "C0040": 145515373.55
+            },
+            "R0070": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0080": {
+              "C0010": 467933.79,
+              "C0020": 79181.89,
+              "C0030": 79181.89,
+              "C0040": 79181.89
+            },
+            "R0090": {
+              "C0010": 1100470649.47,
+              "C0020": 1116811950.78,
+              "C0030": 1146065147.65,
+              "C0040": 1170161992.04
+            },
+            "R0100": {
+              "C0010": 484664366.95,
+              "C0020": 497809600.81,
+              "C0030": 513970451.56,
+              "C0040": 528010638.98
+            },
+            "R0110": {
+              "C0010": 389043078.94,
+              "C0020": 387447350.26,
+              "C0030": 392394146.38,
+              "C0040": 394853797.85
+            },
+            "R0120": {
+              "C0010": 26449690.01,
+              "C0020": 23693827.63,
+              "C0030": 23930765.91,
+              "C0040": 24170073.57
+            },
+            "R0130": {
+              "C0010": 96300201,
+              "C0020": 98548636,
+              "C0030": 99434122.36,
+              "C0040": 100428463.58
+            },
+            "R0140": {
+              "C0010": 104013312.57,
+              "C0020": 109312536.08,
+              "C0030": 116335661.44,
+              "C0040": 122699018.06
+            },
+            "R0150": {
+              "C0010": -723422212.84,
+              "C0020": -765727000,
+              "C0030": -796177884.55,
+              "C0040": -816098648.15
+            },
+            "R0160": {
+              "C0010": 646000000,
+              "C0020": 687000000,
+              "C0030": 715000000,
+              "C0040": 742000000
+            },
+            "R0170": {
+              "C0010": 124217000,
+              "C0020": 142485000,
+              "C0030": 148715000,
+              "C0040": 162951000
+            },
+            "R0180": {
+              "C0010": 24456000,
+              "C0020": 32501000,
+              "C0030": 28881000,
+              "C0040": 24305000
+            },
+            "R0190": {
+              "C0010": 71250787.16,
+              "C0020": 96259000,
+              "C0030": 96418115.45,
+              "C0040": 113157351.85
+            },
+            "R0200": {
+              "C0010": 139352000,
+              "C0020": 137675000,
+              "C0030": 133455000,
+              "C0040": 140316000
+            },
+            "R0210": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0220": {
+              "C0010": -68101212.84,
+              "C0020": -41416000,
+              "C0030": -37036884.55,
+              "C0040": -27158648.15
+            },
+            "R0230": {
+              "C0010": 1175000,
+              "C0020": 1175000,
+              "C0030": 1175000,
+              "C0040": 1175000
+            },
+            "R0240": {
+              "C0010": -66926212.84,
+              "C0020": -40241000,
+              "C0030": -35861884.55,
+              "C0040": -25983648.15
+            },
+            "R0250": {
+              "C0010": 241053787,
+              "C0020": 232024000,
+              "C0030": 232666000,
+              "C0040": 249930000
+            },
+            "R0260": {
+              "C0010": 17518787,
+              "C0020": 5560000,
+              "C0030": 5560000,
+              "C0040": 13500000
+            },
+            "R0270": {
+              "C0010": 15010000,
+              "C0020": 10460000,
+              "C0030": 16030000,
+              "C0040": 18210000
+            },
+            "R0280": {
+              "C0010": 96610000,
+              "C0020": 105393000,
+              "C0030": 116007000,
+              "C0040": 120670000
+            },
+            "R0290": {
+              "C0010": 95230000,
+              "C0020": 103193000,
+              "C0030": 113807000,
+              "C0040": 119970000
+            },
+            "R0300": {
+              "C0010": 180000,
+              "C0020": 300000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0310": {
+              "C0010": 1200000,
+              "C0020": 1900000,
+              "C0030": 2200000,
+              "C0040": 700000
+            },
+            "R0320": {
+              "C0010": 74891000,
+              "C0020": 78857000,
+              "C0030": 80135000,
+              "C0040": 83300000
+            },
+            "R0330": {
+              "C0010": 8981000,
+              "C0020": 9535000,
+              "C0030": 7550000,
+              "C0040": 11700000
+            },
+            "R0340": {
+              "C0010": 196000,
+              "C0020": 143000,
+              "C0030": 200000,
+              "C0040": 200000
+            },
+            "R0350": {
+              "C0010": 27847000,
+              "C0020": 22076000,
+              "C0030": 7184000,
+              "C0040": 2350000
+            },
+            "R0360": {
+              "C0010": 3146000,
+              "C0020": 1300000,
+              "C0030": 0,
+              "C0040": 0
+            },
+            "R0370": {
+              "C0010": 100262000,
+              "C0020": 39970000,
+              "C0030": 28500000,
+              "C0040": 25000000
+            },
+            "R0380": {
+              "C0010": -131662000,
+              "C0020": -130039000,
+              "C0030": -134364885,
+              "C0040": -136772648
+            },
+            "R0390": {
+              "C0010": 1063166000,
+              "C0020": 1207840000,
+              "C0030": 1360381000,
+              "C0040": 1515614000
+            },
+            "R0400": {
+              "C0010": 8420,
+              "C0020": 8342,
+              "C0030": 8267,
+              "C0040": 8267
+            },
+            "R0410": {
+              "C0030": 7.6,
+              "C0040": 7.6
+            }
+          }
+        }
+      }
+    },
+    "KTPE": {
+      "k-t25": {
+        "title": "Kunnan ja kuntayhtymän puolivuosiraportoinnin yhteydessä esitettävä tilinpäätösennuste",
+        "columns": {
+          "C0010": "Tilikauden tilinpäätösennuste"
+        },
+        "rows": [
+          {
+            "code": "R0020",
+            "label": "Toimintatuotot"
+          },
+          {
+            "code": "R0030",
+            "label": "Myyntituotot"
+          },
+          {
+            "code": "R0040",
+            "label": "Maksutuotot"
+          },
+          {
+            "code": "R0050",
+            "label": "Tuet ja avustukset"
+          },
+          {
+            "code": "R0060",
+            "label": "Muut toimintatuotot"
+          },
+          {
+            "code": "R0070",
+            "label": "Valmistevarastojen muutos"
+          },
+          {
+            "code": "R0080",
+            "label": "Valmistus omaan käyttöön"
+          },
+          {
+            "code": "R0090",
+            "label": "Toimintakulut"
+          },
+          {
+            "code": "R0100",
+            "label": "Henkilöstökulut"
+          },
+          {
+            "code": "R0110",
+            "label": "Palvelujen ostot"
+          },
+          {
+            "code": "R0120",
+            "label": "Aineet, tarvikkeet ja tavarat"
+          },
+          {
+            "code": "R0130",
+            "label": "Avustukset"
+          },
+          {
+            "code": "R0140",
+            "label": "Muut toimintakulut"
+          },
+          {
+            "code": "R0150",
+            "label": "TOIMINTAKATE"
+          },
+          {
+            "code": "R0160",
+            "label": "Verotulot"
+          },
+          {
+            "code": "R0170",
+            "label": "Valtionosuudet"
+          },
+          {
+            "code": "R0180",
+            "label": "Rahoitustuotot (+) ja -kulut (-)"
+          },
+          {
+            "code": "R0190",
+            "label": "VUOSIKATE"
+          },
+          {
+            "code": "R0200",
+            "label": "Poistot ja arvonalentumiset"
+          },
+          {
+            "code": "R0210",
+            "label": "Satunnaiset erät"
+          },
+          {
+            "code": "R0220",
+            "label": "TILIKAUDEN TULOS"
+          },
+          {
+            "code": "R0230",
+            "label": "Tilinpäätössiirrot + (-)"
+          },
+          {
+            "code": "R0240",
+            "label": "TILIKAUDEN YLIJÄÄMÄ (ALIJÄÄMÄ)"
+          },
+          {
+            "code": "R0250",
+            "label": "Investointimenot yhteensä (brutto)"
+          },
+          {
+            "code": "R0260",
+            "label": "Aineettomat hyödykkeet"
+          },
+          {
+            "code": "R0270",
+            "label": "Maa- ja vesialueet"
+          },
+          {
+            "code": "R0280",
+            "label": "Rakennukset"
+          },
+          {
+            "code": "R0290",
+            "label": "Rakennukset: opetus- ja kulttuuritoimi"
+          },
+          {
+            "code": "R0300",
+            "label": "Rakennukset: sosiaali- ja terveystoimi"
+          },
+          {
+            "code": "R0310",
+            "label": "Rakennukset: muut"
+          },
+          {
+            "code": "R0320",
+            "label": "Kiinteät rakenteet ja laitteet"
+          },
+          {
+            "code": "R0330",
+            "label": "Koneet ja kalusto"
+          },
+          {
+            "code": "R0340",
+            "label": "Muut aineelliset hyödykkeet"
+          },
+          {
+            "code": "R0350",
+            "label": "Osakkeet ja osuudet"
+          },
+          {
+            "code": "R0360",
+            "label": "Rahoitusosuudet investointimenoihin"
+          },
+          {
+            "code": "R0370",
+            "label": "Investointihyödykkeiden luovutustulot (brutto)"
+          },
+          {
+            "code": "R0380",
+            "label": "Toiminnan ja investointien rahavirta"
+          },
+          {
+            "code": "R0390",
+            "label": "Lainakanta 31.12."
+          },
+          {
+            "code": "R0400",
+            "label": "Henkilötyövuodet"
+          },
+          {
+            "code": "R0410",
+            "label": "Tuloveroprosentti"
+          }
+        ],
+        "values": {
+          "2021": {
+            "R0020": {
+              "C0010": 505624048.67
+            },
+            "R0030": {
+              "C0010": 218514366.89
+            },
+            "R0040": {
+              "C0010": 95937818.45
+            },
+            "R0050": {
+              "C0010": 41996185.33
+            },
+            "R0060": {
+              "C0010": 149175678
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 5177200
+            },
+            "R0090": {
+              "C0010": 1881341949.35
+            },
+            "R0100": {
+              "C0010": 662854479.55
+            },
+            "R0110": {
+              "C0010": 950339679.61
+            },
+            "R0120": {
+              "C0010": 64165746.97
+            },
+            "R0130": {
+              "C0010": 100584265.57
+            },
+            "R0140": {
+              "C0010": 103397777.65
+            },
+            "R0150": {
+              "C0010": -1370540700.68
+            },
+            "R0160": {
+              "C0010": 1080000000
+            },
+            "R0170": {
+              "C0010": 354628866
+            },
+            "R0180": {
+              "C0010": 17232000
+            },
+            "R0190": {
+              "C0010": 81320165.32
+            },
+            "R0200": {
+              "C0010": 110922602.97
+            },
+            "R0210": {
+              "C0010": 0
+            },
+            "R0220": {
+              "C0010": -29602437.65
+            },
+            "R0230": {
+              "C0010": 2071000
+            },
+            "R0240": {
+              "C0010": -27531437.65
+            },
+            "R0250": {
+              "C0010": 263483200
+            },
+            "R0260": {
+              "C0010": 11668200
+            },
+            "R0270": {
+              "C0010": 22045000
+            },
+            "R0280": {
+              "C0010": 98126113
+            },
+            "R0290": {
+              "C0010": 84230000
+            },
+            "R0300": {
+              "C0010": 4240000
+            },
+            "R0310": {
+              "C0010": 9656113
+            },
+            "R0320": {
+              "C0010": 98172887
+            },
+            "R0330": {
+              "C0010": 12900000
+            },
+            "R0340": {
+              "C0010": 371000
+            },
+            "R0350": {
+              "C0010": 20200000
+            },
+            "R0360": {
+              "C0010": 3808400
+            },
+            "R0370": {
+              "C0010": 98169180
+            },
+            "R0380": {
+              "C0010": -134461140.68
+            },
+            "R0390": {
+              "C0010": 981104891
+            },
+            "R0400": {
+              "C0010": 13084
+            }
+          },
+          "2022": {
+            "R0020": {
+              "C0010": 535190221.92
+            },
+            "R0030": {
+              "C0010": 238442621.54
+            },
+            "R0040": {
+              "C0010": 93390878.23
+            },
+            "R0050": {
+              "C0010": 51644151.36
+            },
+            "R0060": {
+              "C0010": 151712570.79
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 5766841
+            },
+            "R0090": {
+              "C0010": 1963002239.14
+            },
+            "R0100": {
+              "C0010": 692982982.46
+            },
+            "R0110": {
+              "C0010": 986838313.21
+            },
+            "R0120": {
+              "C0010": 62283315.45
+            },
+            "R0130": {
+              "C0010": 104176776.57
+            },
+            "R0140": {
+              "C0010": 116720851.45
+            },
+            "R0150": {
+              "C0010": -1422045176.22
+            },
+            "R0160": {
+              "C0010": 1160000000
+            },
+            "R0170": {
+              "C0010": 371805000
+            },
+            "R0180": {
+              "C0010": 16408390
+            },
+            "R0190": {
+              "C0010": 126168213.78
+            },
+            "R0200": {
+              "C0010": 116463912
+            },
+            "R0210": {
+              "C0010": 0
+            },
+            "R0220": {
+              "C0010": 9704301.78
+            },
+            "R0230": {
+              "C0010": 2071000
+            },
+            "R0240": {
+              "C0010": 11775301.78
+            },
+            "R0250": {
+              "C0010": 266034030
+            },
+            "R0260": {
+              "C0010": 10402030
+            },
+            "R0270": {
+              "C0010": 32842000
+            },
+            "R0280": {
+              "C0010": 110130000
+            },
+            "R0290": {
+              "C0010": 94000000
+            },
+            "R0300": {
+              "C0010": 1050000
+            },
+            "R0310": {
+              "C0010": 15080000
+            },
+            "R0320": {
+              "C0010": 95745000
+            },
+            "R0330": {
+              "C0010": 12625000
+            },
+            "R0340": {
+              "C0010": 190000
+            },
+            "R0350": {
+              "C0010": 4100000
+            },
+            "R0360": {
+              "C0010": 368000
+            },
+            "R0370": {
+              "C0010": 120082457
+            },
+            "R0380": {
+              "C0010": -78835662.22
+            },
+            "R0390": {
+              "C0010": 965271596
+            },
+            "R0400": {
+              "C0010": 13361
+            }
+          },
+          "2023": {
+            "R0020": {
+              "C0010": 382828044.8
+            },
+            "R0030": {
+              "C0010": 166999481
+            },
+            "R0040": {
+              "C0010": 44894973.86
+            },
+            "R0050": {
+              "C0010": 34859967.94
+            },
+            "R0060": {
+              "C0010": 136073622
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 5373909.89
+            },
+            "R0090": {
+              "C0010": 977571158.03
+            },
+            "R0100": {
+              "C0010": 447009929.93
+            },
+            "R0110": {
+              "C0010": 328085574.15
+            },
+            "R0120": {
+              "C0010": 41582451
+            },
+            "R0130": {
+              "C0010": 64410086
+            },
+            "R0140": {
+              "C0010": 96483116.95
+            },
+            "R0150": {
+              "C0010": -589369203.34
+            },
+            "R0160": {
+              "C0010": 677000000
+            },
+            "R0170": {
+              "C0010": 56164000
+            },
+            "R0180": {
+              "C0010": 23989000
+            },
+            "R0190": {
+              "C0010": 167783796.66
+            },
+            "R0200": {
+              "C0010": 128878000
+            },
+            "R0210": {
+              "C0010": 0
+            },
+            "R0220": {
+              "C0010": 38905796.66
+            },
+            "R0230": {
+              "C0010": 2071000
+            },
+            "R0240": {
+              "C0010": 40976796.66
+            },
+            "R0250": {
+              "C0010": 249200000
+            },
+            "R0260": {
+              "C0010": 10319000
+            },
+            "R0270": {
+              "C0010": 21885000
+            },
+            "R0280": {
+              "C0010": 103342000
+            },
+            "R0290": {
+              "C0010": 99217000
+            },
+            "R0300": {
+              "C0010": 430000
+            },
+            "R0310": {
+              "C0010": 3695000
+            },
+            "R0320": {
+              "C0010": 95773000
+            },
+            "R0330": {
+              "C0010": 15381000
+            },
+            "R0340": {
+              "C0010": 200000
+            },
+            "R0350": {
+              "C0010": 2300000
+            },
+            "R0360": {
+              "C0010": 3726000
+            },
+            "R0370": {
+              "C0010": 35150000
+            },
+            "R0380": {
+              "C0010": -64602203.34
+            },
+            "R0390": {
+              "C0010": 925882820
+            },
+            "R0400": {
+              "C0010": 8800
+            }
+          },
+          "2024": {
+            "R0020": {
+              "C0010": 311595275
+            },
+            "R0030": {
+              "C0010": 95608582
+            },
+            "R0040": {
+              "C0010": 50361982
+            },
+            "R0050": {
+              "C0010": 32090135
+            },
+            "R0060": {
+              "C0010": 133534576
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 465382.78
+            },
+            "R0090": {
+              "C0010": 998650059.31
+            },
+            "R0100": {
+              "C0010": 462332035.09
+            },
+            "R0110": {
+              "C0010": 340521219.88
+            },
+            "R0120": {
+              "C0010": 31228236
+            },
+            "R0130": {
+              "C0010": 63559567
+            },
+            "R0140": {
+              "C0010": 101009001.34
+            },
+            "R0150": {
+              "C0010": -686589401.53
+            },
+            "R0160": {
+              "C0010": 638000000
+            },
+            "R0170": {
+              "C0010": 80845000
+            },
+            "R0180": {
+              "C0010": 26162118
+            },
+            "R0190": {
+              "C0010": 58417716.47
+            },
+            "R0200": {
+              "C0010": 128556000
+            },
+            "R0210": {
+              "C0010": 204294000
+            },
+            "R0220": {
+              "C0010": 134155716.47
+            },
+            "R0230": {
+              "C0010": 13710000
+            },
+            "R0240": {
+              "C0010": 147865716.47
+            },
+            "R0250": {
+              "C0010": 325655331
+            },
+            "R0260": {
+              "C0010": 17319331
+            },
+            "R0270": {
+              "C0010": 21300000
+            },
+            "R0280": {
+              "C0010": 120135000
+            },
+            "R0290": {
+              "C0010": 92735000
+            },
+            "R0300": {
+              "C0010": 26400000
+            },
+            "R0310": {
+              "C0010": 1000000
+            },
+            "R0320": {
+              "C0010": 65515000
+            },
+            "R0330": {
+              "C0010": 12587000
+            },
+            "R0340": {
+              "C0010": 218000
+            },
+            "R0350": {
+              "C0010": 88581000
+            },
+            "R0360": {
+              "C0010": 2883800
+            },
+            "R0370": {
+              "C0010": 206267293
+            },
+            "R0380": {
+              "C0010": 134980197.47
+            },
+            "R0390": {
+              "C0010": 948547359
+            },
+            "R0400": {
+              "C0010": 8380
+            }
+          },
+          "2025": {
+            "R0020": {
+              "C0010": 388835405.73
+            },
+            "R0030": {
+              "C0010": 129262549.67
+            },
+            "R0040": {
+              "C0010": 38818510.75
+            },
+            "R0050": {
+              "C0010": 26395094.36
+            },
+            "R0060": {
+              "C0010": 194359250.95
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 467933.79
+            },
+            "R0090": {
+              "C0010": 1104289969.26
+            },
+            "R0100": {
+              "C0010": 486096758.4
+            },
+            "R0110": {
+              "C0010": 386390132.89
+            },
+            "R0120": {
+              "C0010": 25846924.97
+            },
+            "R0130": {
+              "C0010": 100523631
+            },
+            "R0140": {
+              "C0010": 105432522
+            },
+            "R0150": {
+              "C0010": -714986629.74
+            },
+            "R0160": {
+              "C0010": 648000000
+            },
+            "R0170": {
+              "C0010": 124217000
+            },
+            "R0180": {
+              "C0010": 25853099
+            },
+            "R0190": {
+              "C0010": 83083469.26
+            },
+            "R0200": {
+              "C0010": 137205000
+            },
+            "R0210": {
+              "C0010": 0
+            },
+            "R0220": {
+              "C0010": -54121530.74
+            },
+            "R0230": {
+              "C0010": 1175000
+            },
+            "R0240": {
+              "C0010": -52946530.74
+            },
+            "R0250": {
+              "C0010": 270854583
+            },
+            "R0260": {
+              "C0010": 20333600
+            },
+            "R0270": {
+              "C0010": 20073000
+            },
+            "R0280": {
+              "C0010": 98631000
+            },
+            "R0290": {
+              "C0010": 95356000
+            },
+            "R0300": {
+              "C0010": 550000
+            },
+            "R0310": {
+              "C0010": 2725000
+            },
+            "R0320": {
+              "C0010": 74410983
+            },
+            "R0330": {
+              "C0010": 9227000
+            },
+            "R0340": {
+              "C0010": 196000
+            },
+            "R0350": {
+              "C0010": 47983000
+            },
+            "R0360": {
+              "C0010": 2697000
+            },
+            "R0370": {
+              "C0010": 113463403
+            },
+            "R0380": {
+              "C0010": -148350758.74
+            },
+            "R0390": {
+              "C0010": 1043166183
+            },
+            "R0400": {
+              "C0010": 8430
+            }
+          },
+          "2026": {
+            "R0020": {
+              "C0010": 357475090.04
+            },
+            "R0030": {
+              "C0010": 129691923.15
+            },
+            "R0040": {
+              "C0010": 43760893.49
+            },
+            "R0050": {
+              "C0010": 29055603.63
+            },
+            "R0060": {
+              "C0010": 154966669.77
+            },
+            "R0070": {
+              "C0010": 0
+            },
+            "R0080": {
+              "C0010": 392527.08
+            },
+            "R0090": {
+              "C0010": 1122937024.26
+            },
+            "R0100": {
+              "C0010": 485942618.82
+            },
+            "R0110": {
+              "C0010": 388440540.84
+            },
+            "R0120": {
+              "C0010": 25094209.01
+            },
+            "R0130": {
+              "C0010": 110711143
+            },
+            "R0140": {
+              "C0010": 112748512.59
+            },
+            "R0150": {
+              "C0010": -765069407.14
+            },
+            "R0160": {
+              "C0010": 673000000
+            },
+            "R0170": {
+              "C0010": 144275000
+            },
+            "R0180": {
+              "C0010": 30055213
+            },
+            "R0190": {
+              "C0010": 82260805.86
+            },
+            "R0200": {
+              "C0010": 142753334
+            },
+            "R0210": {
+              "C0010": 0
+            },
+            "R0220": {
+              "C0010": -60492528.14
+            },
+            "R0230": {
+              "C0010": 939000
+            },
+            "R0240": {
+              "C0010": -59553528.14
+            },
+            "R0250": {
+              "C0010": 217240900
+            },
+            "R0260": {
+              "C0010": 5408900
+            },
+            "R0270": {
+              "C0010": 10820000
+            },
+            "R0280": {
+              "C0010": 99032000
+            },
+            "R0290": {
+              "C0010": 95520000
+            },
+            "R0300": {
+              "C0010": 300000
+            },
+            "R0310": {
+              "C0010": 3212000
+            },
+            "R0320": {
+              "C0010": 85884000
+            },
+            "R0330": {
+              "C0010": 10301000
+            },
+            "R0340": {
+              "C0010": 143000
+            },
+            "R0350": {
+              "C0010": 5652000
+            },
+            "R0360": {
+              "C0010": 1563900
+            },
+            "R0370": {
+              "C0010": 42263508
+            },
+            "R0380": {
+              "C0010": -126469203.14
+            },
+            "R0390": {
+              "C0010": 1187839775
+            },
+            "R0400": {
+              "C0010": 8229
+            }
+          }
+        }
+      }
+    },
+    "TOTT": {
+      "k-t16.011": {
+        "title": "Tietoja esiopetuksen taloudesta ja toiminnasta",
+        "columns": {
+          "C0010": "Kaikki toimintakulut",
+          "C0020": "Josta: henkilöstökulut"
+        },
+        "rows": [
+          {
+            "code": "R0005",
+            "label": "Esiopetus"
+          },
+          {
+            "code": "R0010",
+            "label": "Valtionosuusjärjestelmään kuuluva yhteensä"
+          },
+          {
+            "code": "R0020",
+            "label": "Opetus"
+          },
+          {
+            "code": "R0030",
+            "label": "Kuljetus"
+          },
+          {
+            "code": "R0040",
+            "label": "Ruokailu"
+          },
+          {
+            "code": "R0050",
+            "label": "Muu oppilashuolto"
+          },
+          {
+            "code": "R0060",
+            "label": "Hallinto"
+          },
+          {
+            "code": "R0070",
+            "label": "Kiinteistöjen ylläpito"
+          },
+          {
+            "code": "R0080",
+            "label": "Muu esiopetus yhteensä"
+          },
+          {
+            "code": "R0090",
+            "label": "Sairaalaopetus"
+          },
+          {
+            "code": "R0100",
+            "label": "Konsultatiivinen sairaalaopetuspalvelu"
+          },
+          {
+            "code": "R0110",
+            "label": "Varhennettu oppivelvollisuus esiopetus"
+          },
+          {
+            "code": "R0120",
+            "label": "Valtionosuusjärjestelmään kuulumaton yhteensä"
+          },
+          {
+            "code": "R0130",
+            "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset"
+          },
+          {
+            "code": "R0140",
+            "label": "Kotikunnan maksuosuudet"
+          },
+          {
+            "code": "R0150",
+            "label": "Muu valtionosuusjärjestelmään kuulumaton"
+          }
+        ],
+        "values": {
+          "2023": {
+            "R0005": {
+              "C0010": 13767019.88,
+              "C0020": 9965012.47
+            },
+            "R0010": {
+              "C0010": 13767019.88,
+              "C0020": 9965012.47
+            },
+            "R0030": {
+              "C0010": 141716.61,
+              "C0020": 0
+            },
+            "R0040": {
+              "C0010": 1048337.53,
+              "C0020": 0
+            },
+            "R0050": {
+              "C0010": 3673163.87,
+              "C0020": 3583844.78
+            },
+            "R0060": {
+              "C0010": 978736.27,
+              "C0020": 626288.5
+            },
+            "R0070": {
+              "C0010": 330174,
+              "C0020": 2819.73
+            },
+            "R0120": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0130": {
+              "C0010": 1161011.65
+            },
+            "R0140": {
+              "C0010": 452928.85
+            }
+          },
+          "2024": {
+            "R0005": {
+              "C0010": 13045413.15,
+              "C0020": 8779378.96
+            },
+            "R0010": {
+              "C0010": 13045413.15,
+              "C0020": 8779378.96
+            },
+            "R0030": {
+              "C0010": 124101.67,
+              "C0020": 0
+            },
+            "R0040": {
+              "C0010": 1026761.22,
+              "C0020": 0
+            },
+            "R0050": {
+              "C0010": 3238928.79,
+              "C0020": 3120133.98
+            },
+            "R0060": {
+              "C0010": 1088287.25,
+              "C0020": 673149.29
+            },
+            "R0070": {
+              "C0010": 412481,
+              "C0020": 3246.9
+            },
+            "R0120": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0130": {
+              "C0010": 1540397.9
+            },
+            "R0140": {
+              "C0010": 362181.6
+            }
+          },
+          "2025": {
+            "R0005": {
+              "C0010": 12842991.32,
+              "C0020": 9520803.72
+            },
+            "R0010": {
+              "C0010": 12842991.32,
+              "C0020": 9520803.72
+            },
+            "R0030": {
+              "C0010": 212269.92,
+              "C0020": 0
+            },
+            "R0040": {
+              "C0010": 974239.03,
+              "C0020": 0
+            },
+            "R0050": {
+              "C0010": 3360661.37,
+              "C0020": 3278383.41
+            },
+            "R0060": {
+              "C0010": 1097502.36,
+              "C0020": 679096.28
+            },
+            "R0070": {
+              "C0010": 441665,
+              "C0020": 4542.38
+            },
+            "R0120": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0130": {
+              "C0010": 1507401.96
+            },
+            "R0140": {
+              "C0010": 464052.88
+            }
+          }
+        }
+      },
+      "k-t16.012": {
+        "title": "Tietoja perusopetuksen taloudesta ja toiminnasta",
+        "columns": {
+          "C0010": "Kaikki toimintakulut",
+          "C0020": "Josta: henkilöstökulut"
+        },
+        "rows": [
+          {
+            "code": "R0010",
+            "label": "Perusopetus"
+          },
+          {
+            "code": "R0380",
+            "label": "9-vuotinen perusopetus (sis. aineopetuksen)"
+          },
+          {
+            "code": "R0385",
+            "label": "Valtionosuusjärjestelmään kuuluva"
+          },
+          {
+            "code": "R0390",
+            "label": "Opetus"
+          },
+          {
+            "code": "R0400",
+            "label": "Majoitus"
+          },
+          {
+            "code": "R0405",
+            "label": "Kuljetus"
+          },
+          {
+            "code": "R0410",
+            "label": "Ruokailu"
+          },
+          {
+            "code": "R0415",
+            "label": "Muu oppilashuolto"
+          },
+          {
+            "code": "R0420",
+            "label": "Hallinto"
+          },
+          {
+            "code": "R0425",
+            "label": "Kiinteistöjen ylläpito"
+          },
+          {
+            "code": "R0430",
+            "label": "Muu 9-vuotinen perusopetus"
+          },
+          {
+            "code": "R0440",
+            "label": "Sairaalaopetus"
+          },
+          {
+            "code": "R0450",
+            "label": "Konsultatiivinen sairaalaopetuspalvelu"
+          },
+          {
+            "code": "R0455",
+            "label": "Perusopetuksen järjestäminen oppilaalle vamman, sairauden tai toimintakyvyn rajoitteen perusteella oppiaineittain"
+          },
+          {
+            "code": "R0460",
+            "label": "Toiminta-alueittain järjestetty perusopetus"
+          },
+          {
+            "code": "R0465",
+            "label": "Valtionosuusjärjestelmään kuulumaton yhteensä"
+          },
+          {
+            "code": "R0470",
+            "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset"
+          },
+          {
+            "code": "R0480",
+            "label": "Kotikunnan maksuosuudet"
+          },
+          {
+            "code": "R0485",
+            "label": "Muu valtionosuusjärjestelmään kuulumaton"
+          },
+          {
+            "code": "R0490",
+            "label": "Muu perusopetus yhteensä"
+          },
+          {
+            "code": "R0740",
+            "label": "Perusopetukseen valmistava opetus (esi- ja perusopetusikäiset)"
+          },
+          {
+            "code": "R0860",
+            "label": "Aikuisten perusopetus (lasten ja nuorten perusopetusiän ylittäneiden perusopetus, koko oppimäärä)"
+          },
+          {
+            "code": "R0980",
+            "label": "Tutkintokoulutukseen valmentava koulutus perusopetuksen yhteydessä järjestettynä"
+          }
+        ],
+        "values": {
+          "2023": {
+            "R0380": {
+              "C0010": 154791490.99,
+              "C0020": 106886972.2
+            },
+            "R0385": {
+              "C0010": 154791490.99,
+              "C0020": 106886972.2
+            },
+            "R0400": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0405": {
+              "C0010": 1212541.1,
+              "C0020": 0
+            },
+            "R0410": {
+              "C0010": 11225160.73,
+              "C0020": 0
+            },
+            "R0415": {
+              "C0010": 9424752.54,
+              "C0020": 8965812.79
+            },
+            "R0420": {
+              "C0010": 12815262.06,
+              "C0020": 9805278.42
+            },
+            "R0425": {
+              "C0010": 14846121.77,
+              "C0020": 1235726.03
+            },
+            "R0465": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0470": {
+              "C0010": 27994252.59
+            },
+            "R0480": {
+              "C0010": 17744581.48
+            }
+          },
+          "2024": {
+            "R0380": {
+              "C0010": 163102057.65,
+              "C0020": 110683739.57
+            },
+            "R0385": {
+              "C0010": 163102057.65,
+              "C0020": 110683739.57
+            },
+            "R0400": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0405": {
+              "C0010": 1427982.89,
+              "C0020": 0
+            },
+            "R0410": {
+              "C0010": 11362615.56,
+              "C0020": 0
+            },
+            "R0415": {
+              "C0010": 9039123.99,
+              "C0020": 8436236.55
+            },
+            "R0420": {
+              "C0010": 11468919.22,
+              "C0020": 8416864.53
+            },
+            "R0425": {
+              "C0010": 15769798.48,
+              "C0020": 889929.15
+            },
+            "R0465": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0470": {
+              "C0010": 28680974.09
+            },
+            "R0480": {
+              "C0010": 19566052.2
+            }
+          },
+          "2025": {
+            "R0380": {
+              "C0010": 166832588.6,
+              "C0020": 115867068.51
+            },
+            "R0385": {
+              "C0010": 166832588.6,
+              "C0020": 115867068.51
+            },
+            "R0400": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0405": {
+              "C0010": 1324289.6,
+              "C0020": 0
+            },
+            "R0410": {
+              "C0010": 11403141.88,
+              "C0020": 0
+            },
+            "R0415": {
+              "C0010": 11448649.86,
+              "C0020": 10818249.16
+            },
+            "R0420": {
+              "C0010": 12471751.88,
+              "C0020": 9617492.64
+            },
+            "R0425": {
+              "C0010": 16254807.35,
+              "C0020": 1272670
+            },
+            "R0465": {
+              "C0010": 0,
+              "C0020": 0
+            },
+            "R0470": {
+              "C0010": 29681316.65
+            },
+            "R0480": {
+              "C0010": 20670991.91
+            }
+          }
+        }
+      },
+      "k-t16.02": {
+        "title": "Tietoja perusopetuslain mukaisen koululaisten aamu- ja iltapäivätoiminnan taloudesta ja toiminnasta",
+        "columns": {
+          "C0010": "Kaikki toimintakulut",
+          "C0020": "Josta: henkilöstökulut",
+          "C0030": "Kaikki toimintatuotot",
+          "C0040": "Josta: maksutuotot",
+          "C0050": "Palautusjärjestelmän arvonlisävero käyttötaloudesta"
+        },
+        "rows": [
+          {
+            "code": "R0010",
+            "label": "Aamu- ja iltapäivätoiminta, oma toiminta"
+          },
+          {
+            "code": "R0020",
+            "label": "Aamu- ja iltapäivätoiminta, ostopalveluna"
+          },
+          {
+            "code": "R0030",
+            "label": "Aamu- ja iltapäivätoiminta, avustettuna toimintana"
+          }
+        ],
+        "values": {
+          "2023": {
+            "R0010": {
+              "C0010": 5578231.31,
+              "C0020": 3674065.8,
+              "C0030": 1279937.5,
+              "C0040": 1274329.5,
+              "C0050": 171229
+            },
+            "R0020": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0,
+              "C0050": 0
+            },
+            "R0030": {
+              "C0010": 1902693,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0,
+              "C0050": 0
+            }
+          },
+          "2024": {
+            "R0010": {
+              "C0010": 6702829.72,
+              "C0020": 4346717.68,
+              "C0030": 1721585,
+              "C0040": 1721585,
+              "C0050": 130622
+            },
+            "R0020": {
+              "C0010": 418877.18,
+              "C0020": 0,
+              "C0030": 222177,
+              "C0040": 222177,
+              "C0050": 0
+            },
+            "R0030": {
+              "C0010": 944361,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0,
+              "C0050": 0
+            }
+          },
+          "2025": {
+            "R0010": {
+              "C0010": 7794237.31,
+              "C0020": 4923539.87,
+              "C0030": 2372327.5,
+              "C0040": 2372327.5,
+              "C0050": 143325
+            },
+            "R0020": {
+              "C0010": 471491.62,
+              "C0020": 0,
+              "C0030": 254983,
+              "C0040": 254983,
+              "C0050": 0
+            },
+            "R0030": {
+              "C0010": 266625,
+              "C0020": 0,
+              "C0030": 0,
+              "C0040": 0,
+              "C0050": 0
+            }
+          }
+        }
+      },
+      "k-t16.03": {
+        "title": "Tietoja lukiokoulutuksen taloudesta ja toiminnasta",
+        "columns": {
+          "C0010": "Kaikki toimintakulut",
+          "C0020": "Josta: henkilöstökulut",
+          "C0030": "Palautusjärjestelmän arvonlisävero käyttötaloudesta",
+          "C0040": "Kaikki toimintatuotot"
+        },
+        "rows": [
+          {
+            "code": "R0010",
+            "label": "Yleinen lukiokoulutus"
+          },
+          {
+            "code": "R0020",
+            "label": "Valtionosuusjärjestelmään kuuluva"
+          },
+          {
+            "code": "R0040",
+            "label": "Opetus"
+          },
+          {
+            "code": "R0045",
+            "label": "Oppimateriaalit ja välineet"
+          },
+          {
+            "code": "R0050",
+            "label": "Majoitus"
+          },
+          {
+            "code": "R0060",
+            "label": "Oppivelvollisuuslain mukaiset matkakorvaukset"
+          },
+          {
+            "code": "R0070",
+            "label": "Ruokailu"
+          },
+          {
+            "code": "R0080",
+            "label": "Muu opiskelijahuolto"
+          },
+          {
+            "code": "R0090",
+            "label": "Hallinto"
+          },
+          {
+            "code": "R0100",
+            "label": "Kiinteistöjen ylläpito"
+          },
+          {
+            "code": "R0110",
+            "label": "Tutkintokoulutukseen valmentava koulutus (sisältyy valtionosuusjärjestelmään kuuluviin kustannuksiin sekä toimintoihin)"
+          },
+          {
+            "code": "R0120",
+            "label": "Valtionosuusjärjestelmään kuulumaton yhteensä"
+          },
+          {
+            "code": "R0130",
+            "label": "Sisäisiin vuokriin sisältyvät pääomakustannukset"
+          },
+          {
+            "code": "R0140",
+            "label": "Kotikunnan maksuosuudet"
+          },
+          {
+            "code": "R0155",
+            "label": "Lukuvuosimaksullisten opiskelijoiden (lukiolaki 34 a §)  koulutuksen toimintakulut ja lukuvuosimaksut"
+          },
+          {
+            "code": "R0160",
+            "label": "Muut valtionosuusjärjestelmään kuulumattomat toimintakulut  ja toimintatuotot"
+          }
+        ],
+        "values": {
+          "2023": {
+            "R0010": {
+              "C0010": 31962071.81,
+              "C0020": 22846562.51,
+              "C0030": 1553344.95
+            },
+            "R0020": {
+              "C0010": 29876819.52,
+              "C0020": 21922800.45,
+              "C0030": 1477069.61
+            },
+            "R0040": {
+              "C0010": 19241990.86,
+              "C0020": 18333549.93,
+              "C0030": 181893.55
+            },
+            "R0045": {
+              "C0010": 1810292.15,
+              "C0030": 252886.77
+            },
+            "R0050": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0060": {
+              "C0010": 0,
+              "C0030": 0
+            },
+            "R0070": {
+              "C0010": 1629029.89,
+              "C0020": 0,
+              "C0030": 227113.54
+            },
+            "R0080": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0090": {
+              "C0010": 4592653.66,
+              "C0020": 3334530.96,
+              "C0030": 251623.74
+            },
+            "R0100": {
+              "C0010": 2602852.96,
+              "C0020": 254719.56,
+              "C0030": 563552.01
+            },
+            "R0110": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0120": {
+              "C0010": 2085252.29,
+              "C0020": 923762.06,
+              "C0030": 76275.34
+            },
+            "R0130": {
+              "C0010": 3670167.12
+            },
+            "R0140": {
+              "C0010": 0
+            }
+          },
+          "2024": {
+            "R0010": {
+              "C0010": 34332143.4,
+              "C0020": 23920582.29,
+              "C0030": 1796538
+            },
+            "R0020": {
+              "C0010": 32032906.39,
+              "C0020": 23173534.48,
+              "C0030": 1698565.86
+            },
+            "R0040": {
+              "C0010": 20475596.28,
+              "C0020": 19324497.05,
+              "C0030": 241730.84
+            },
+            "R0045": {
+              "C0010": 2047022.82,
+              "C0030": 321018.65
+            },
+            "R0050": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0060": {
+              "C0010": 0,
+              "C0030": 0
+            },
+            "R0070": {
+              "C0010": 1806727.69,
+              "C0020": 0,
+              "C0030": 252083.53
+            },
+            "R0080": {
+              "C0010": 53381.1,
+              "C0020": 51920.19,
+              "C0030": 306.79
+            },
+            "R0090": {
+              "C0010": 4859699.1,
+              "C0020": 3513611.01,
+              "C0030": 269217.62
+            },
+            "R0100": {
+              "C0010": 2790479.4,
+              "C0020": 283506.23,
+              "C0030": 614208.43
+            },
+            "R0110": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0120": {
+              "C0010": 2299237.01,
+              "C0020": 747047.81,
+              "C0030": 97972.14
+            },
+            "R0130": {
+              "C0010": 4475140.09
+            },
+            "R0140": {
+              "C0010": 0
+            }
+          },
+          "2025": {
+            "R0010": {
+              "C0010": 35664673.65,
+              "C0020": 24988292.25,
+              "C0030": 1982132.26
+            },
+            "R0020": {
+              "C0010": 34155868.32,
+              "C0020": 24708825.54,
+              "C0030": 1892677.04
+            },
+            "R0040": {
+              "C0010": 22317577.58,
+              "C0020": 20852949.88,
+              "C0030": 319919.62
+            },
+            "R0045": {
+              "C0010": 2136741.82,
+              "C0030": 368354.8
+            },
+            "R0050": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0060": {
+              "C0010": 0,
+              "C0030": 0
+            },
+            "R0070": {
+              "C0010": 1829165.23,
+              "C0020": 0,
+              "C0030": 256083.13
+            },
+            "R0080": {
+              "C0010": 34048.28,
+              "C0020": 0,
+              "C0030": 8682.31
+            },
+            "R0090": {
+              "C0010": 4969845.89,
+              "C0020": 3590026.71,
+              "C0030": 275963.83
+            },
+            "R0100": {
+              "C0010": 2868489.52,
+              "C0020": 265848.95,
+              "C0030": 663673.35
+            },
+            "R0110": {
+              "C0010": 0,
+              "C0020": 0,
+              "C0030": 0
+            },
+            "R0120": {
+              "C0010": 1508805.33,
+              "C0020": 279466.71,
+              "C0030": 89455.22
+            },
+            "R0130": {
+              "C0010": 4808676.18
+            },
+            "R0140": {
+              "C0010": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}
